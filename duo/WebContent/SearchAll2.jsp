@@ -350,8 +350,7 @@ $(document).ready(function(){
 							</span>
 							<span style="display:block; float:left; width:379px;">
 							
-								<!-- <span class="line"></span> -->
-								<a href="/duo/member/member_propose.asp?idx=7057" class="propose" style="margin-left:250px">프로포즈</a>
+							<input type='button' value='하트보내기' class='btn'/>
 							</span>
 						</span>
 					</li>
