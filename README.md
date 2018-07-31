@@ -44,16 +44,6 @@
 
 
 
-
-### * 선택한 조건에 따라 가입돼 있는 이성 표시
-![5-4](https://user-images.githubusercontent.com/32383284/43458223-5ed42600-9504-11e8-94a7-c8fe3e937d9b.PNG)
-
-
-
-
-
-
-
 ### * 선택한 조건에 따라 가입되어 있는 이성 표시
 ### * 더보기 클릭시 이성 상세 보기와 조건 변경 후 재 검색 가능 하트 보내기 가능
 ![5-4](https://user-images.githubusercontent.com/32383284/43458223-5ed42600-9504-11e8-94a7-c8fe3e937d9b.PNG)
