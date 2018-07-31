@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<!DOCTYPE mapper
+PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd"> 
+<mapper namespace="mybatis.mapper.ListMapper"> 
+<select id="selectOut" parameterType="hashmap" resultType="HeartAndMember">
+select h.h_no hNo,h.h_receiveid hReceiveid ,
+m.m_name mName ,
+nvl(TRUNC(MONTHS_BETWEEN(sysdate, TO_DATE(substr(M_BIRTH, 1, 4),'yyyy'))/12)+1, 0) mBirth ,
+h.h_stat hStat
+from duoheart h,duomember m
+<where>
+	h.h_receiveid=m.m_id and h.h_sendid=#{userId}
+</where>
+</select>
+<select id="selectIn" parameterType="String" resultType="HeartAndMember">
+select h.h_no hNo,h.h_sendid hSendid,
+m.m_name mName,
+nvl(TRUNC(MONTHS_BETWEEN(sysdate, TO_DATE(substr(M_BIRTH, 1, 4),'yyyy'))/12)+1, 0) mbirth ,
+h.h_stat hstat
+from duoheart h , duomember m
+<where>
+	h.h_sendid=m.m_id and  h.h_receiveid=#{userId}
+</where>
+
+</select>
+
+
+</mapper>

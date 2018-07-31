@@ -1,0 +1,37 @@
+#fast_pop_bg { opacity:0.8; filter:alpha(opacity:'80'); position:fixed; top:0; right:0; bottom:0; left:0; z-index:100000; background-color:rgb(0, 0, 0); display:; }
+#fast_consult_popup { font-family:Malgun Gothic, ���� ���, Dotum, ����, Gulim, ����; opacity:1; position:fixed; overflow:hidden; z-index:100001; width:100%; height:100%; top:0; left:0; text-align:center; display:; }
+#fast_consult_popup .align { display:inline-block; vertical-align:middle; height:100%; }
+#fast_consult_popup .content { display:inline-block; opacity:1; visibility:visible; outline:none; text-align:left; position:relative; vertical-align:middle; }
+#fast_consult_popup .content .type1 { float:left; width:100%; min-width:432px; height:619px; }
+#fast_consult_popup .content .type2 { float:left; width:432px; height:619px; position:relative; }
+#fast_consult_popup .content .type3 { display:block; margin:0 auto; width:330px; height:619px; background:url(/duo/include/img/fast_01.png) left top no-repeat; }
+#fast_consult_popup .content .type4 { display:block; float:left; margin:64px 5px 0; padding:122px 25px 0; width:270px; height:359px; background:url(/duo/include/img/fast_02.gif) left top no-repeat; }
+#fast_consult_popup .content a.close { display:block; position:absolute; right:0; top:0; width:24px; height:24px; background:url(/duo/service/img/new_marriage_24.png) center center no-repeat; font-size:0; line-height:100%; }
+#fast_consult_popup .content form { display:block; float:left; width:270px; height:359px; }
+#fast_consult_popup .content form table { width:100%; }
+#fast_consult_popup .content form table td { padding:0 0 12px 0; }
+#fast_consult_popup .content form table input[type=text] { height:41px; line-height:41px; padding:0 5px; font-family:Malgun Gothic, ���� ���, Dotum, ����, Gulim, ����; background:#ffffff; border:1px solid #ffffff; font-size:16px; color:#535353; }
+#fast_consult_popup .content form table select { height:44px; font-family:Malgun Gothic, ���� ���, Dotum, ����, Gulim, ����; background:#ffffff; border:1px solid #ffffff; font-size:16px; color:#535353; }
+#fast_consult_popup .content form table select { height:auto; padding:9px 0;\0/ie8+9; }
+#fast_consult_popup .content form table input[type=radio] { position:absolute; z-index:-1; left:0; top:0; }
+#fast_consult_popup .content form table .field1 { width:130px; }
+#fast_consult_popup .content form table .field2 { display:block; float:left; width:100px; }
+#fast_consult_popup .content form table .field3 { display:block; float:left; width:70px; }
+#fast_consult_popup .content form table .m { display:block; float:left; width:64px; height:43px; background:#ffffff url(/duo/duostory/img/m_off.png) center center no-repeat; position:relative; }
+#fast_consult_popup .content form table .m_on { display:block; float:left; width:64px; height:43px; background:#6f7e91 url(/duo/duostory/img/m_on.png) center center no-repeat; position:relative; }
+#fast_consult_popup .content form table .w { display:block; float:left; width:64px; height:43px; background:#ffffff url(/duo/duostory/img/w_off.png) center center no-repeat; position:relative; }
+#fast_consult_popup .content form table .w_on { display:block; float:left; width:64px; height:43px; background:#6f7e91 url(/duo/duostory/img/w_on.png) center center no-repeat; position:relative; }
+#fast_consult_popup .content form table .off { display:inline-block; width:63px; height:43px; background:#ffffff; font-size:16px; color:#6f7e91; text-align:center; line-height:42px; position:relative; }
+#fast_consult_popup .content form table .on { display:inline-block; width:63px; height:43px; background:#6f7e91; font-size:16px; color:#ffffff; text-align:center; line-height:42px; position:relative; }
+#fast_consult_popup .content form table .submit { display:block; float:left; width:348px; height:54px; background:url(/duo/duostory/img/manager_40.gif) left top no-repeat; font-size:0; line-height:100; }
+#fast_consult_popup .content form table .privacy { display:block; float:left; width:100%; position:relative; }
+#fast_consult_popup .content form table .privacy .check1 { display:block; float:left; margin:0 0 3px 0; width:100%; font-size:11px; color:#ffffff; }
+#fast_consult_popup .content form table .privacy .check2 { display:block; float:left; font-size:10px; color:#ffffff; text-decoration:underline; }
+#fast_consult_popup .content form table .privacy input[type=checkbox] { vertical-align:middle; }
+#fast_consult_popup .content form table .privacy .temp1 { display:block; float:left; width:100%; position:absolute; top:-185px; left:0; background:#ffffff; display:none; }
+#fast_consult_popup .content form table .privacy .temp2 { display:block; float:left; padding:10px; width:250px; position:relative; background:#ffffff; }
+#fast_consult_popup .content form table .privacy .temp2 span.txt-type1 { display:block; float:left; margin:0 0 10px 0; width:100%; font-size:12px; color:#000000; font-weight:600; line-height:14px; }
+#fast_consult_popup .content form table .privacy .temp2 span.txt-type2 { display:block; float:left; margin:0 0 10px 0; width:100%; height:60px; border:1px solid #e2e2e2; font-size:12px; color:#555555; overflow-y:auto; }
+#fast_consult_popup .content form table .privacy .temp2 span.txt-type3 { display:block; float:left; margin:0 0 10px 0; width:100%; font-size:12px; color:#000000; font-weight:600; line-height:14px; }
+#fast_consult_popup .content form table .privacy .temp2 span.txt-type4 { display:block; float:left; width:100%; height:60px; border:1px solid #e2e2e2; font-size:12px; color:#555555; overflow-y:auto; }
+#fast_consult_popup .content form table .privacy .temp2 a { display:block; position:absolute; right:8px; top:8px; width:9px; height:9px; background:url(/duo/main_img_2016/close_01.gif) center center no-repeat; font-size:0; line-height:100%;" }

@@ -1,0 +1,3057 @@
+/*����̾߱�_Ŀ�øŴ����Ұ�*/
+.d_m_Label-1 {
+	float:left;
+	width:100px;
+	height:22px;
+	line-height:22px;
+	}
+.d_m_Label-2 {
+	float:left;
+	width:105px;
+	height:22px;
+	line-height:22px;
+	}
+.d_m_Label-3 {
+	float:left;
+	height:22px;
+	line-height:22px;
+	}
+.d_m_Label-4 {
+	float:left;
+	margin:0 5px;
+	height:22px;
+	font-size:11px;
+	line-height:22px;
+	}
+.d_m_Label-5 {
+	margin:20px 0 10px 0;
+	width:690px;
+	font-size:14px;
+	font-weight:bold;
+	overflow:hidden;
+	}
+.d_m_Label-6 {
+	font-size:12px;
+	}
+
+.d_m_Input-1 {
+	float:left;
+	width:100px;
+	height:16px;
+	}
+.d_m_Input-2 {
+	float:left;
+	width:70px;
+	height:16px;
+	}
+.d_m_Input-3 {
+	float:left;
+	}
+.d_m_Input-4 {
+	float:left;
+	width:130px;
+	height:16px;
+	}
+.d_m_Input-5 {
+	float:left;
+	width:30px;
+	height:16px;
+	}
+.d_m_Input-6 {
+	float:left;
+	width:130px;
+	height:22px;
+	font-family:Dotum;
+	}
+.d_m_Input-7 {
+	float:left;
+	width:65px;
+	height:22px;
+	font-family:Dotum;
+	}
+.d_m_Input-8 {
+	float:left;
+	width:150px;
+	height:22px;
+	font-family:Dotum;
+	}
+.d_m_Input-9 {
+	float:left;
+	width:110px;
+	height:22px;
+	font-family:Dotum;
+	}
+.d_m_Input-10 {
+	margin:5px 0;
+	width:328px;
+	height:38px;
+	border:1px solid #cecece;
+	font-size:11px;
+	color:#5a5a5a;
+	overflow:auto;
+	}
+.d_m_Input-11 {
+	padding:0;
+	vertical-align:middle;
+	}
+	
+.d_m_Btn-1 {
+	display:block;
+	float:left;
+	margin:3px 0 0 10px;
+	}
+.d_m_Btn-2 {
+	display:block;
+	margin:0 auto;
+	}
+.d_m_Btn-3 {
+	margin:0 0 0 8px;
+	vertical-align:middle;
+	}
+
+.d_m_privacy_check {
+	margin:5px 0;
+	width:690px;
+	overflow:hidden;
+	}
+.d_m_privacy {
+	margin:5px 0;
+	padding:5px;
+	width:678px;
+	height:38px;
+	border:1px solid #cecece;
+	font-size:12px;
+	color:#5a5a5a;
+	overflow:auto;
+	}
+
+/*����̾߱�_������Ʈ��_ȸ��Ұ�_������Ʈ��*/
+.partner_Form {
+	margin:0;
+	padding:0;
+	border:0;
+	}
+.partner_Fieldset {
+	margin:0 auto;
+	width:500px;
+	border:0;
+	font-size:12px;
+	color:#575757;
+	}
+	.partner_Fieldset .hiddenL {
+		position:absolute;
+		visibility:hidden;
+		top:0;
+		left:0;
+		display:none;
+		}
+	.partner_Fieldset .row {
+		margin:15px 0;
+		width:500px;
+		overflow:hidden;
+		}
+		.partner_Fieldset .section-1 {
+			float:left;
+			margin:0 10px 0 0;
+			width:240px;
+			overflow:hidden;
+			}
+		.partner_Fieldset .section-2 {
+			float:left;
+			margin:0 0 0 10px;
+			width:240px;
+			overflow:hidden;
+			}
+.partner_Label-1 {
+	float:left;
+	width:60px;
+	height:22px;
+	line-height:22px;
+	}
+.partner_Label-2 {
+	float:left;
+	height:22px;
+	line-height:22px;
+	}
+.partner_Label-3 {
+	float:left;
+	margin:0 10px 0 0;
+	height:30px;
+	line-height:30px;
+	}
+
+.partner_Input-1 {
+	float:left;
+	width:130px;
+	height:16px;
+	}
+.partner_Input-2 {
+	float:left;
+	width:30px;
+	height:16px;
+	}
+.partner_Input-3 {
+	float:left;
+	width:100px;
+	height:16px;
+	}
+.partner_Input-4 {
+	float:left;
+	width:70px;
+	height:22px;
+	font-family:Dotum;
+	}
+.partner_Input-5 {
+	float:left;
+	width:160px;
+	height:22px;
+	font-family:Dotum;
+	}
+.partner_Input-6 {
+	float:left;
+	width:350px;
+	height:48px;
+	}
+.partner_Input-7 {
+	float:left;
+	}
+.partner_Input-8 {
+	display:block;
+	float:left;
+	margin:0 0 0 10px;
+	height:30px;
+	}
+.partner_Input-9 {
+	float:left;
+	margin:4px 0 0 0;
+	width:130px;
+	height:16px;
+	}
+
+.partner_Btn-1 {
+	display:block;
+	margin:30px auto 0;
+	border:0;
+	}
+.partner_Btn-2 {
+	margin:0 0 0 8px;
+	vertical-align:middle;
+	border:0;
+	}
+.partner_Btn-3 {
+	display:block;
+	margin:52px auto 0;
+	}
+
+.partner_privacy_check {
+	width:500px;
+	overflow:hidden;
+	}
+.partner_privacy {
+	margin:5px auto;
+	padding:5px;
+	width:480px;
+	height:30px;
+	background:#ffffff;
+	border:1px solid #cecece;
+	font-size:12px;
+	color:#5a5a5a;
+	overflow:auto;
+	}
+
+.partner_Label-4 {
+	font-weight:bold;
+	}
+.partner_Label-5 {
+	margin:5px 0 3px;
+	font-size:11px;
+	}
+.partner_Input-10 {
+	margin:5px 0;
+	width:238px;
+	height:40px;
+	background:#ffffff;
+	border:1px solid #cecece;
+	font-size:11px;
+	color:#5a5a5a;
+	overflow:auto;
+	}
+.partner_Input-11 {
+	padding:0;
+	vertical-align:middle;
+	}
+
+/*��ȥĿ��_��ȥĿ�ø���Ʈ*/
+.couplelist_Form {
+	margin:0;
+	padding:0;
+	}
+.couplelist_Fieldset {
+	margin:0;
+	padding:0;
+	text-align:right;
+	}
+	.couplelist_Fieldset .hiddenL {
+		position:absolute;
+		visibility:hidden;
+		top:0;
+		left:0;
+		display:none;
+		}
+		.coupleInput-1 {
+			height:18px;
+			font-size:11px;
+			color:#2c2c2c;
+			}
+
+/*�̺�Ʈ_�����Խ���*/
+.freeboard_Form {
+	margin:0;
+	padding:0;
+	width:680px;
+	}
+.freeboard_Fieldset {
+	width:680px;
+	border-top:2px solid #e96a5b;
+	color:#6c6c6c;
+	}
+	.freeboard_Fieldset .hiddenL {
+		position:absolute;
+		visibility:hidden;
+		top:0;
+		left:0;
+		}
+	.freeboard_Fieldset .row {
+		padding:10px 15px;
+		width:650px;
+		border-bottom:1px solid #e3e3e3;
+		line-height:22px;
+		overflow:hidden;
+		}
+	.freeboard_Fieldset .btnWrap {
+		margin:20px auto;
+		width:260px;
+		overflow:hidden;
+		}
+		.freeboard_Fieldset .btnWrap .btnImg-1 {
+			display:block;
+			float:left;
+			}
+		.freeboard_Fieldset .btnWrap .btnImg-2 {
+			display:block;
+			float:right;
+			}
+		.freeboard_Fieldset .boardLabel-1 {
+			float:left;
+			width:150px;
+			font-weight:bold;
+			line-height:22px;
+			}
+		.freeboard_Fieldset .boardLabel-2 {
+			float:left;
+			width:400px;
+			line-height:22px;
+			}
+		.freeboard_Fieldset .boardInput-1 {
+			float:left;
+			width:400px;
+			height:18px;
+			border:1px solid #b8b8b8;
+			}
+		.freeboard_Fieldset .boardInput-2 {
+			float:left;
+			width:450px;
+			height:300px;
+			border:1px solid #b8b8b8;
+			}
+
+/*�̺�Ʈ_��������*/
+.propose_Form {
+	margin:0;
+	padding:0;
+	}
+.propose_Fieldset {
+	margin:0;
+	padding:0;
+	overflow:hidden;
+	}
+	.propose_Fieldset .hiddenL {
+		position:absolute;
+		visibility:hidden;
+		top:0;
+		left:0;
+		display:none;
+		}
+		.propose_Fieldset .proposeInput-1 {
+			float:left;
+			width:100px;
+			height:21px;
+			font-family:Dotum;
+			font-size:11px;
+			color:#4e4e4e;
+			}
+		.propose_Fieldset .proposeBtn-1 {
+			display:block;
+			float:left;
+			margin:0 0 0 5px;
+			}
+
+/*ȸ������_�α���*/
+.loginForm {
+	margin:0;
+	padding:0;
+	width:348px;
+	}
+.loginFieldset {
+	width:348px;
+	overflow:hidden;
+	}
+	.loginFieldset .hiddenL {
+		position:absolute;
+		visibility:hidden;
+		top:0;
+		left:0;
+		display:none;
+		}
+		.loginFieldset .row {
+			margin:0 0 10px 0;
+			width:258px;
+			overflow:hidden;
+			}
+	.loginFieldset .loginLink {
+		display:block;
+		float:right;
+		width:88px;
+		height:72px;
+		background:#ff482c;
+		border:1px solid #ff0000;
+		font-size:14px;
+		color:#ffffff;
+		font-weight:bold;
+		text-align:center;
+		line-height:72px;
+		}
+	.loginFieldset .loginLabel-1 {
+		float:left;
+		width:80px;
+		height:32px;
+		font-size:14px;
+		color:#000000;
+		line-height:32px;
+		}
+	.loginFieldset .loginInput-1 {
+		float:left;
+		width:150px;
+		height:28px;
+		border:1px solid #aeb3b9;
+		font-family:Dotum;
+		font-size:14px;
+		color:#000000;
+		line-height:28px;
+		}
+
+/*��������ũ_FAQ*/
+.faq_Form {
+	margin:40px 0 20px;
+	width:778px;
+	overflow:hidden;
+	}
+	.faq_Fieldset {
+		float:right;
+		}
+	.faq_Fieldset .hiddenL {
+		position:absolute;
+		visibility:hidden;
+		top:0;
+		left:0;
+		}
+		.faq_Fieldset .row {
+			overflow:hidden;
+			}
+			.faq_Fieldset .faqLabel-1 {
+				float:left;
+				font-size:16px;
+				color:#000000;
+				font-weight:bold;
+				line-height:32px;
+				}
+			.faq_Fieldset .faqInput-1 {
+				float:left;
+				margin:0 0 0 10px;
+				width:200px;
+				height:28px;
+				border:1px solid #cfcfcf;
+				font-size:16px;
+				line-height:28px;
+				}
+			.faq_Fieldset .faqBtn-1 {
+				display:block;
+				float:left;
+				}
+
+/*��������ũ_ȸ��Ż��*/
+.secession_Form {
+	margin:0;
+	padding:0;
+	}
+.secession_Fieldset {
+	margin:30px 0;
+	width:778px;
+	font-size:12px;
+	color:#575757;
+	}
+	.secession_Fieldset .hiddenL {
+		position:absolute;
+		visibility:hidden;
+		top:0;
+		left:0;
+		display:none;
+		}
+	.secession_Fieldset .boxWrap {
+		padding:0 30px;
+		width:718px;
+		background:#f9f9f9;
+		border-top:1px solid #a7a7a7;
+		border-bottom:1px solid #a7a7a7;
+		}
+		.secession_Fieldset .row {
+			margin:20px 0;
+			overflow:hidden;
+			}
+			.secession_Fieldset .s_Label-1 {
+				float:left;
+				width:180px;
+				font-weight:bold;
+				line-height:18px;
+				}
+			.secession_Fieldset .s_Label-2 {
+				float:left;
+				width:359px;
+				font-size:14px;
+				line-height:22px;
+				}
+			.secession_Fieldset .s_Input-1 {
+				float:left;
+				width:520px;
+				height:80px;
+				border:1px solid #b8b8b8;
+				}
+		.secession_Fieldset .btnWrap {
+			margin:30px auto;
+			width:330px;
+			overflow:hidden;
+			}
+			.secession_Fieldset .btnImg-1 {
+				display:block;
+				float:left;
+				}
+			.secession_Fieldset .btnImg-2 {
+				display:block;
+				float:right;
+				}
+
+/*ȸ������*/
+.join_Form {
+	margin:0;
+	padding:0;
+	}
+	.join_Fieldset {
+		margin:0;
+		padding:0;
+		width:778px;
+		color:#575757;
+		}
+	.join_Fieldset .hiddenL {
+		position:absolute;
+		visibility:hidden;
+		top:0;
+		left:0;
+		display:none;
+		}
+	.join_Fieldset .joinWrap {
+		margin:15px 0;
+		padding:15px 15px 0;
+		width:748px;
+		background:#f9f9f9;
+		border-top:1px solid #a7a7a7;
+		border-bottom:1px solid #a7a7a7;
+		}
+		.join_Fieldset .row {
+			margin:0 0 15px 0;
+			width:748px;
+			font-size:14px;
+			color:#575757;
+			font-weight:bold;
+			overflow:hidden;
+			}
+		.join_Fieldset .section-1 {
+			float:left;
+			width:374px;
+			}
+		.join_Fieldset .section-2 {
+			float:left;
+			width:598px;
+			}
+		.join_Fieldset .section-3 {
+			width:598px;
+			overflow:hidden;
+			}
+			.join_Fieldset .joinTxt-4 {
+				float:left;
+				margin:0 0 0 8px;
+				font-size:11px;
+				font-weight:normal;
+				line-height:21px;
+				}
+			.join_Fieldset .joinTxt-5 {
+				float:left;
+				margin:0 5px;
+				font-weight:normal;
+				line-height:21px;
+				}
+			.join_Fieldset .joinTxt-6 {
+				margin:5px 0 0 150px;
+				width:598px;
+				font-size:11px;
+				font-weight:normal;
+				line-height:18px;
+				}
+			.join_Fieldset .joinTxt-7 {
+				float:left;
+				font-size:11px;
+				font-weight:normal;
+				line-height:21px;
+				}
+			.join_Fieldset .joinLabel-1 {
+				float:left;
+				width:150px;
+				line-height:21px;
+				}
+			.join_Fieldset .joinLabel-2 {
+				float:left;
+				width:100px;
+				line-height:21px;
+				}
+			.join_Fieldset .joinLabel-3 {
+				float:left;
+				margin:0 10px 0 0;
+				font-weight:normal;
+				line-height:21px;
+				}
+			.join_Fieldset .joinLabel-4 {
+				float:left;
+				margin:0 5px;
+				font-size:11px;
+				font-weight:normal;
+				line-height:21px;
+				}
+			.join_Fieldset .joinLabel-5 {
+				float:left;
+				width:100px;
+				font-size:12px;
+				font-weight:normal;
+				line-height:21px;
+				}
+			.join_Fieldset .joinLabel-6 {
+				float:left;
+				font-size:12px;
+				font-weight:normal;
+				line-height:21px;
+				}
+
+			.join_Fieldset .joinInput-1 {
+				float:left;
+				width:160px;
+				}
+			.join_Fieldset .joinInput-2 {
+				float:left;
+				width:160px;
+				height:15px;
+				}
+			.join_Fieldset .joinInput-3 {
+				float:left;
+				width:60px;
+				height:21px;
+				font-family:Dotum;
+				font-size:12px;
+				}
+			.join_Fieldset .joinInput-4 {
+				float:left;
+				margin:4px 4px 0 0;
+				padding:0;
+				width:13px;
+				height:13px;
+				}
+			.join_Fieldset .joinInput-5 {
+				float:left;
+				width:130px;
+				}
+			.join_Fieldset .joinInput-6 {
+				float:left;
+				width:160px;
+				height:21px;
+				font-family:Dotum;
+				font-size:12px;
+				}
+			.join_Fieldset .joinInput-7 {
+				float:left;
+				margin:0 0 0 5px;
+				}
+			.join_Fieldset .joinInput-8 {
+				float:left;
+				width:40px;
+				}
+			.join_Fieldset .joinInput-9 {
+				float:left;
+				width:130px;
+				height:21px;
+				font-family:Dotum;
+				font-size:12px;
+				}
+			.join_Fieldset .joinInput-10 {
+				float:left;
+				width:150px;
+				height:21px;
+				font-family:Dotum;
+				font-size:12px;
+				}
+			.join_Fieldset .joinInput-11 {
+				float:left;
+				margin:0 10px;
+				width:200px;
+				}
+			.join_Fieldset .joinInput-12 {
+				float:left;
+				margin:4px 7px 0 0;
+				padding:0;
+				width:13px;
+				height:13px;
+				}
+			.join_Fieldset .joinBtn-1 {
+				display:block;
+				float:left;
+				margin:0 10px;
+				}
+			.join_Fieldset .joinBtn-2 {
+				display:block;
+				margin:10px auto;
+				}
+			.join_Fieldset .joinBtn-3 {
+				display:block;
+				float:left;
+				}
+			.join_Fieldset .joinBtn-4 {
+				display:block;
+				float:right;
+				}
+
+/*�ȳ��ڷ��û*/
+.marriage_Form {
+	margin:0;
+	padding:0;
+	}
+	.marriage_Fieldset {
+		margin:0;
+		padding:0;
+		width:778px;
+		}
+	.marriage_Fieldset .hiddenL {
+		position:absolute;
+		visibility:hidden;
+		top:0;
+		left:0;
+		display:none;
+		}
+		.marriage_Fieldset .inputWrap {
+			padding:30px;
+			width:718px;
+			height:600px;
+			background:url(/duo/membership/img/guideBg_01.jpg) no-repeat left top;
+			overflow:hidden;
+			}
+		.marriage_Fieldset .row {
+			margin:20px 0;
+			width:718px;
+			font-size:12px;
+			color:#575757;
+			font-weight:bold;
+			overflow:hidden;
+			}
+		.marriage_Fieldset .check_row {
+			margin:8px 0;
+			width:718px;
+			font-size:12px;
+			color:#575757;
+			font-weight:bold;
+			overflow:hidden;
+			}
+		.marriage_Fieldset .section-1 {
+			float:left;
+			width:270px;
+			overflow:hidden;
+			}
+		.marriage_Fieldset .section-2 {
+			float:left;
+			width:190px;
+			overflow:hidden;
+			}
+		.marriage_Fieldset .section-3 {
+			float:left;
+			width:258px;
+			overflow:hidden;
+			}
+		.marriage_Fieldset .section-4 {
+			float:left;
+			width:447px;
+			overflow:hidden;
+			}
+			.marriage_Fieldset .guideTxt-1 {
+				float:left;
+				margin:0 3px;
+				font-size:11px;
+				font-weight:normal;
+				line-height:21px;
+				}
+			.marriage_Fieldset .m_Label-1 {
+				float:left;
+				width:80px;
+				line-height:21px;
+				}
+			.marriage_Fieldset .m_Label-2 {
+				float:left;
+				width:120px;
+				line-height:21px;
+				}
+			.marriage_Fieldset .m_Label-3 {
+				float:left;
+				width:40px;
+				line-height:21px;
+				}
+			.marriage_Fieldset .m_Label-4 {
+				float:left;
+				margin:0 10px 0 0;
+				font-weight:normal;
+				line-height:21px;
+				}
+			.marriage_Fieldset .m_Label-5 {
+				float:left;
+				margin:0 5px;
+				font-weight:normal;
+				line-height:21px;
+				}
+			.marriage_Fieldset .m_Label-6 {
+				float:left;
+				margin:0 10px 0 0;
+				width:10px;
+				font-weight:normal;
+				line-height:21px;
+				}
+			.marriage_Fieldset .m_Label-7 {
+				float:left;
+				margin:0 10px 0 0;
+				width:30px;
+				font-weight:normal;
+				line-height:21px;
+				}
+			.marriage_Fieldset .m_Label-8 {
+				font-size:12px;
+				font-weight:bold;
+				}
+			.marriage_Fieldset .m_Label-9 {
+				margin:8px 0 5px;
+				font-size:12px;
+				color:#5a5a5a;
+				}
+			.marriage_Fieldset .m_Input-1 {
+				float:left;
+				width:90px;
+				}
+			.marriage_Fieldset .m_Input-2 {
+				float:left;
+				width:50px;
+				}
+			.marriage_Fieldset .m_Input-3 {
+				float:left;
+				margin:4px 4px 4px 0;
+				padding:0;
+				width:13px;
+				height:13px;
+				}
+			.marriage_Fieldset .m_Input-4 {
+				float:left;
+				width:130px;
+				height:21px;
+				font-family:Dotum;
+				font-size:12px;
+				}
+			.marriage_Fieldset .m_Input-5 {
+				float:left;
+				width:60px;
+				height:21px;
+				font-family:Dotum;
+				font-size:12px;
+				}
+			.marriage_Fieldset .m_Input-6 {
+				float:left;
+				width:30px;
+				}
+			.marriage_Fieldset .m_Input-7 {
+				float:left;
+				width:120px;
+				}
+			.marriage_Fieldset .m_Input-8 {
+				float:left;
+				padding:5px;
+				width:500px;
+				height:45px;
+				color:#5a5a5a; 
+				font-size:12px; 
+				background:#ffffff;
+				border:1px solid #7f9db9;
+				overflow-x:hidden;
+				overflow-y:auto;
+				}
+			.marriage_Fieldset .m_Input-9 {
+				margin:5px 0;
+				width:283px;
+				height:50px;
+				color:#5a5a5a; 
+				font-size:11px; 
+				background:#ffffff;
+				border:1px solid #7f9db9;
+				overflow-x:hidden;
+				overflow-y:auto;
+				}
+			.marriage_Fieldset .m_Input-10 {
+				padding:0;
+				vertical-align:middle;
+				}
+
+			.marriage_Fieldset .m_Btn-1 {
+				display:block;
+				float:left;
+				margin:0 0 0 8px;
+				}
+			.marriage_Fieldset .m_Btn-2 {
+				display:block;
+				float:left;
+				margin:0 5px;
+				}
+			.marriage_Fieldset .m_Btn-3 {
+				display:block;
+				margin:10px auto;
+				}
+/*�ȳ��ڷ��û_�ؿܰ�����*/
+.marriage_E_Form {
+	margin:0;
+	padding:0;
+	}
+	.marriage_E_Fieldset {
+		margin:0;
+		padding:0;
+		width:778px;
+		}
+	.marriage_E_Fieldset .hiddenL {
+		position:absolute;
+		visibility:hidden;
+		top:0;
+		left:0;
+		display:none;
+		}
+		.marriage_E_Fieldset .inputWrap {
+			padding:15px 15px 10px;
+			width:748px;
+			background:#f9f9f9;
+			border-top:1px solid #a7a7a7;
+			border-bottom:1px solid #a7a7a7;
+			}
+		.marriage_E_Fieldset .row {
+			margin:0 0 15px 0;
+			width:748px;
+			font-size:12px;
+			color:#575757;
+			font-weight:bold;
+			overflow:hidden;
+			}
+		.marriage_E_Fieldset .check_row {
+			margin:5px 0;
+			width:748px;
+			font-size:12px;
+			color:#575757;
+			font-weight:bold;
+			overflow:hidden;
+			}
+		.marriage_E_Fieldset .tempTxt-1 {
+			float:left;
+			margin:0 5px;
+			font-weight:normal;
+			line-height:21px;
+			}
+			.marriage_E_Fieldset .m_Label-1 {
+				float:left;
+				width:130px;
+				line-height:21px;
+				}
+			.marriage_E_Fieldset .m_Label-2 {
+				float:left;
+				width:80px;
+				font-weight:normal;
+				line-height:21px;
+				}
+			.marriage_E_Fieldset .m_Label-3 {
+				float:left;
+				margin:0 10px 0 0;
+				font-weight:normal;
+				line-height:21px;
+				}
+			.marriage_E_Fieldset .m_Label-4 {
+				float:left;
+				font-weight:normal;
+				line-height:21px;
+				}
+			.marriage_E_Fieldset .m_Label-5 {
+				float:left;
+				margin:0 5px;
+				font-weight:normal;
+				line-height:21px;
+				}
+			.marriage_E_Fieldset .m_Label-6 {
+				font-size:12px;
+				font-weight:bold;
+				}
+			.marriage_E_Fieldset .m_Label-7 {
+				margin:5px 0;
+				font-size:12px;
+				color:#5a5a5a;
+				}
+			.marriage_E_Fieldset .m_Input-1 {
+				float:left;
+				margin:0 10px 0 0;
+				width:120px;
+				}
+			.marriage_E_Fieldset .m_Input-2 {
+				float:left;
+				margin:4px 4px 4px 0;
+				padding:0;
+				width:13px;
+				height:13px;
+				}
+			.marriage_E_Fieldset .m_Input-3 {
+				float:left;
+				width:130px;
+				height:21px;
+				font-family:Dotum;
+				font-size:12px;
+				}
+			.marriage_E_Fieldset .m_Input-4 {
+				float:left;
+				width:60px;
+				}
+			.marriage_E_Fieldset .m_Input-5 {
+				float:left;
+				width:150px;
+				}
+			.marriage_E_Fieldset .m_Input-6 {
+				float:left;
+				width:170px;
+				height:21px;
+				font-family:Dotum;
+				font-size:12px;
+				}
+			.marriage_E_Fieldset .m_Input-7 {
+				float:left;
+				width:200px;
+				}
+			.marriage_E_Fieldset .m_Input-8 {
+				float:left;
+				width:30px;
+				}
+			.marriage_E_Fieldset .m_Input-9 {
+				padding:5px;
+				width:736px; 
+				height:40px;
+				color:#5a5a5a; 
+				background:#ffffff;
+				border:1px solid #7f9db9;
+				font-size:12px; 
+				font-weight:normal;
+				overflow-x:hidden;
+				overflow-y:auto;
+				}
+			.marriage_E_Fieldset .m_Input-10 {
+				margin:5px 0;
+				width:362px;
+				height:68px;
+				color:#5a5a5a; 
+				font-size:11px; 
+				background:#ffffff;
+				border:1px solid #7f9db9;
+				overflow-x:hidden;
+				overflow-y:auto;
+				}
+			.marriage_E_Fieldset .m_Input-11 {
+				padding:0;
+				vertical-align:middle;
+				}
+			.marriage_E_Fieldset .m_Btn-1 {
+				display:block;
+				float:left;
+				margin:0 5px;
+				}
+			.marriage_E_Fieldset .m_Btn-2 {
+				display:block;
+				margin:0 auto;
+				}
+
+/*���̵� ��й�ȣ ã��*/
+.find_Form {
+	margin:0;
+	padding:0;
+	}
+	.find_Fieldset {
+		margin:0;
+		padding:0;
+		width:778px;
+		color:#575757;
+		}
+	.find_Fieldset .hiddenL {
+		position:absolute;
+		visibility:hidden;
+		top:0;
+		left:0;
+		display:none;
+		}
+	.find_Fieldset .findWrap {
+		margin:15px 0;
+		padding:15px 15px 0;
+		width:748px;
+		background:#f9f9f9;
+		border-top:1px solid #a7a7a7;
+		border-bottom:1px solid #a7a7a7;
+		}
+		.find_Fieldset .row {
+			margin:0 0 15px 0;
+			width:748px;
+			font-size:14px;
+			color:#575757;
+			font-weight:bold;
+			overflow:hidden;
+			}
+		.find_Fieldset .section-1 {
+			float:left;
+			width:374px;
+			}
+		.find_Fieldset .section-2 {
+			float:left;
+			width:274px;
+			}
+		.find_Fieldset .section-3 {
+			float:left;
+			width:474px;
+			}
+			.find_Fieldset .findTxt-2 {
+				float:left;
+				margin:0 5px;
+				font-size:11px;
+				font-weight:normal;
+				line-height:21px;
+				}
+			.find_Fieldset .findLabel-1 {
+				float:left;
+				width:100px;
+				line-height:21px;
+				}
+			.find_Fieldset .findLabel-2 {
+				float:left;
+				width:100px;
+				font-size:12px;
+				color:#000000;
+				line-height:21px;
+				}
+			.find_Fieldset .findInput-1 {
+				float:left;
+				width:120px;
+				}
+			.find_Fieldset .findInput-2 {
+				float:left;
+				margin:4px 8px 0 0;
+				padding:0;
+				width:13px;
+				height:13px;
+				}
+			.find_Fieldset .findInput-3 {
+				float:left;
+				width:60px;
+				height:21px;
+				font-family:Dotum;
+				font-size:12px;
+				}
+			.find_Fieldset .findInput-4 {
+				float:left;
+				width:50px;
+				}
+			.find_Fieldset .findInput-5 {
+				float:left;
+				width:150px;
+				height:21px;
+				font-family:Dotum;
+				font-size:12px;
+				}
+			.find_Fieldset .findInput-6 {
+				float:left;
+				width:100px;
+				}
+			.find_Fieldset .findBtn-1 {
+				display:block;
+				margin:0 auto;
+				}
+
+/*��й�ȣ ����*/
+.change_Form {
+	margin:0;
+	padding:0;
+	}
+	.change_Fieldset {
+		margin:0;
+		padding:0;
+		width:778px;
+		color:#575757;
+		}
+	.change_Fieldset .hiddenL {
+		position:absolute;
+		visibility:hidden;
+		top:0;
+		left:0;
+		display:none;
+		}
+	.change_Fieldset .changeWrap {
+		margin:15px 0;
+		padding:15px 15px 0;
+		width:748px;
+		background:#f9f9f9;
+		border-top:1px solid #a7a7a7;
+		border-bottom:1px solid #a7a7a7;
+		}
+		.change_Fieldset .row {
+			margin:0 0 15px 0;
+			width:748px;
+			font-size:14px;
+			color:#575757;
+			font-weight:bold;
+			overflow:hidden;
+			}
+			.change_Fieldset .changeLabel-1 {
+				float:left;
+				width:150px;
+				line-height:21px;
+				}
+			.change_Fieldset .changeLabel-2 {
+				float:left;
+				margin:0 0 0 10px;
+				font-size:11px;
+				font-weight:normal;
+				line-height:21px;
+				}
+			.change_Fieldset .changeInput-1 {
+				float:left;
+				width:120px;
+				height:15px;
+				}
+			.change_Fieldset .changeBtn-1 {
+				display:block;
+				margin:0 auto;
+				}
+
+/*����_�����*/
+.area_Form {
+	margin:0;
+	padding:8px 20px;
+	width:230px;
+	background:#f7f7f7;
+	border-top:2px solid #5b5b5b;
+	border-bottom:2px solid #5b5b5b;
+	}
+	.area_Fieldset {
+		margin:0;
+		padding:0;
+		width:230px;
+		font-size:14px;
+		color:#000000;
+		}
+	.area_Fieldset .hiddenL {
+		position:absolute;
+		visibility:hidden;
+		top:0;
+		left:0;
+		display:none;
+		}
+		.area_Fieldset .row {
+			margin:10px 0;
+			width:230px;
+			overflow:hidden;
+			}
+		.area_Fieldset .section-1 {
+			float:left;
+			width:115px;
+			overflow:hidden;
+			}
+			.area_Fieldset .areaLabel-1 {
+				float:left;
+				width:95px;
+				font-weight:bold;
+				line-height:21px;
+				}
+			.area_Fieldset .areaInput-1 {
+				float:left;
+				margin:4px 7px 0 0;
+				padding:0;
+				width:13px;
+				height:13px;
+				}
+
+/*����������*/
+.send_Form {
+	margin:30px 0;
+	padding:20px 220px 20px 20px;
+	width:532px;
+	background:#ffffff url(/duo/mypage/img/mypageBg_02.jpg) no-repeat right top;
+	border:3px solid #aca0e5;
+	overflow:hidden;
+	}
+.send_Fieldset {
+	margin:0;
+	padding:0;
+	width:532px;
+	overflow:hidden;
+	}
+	.send_Fieldset .hiddenL {
+		position:absolute;
+		visibility:hidden;
+		top:0;
+		left:0;
+		display:none;
+		}
+		.send_Fieldset .row {
+			width:532px;
+			overflow:hidden;
+			}
+			.send_Fieldset .sendLabel-1 {
+				float:left;
+				width:100px;
+				color:#494949;
+				font-weight:bold;
+				line-height:21px;
+				}
+			.send_Fieldset .sendInput-1 {
+				float:left;
+				width:406px;
+				}
+			.send_Fieldset .sendInput-2 {
+				float:left;
+				padding:5px;
+				width:400px;
+				height:50px;
+				color:#5a5a5a; 
+				font-size:12px; 
+				background:#ffffff;
+				border:1px solid #7f9db9;
+				overflow-x:hidden;
+				overflow-y:auto;
+				}
+			.send_Fieldset .sendBtn-1 {
+				display:block;
+				margin:0 auto;
+				}
+
+/*����_�ùķ��̼�*/
+	#simulationWrap .freeWrap {
+		width:778px;
+		}
+.simulation_Form {
+	margin:10px 0;
+	padding:0;
+	width:778px;
+	font-size:0;
+	}
+.simulation_Fieldset {
+	margin:0;
+	padding:0;
+	width:778px;
+	font-size:0;
+	overflow:hidden;
+	}
+	.simulation_Fieldset .hiddenL {
+		position:absolute;
+		visibility:hidden;
+		top:0;
+		left:0;
+		display:none;
+		}
+		.simulation_Fieldset .row {
+			width:778px;
+			border-bottom:1px solid #e4e4e4;
+			overflow:hidden;
+			}
+		.simulation_Fieldset .section-1 {
+			float:left;
+			padding:0 0 0 15px;
+			width:593px;
+			}
+			.simulation_Fieldset .s_Label-1 {
+				float:left;
+				padding:0 0 0 15px;
+				width:155px;
+				background:#f9f9f9;
+				font-size:12px;
+				color:#494949;
+				font-weight:bold;
+				line-height:35px;
+				}
+			.simulation_Fieldset .s_Label-2 {
+				float:left;
+				margin:0 10px 0 5px;
+				font-size:12px;
+				color:#000000;
+				font-weight:bold;
+				line-height:35px;
+				}
+			.simulation_Fieldset .s_Label-3 {
+				float:left;
+				width:100px;
+				font-size:12px;
+				color:#000000;
+				font-weight:bold;
+				line-height:35px;
+				}
+			.simulation_Fieldset .s_Label-4 {
+				float:left;
+				margin:0 5px;
+				font-size:12px;
+				color:#696969;
+				line-height:35px;
+				}
+			.simulation_Fieldset .s_Label-5 {
+				width:593px;
+				font-size:12px;
+				color:#000000;
+				font-weight:bold;
+				line-height:35px;
+				}
+			.simulation_Fieldset .s_Label-6 {
+				float:left;
+				margin:0 5px;
+				font-size:12px;
+				color:#696969;
+				line-height:21px;
+				}
+			.simulation_Fieldset .s_Input-1 {
+				float:left;
+				margin:11px 0 0 0;
+				padding:0;
+				width:13px;
+				height:13px;
+				}
+			.simulation_Fieldset .s_Input-2 {
+				float:left;
+				margin:7px 0 0 0;
+				width:150px;
+				height:21px;
+				font-family:Dotum;
+				font-size:12px;
+				}
+			.simulation_Fieldset .s_Input-3 {
+				float:left;
+				margin:7px 0 0 0;
+				width:130px;
+				font-family:Dotum;
+				font-size:12px;
+				}
+			.simulation_Fieldset .s_Input-4 {
+				float:left;
+				margin:7px 0 0 0;
+				width:90px;
+				font-family:Dotum;
+				font-size:12px;
+				}
+			.simulation_Fieldset .s_Input-5 {
+				float:left;
+				margin:7px 0 0 0;
+				width:40px;
+				font-family:Dotum;
+				font-size:12px;
+				}
+			.simulation_Fieldset .s_Input-6 {
+				padding:5px;
+				width:560px;
+				height:50px;
+				color:#5a5a5a; 
+				font-size:12px; 
+				background:#ffffff;
+				border:1px solid #7f9db9;
+				overflow-x:hidden;
+				overflow-y:auto;
+				}
+			.simulation_Fieldset .s_Input-7 {
+				float:left;
+				margin:4px 0 0 0;
+				padding:0;
+				width:13px;
+				height:13px;
+				}
+			.simulation_Fieldset .s_Btn-1 {
+				display:block;
+				margin:15px auto;
+				}
+
+			.simulation_Fieldset .s_Label-7 {
+				font-size:12px;
+				color:#000000;
+				font-weight:bold;
+				}
+			.simulation_Fieldset .s_Label-8 {
+				margin:5px 0;
+				font-size:12px;
+				color:#696969;
+				}
+			.simulation_Fieldset .s_Input-8 {
+				margin:5px 0;
+				width:283px;
+				height:78px;
+				color:#5a5a5a; 
+				font-size:12px; 
+				background:#ffffff;
+				border:1px solid #7f9db9;
+				overflow-x:hidden;
+				overflow-y:auto;
+				}
+			.simulation_Fieldset .s_Input-9 {
+				padding:0;
+				vertical-align:middle;
+				}
+
+/*������ ������*/
+.hope_Form {
+	margin:0;
+	padding:0;
+	width:778px;
+	}
+.hope_Fieldset {
+	margin:0;
+	padding:0;
+	}
+	.hope_Fieldset .hiddenL {
+		position:absolute;
+		visibility:hidden;
+		top:0;
+		left:0;
+		display:none;
+		}
+		.hope_Fieldset .hopeWrap-1 {
+			padding:15px;
+			width:748px;
+			background:#f7f7f7;
+			overflow:hidden;
+			}
+		.hope_Fieldset .row-1 {
+			margin:0 auto;
+			width:120px;
+			overflow:hidden;
+			}
+		.hope_Fieldset .row-2 {
+			margin:0 auto 5px;
+			width:185px;
+			overflow:hidden;
+			}
+		.hope_Fieldset .row-3 {
+			float:left;
+			width:250px;
+			overflow:hidden;
+			}
+		.hope_Fieldset .row-4 {
+			margin:0 0 30px 0;
+			width:500px;
+			overflow:hidden;
+			}
+		.hope_Fieldset .section-1 {
+			float:left;
+			width:210px;
+			}
+		.hope_Fieldset .section-2 {
+			float:right;
+			padding:0 0 0 18px;
+			width:500px;
+			border-left:1px solid #e8e8e8;
+			}
+		.hope_Fieldset .section-3 {
+			margin:0 0 8px 0;
+			width:250px;
+			overflow:hidden;
+			}
+		.hope_Fieldset .section-4 {
+			margin:0 0 5px 27px;
+			width:223px;
+			overflow:hidden;
+			}
+		.hope_Fieldset .iconImg {
+			display:block;
+			float:left;
+			margin:0 6px 0 0;
+			width:21px;
+			height:21px;
+			}
+			.hope_Fieldset .hopeLabel-1 {
+				margin:0 0 15px 0;
+				padding:5px 0;
+				font-size:14px;
+				color:#ffffff;
+				font-weight:bold;
+				text-align:center;
+				}
+			.hope_Fieldset .hopeLabel-2 {
+				float:left;
+				margin:0 3px;
+				width:40px;
+				font-size:14px;
+				color:#000000;
+				font-weight:bold;
+				line-height:21px;
+				}
+			.hope_Fieldset .hopeLabel-3 {
+				float:left;
+				margin:0 3px 0 0;
+				width:40px;
+				font-size:12px;
+				color:#000000;
+				line-height:21px;
+				}
+			.hope_Fieldset .hopeLabel-4 {
+				float:left;
+				font-size:14px;
+				color:#000000;
+				font-weight:bold;
+				line-height:21px;
+				}
+			.hope_Fieldset .hopeLabel-5 {
+				float:left;
+				margin:0 3px;
+				font-size:12px;
+				color:#666666;
+				line-height:21px;
+				}
+			.hope_Fieldset .hopeInput-1 {
+				float:left;
+				margin:4px 0 0 0;
+				padding:0;
+				width:13px;
+				height:13px;
+				}
+			.hope_Fieldset .hopeInput-2 {
+				float:left;
+				width:140px;
+				height:21px;
+				font-family:Dotum;
+				font-size:12px;
+				color:#666666;
+				}
+.hopeMy_Fieldset {
+	margin:0;
+	padding:0;
+	width:778px;
+	}
+	.hopeMy_Fieldset .hiddenL {
+		position:absolute;
+		visibility:hidden;
+		top:0;
+		left:0;
+		display:none;
+		}
+		.hopeMy_Fieldset .hopeWrap-1 {
+			padding:5px 15px;
+			width:748px;
+			background:#f7f7f7;
+			border-top:2px solid #424242;	
+			border-bottom:2px solid #424242;
+			}
+		.hopeMy_Fieldset .row {
+			padding:10px 0;
+			width:748px;
+			overflow:hidden;
+			}
+		.hopeMy_Fieldset .section-1 {
+			float:left;
+			width:374px;
+			}
+			.hopeMy_Fieldset .hopeLabel-1 {
+				float:left;
+				width:100px;
+				font-size:12px;
+				color:#000000;
+				line-height:21px;
+				}
+			.hopeMy_Fieldset .hopeLabel-2 {
+				float:left;
+				margin:0 5px;
+				font-size:12px;
+				color:#000000;
+				line-height:21px;
+				}
+			.hopeMy_Fieldset .hopeInput-1 {
+				float:left;
+				width:120px;
+				}
+			.hopeMy_Fieldset .hopeInput-2 {
+				float:left;
+				width:70px;
+				}
+			.hopeMy_Fieldset .hopeInput-3 {
+				float:left;
+				width:140px;
+				height:21px;
+				font-family:Dotum;
+				font-size:12px;
+				color:#666666;
+				}
+			.hopeMy_Fieldset .hopeInput-4 {
+				float:left;
+				width:70px;
+				height:21px;
+				font-family:Dotum;
+				font-size:12px;
+				color:#666666;
+				}
+			.hopeMy_Fieldset .hopeInput-5 {
+				float:left;
+				margin:4px 0 0 0;
+				padding:0;
+				width:13px;
+				height:13px;
+				}
+			.hopeMy_Fieldset .hopeInput-6 {
+				float:left;
+				width:50px;
+				height:21px;
+				font-family:Dotum;
+				font-size:12px;
+				color:#666666;
+				}
+			.hopeMy_Fieldset .hopeInput-7 {
+				float:left;
+				width:40px;
+				}
+			.hopeMy_Fieldset .hopeInput-8 {
+				padding:5px;
+				width:600px;
+				height:50px;
+				color:#5a5a5a; 
+				font-size:12px; 
+				background:#ffffff;
+				border:1px solid #7f9db9;
+				overflow-x:hidden;
+				overflow-y:auto;
+				}
+			.hopeMy_Fieldset .hopeBtn-1 {
+				display:block;
+				float:left;
+				margin:2px 10px 0 5px;
+				}
+			.hopeMy_Fieldset .hopeBtn-2 {
+				display:block;
+				margin:0 auto;
+				}
+
+				
+			.hopeMy_Fieldset .hopeLabel-3 {
+				font-size:12px;
+				color:#000000;
+				}
+			.hopeMy_Fieldset .hopeInput-9 {
+				margin:5px 0;
+				width:362px;
+				height:50px;
+				color:#5a5a5a; 
+				font-size:12px; 
+				background:#ffffff;
+				border:1px solid #7f9db9;
+				overflow-x:hidden;
+				overflow-y:auto;
+				}
+			.hopeMy_Fieldset .hopeInput-10 {
+				padding:0;
+				vertical-align:middle;
+				}
+
+/*���񽺹���ü��*/
+.freeservice_Form {
+	margin:0;
+	padding:0;
+	width:670px;
+	}
+.freeservice_Fieldset {
+	margin:0;
+	padding:0;
+	}
+	.freeservice_Fieldset .hiddenL {
+		position:absolute;
+		visibility:hidden;
+		top:0;
+		left:0;
+		display:none;
+		}
+		.freeservice_Fieldset .row {
+			margin:10px 0;
+			padding:0 10px;
+			width:650px;
+			overflow:hidden;
+			}
+		.freeservice_Fieldset .section-1 {
+			float:left;
+			width:380px;
+			overflow:hidden;
+			}
+		.freeservice_Fieldset .section-2 {
+			float:left;
+			width:270px;
+			overflow:hidden;
+			}
+		.freeservice_Fieldset .section-3 {
+			float:left;
+			width:325px;
+			overflow:hidden;
+			}
+			.freeservice_Fieldset .freeLabel-1 {
+				float:left;
+				width:100px;
+				font-size:12px;
+				color:#000000;
+				line-height:21px;
+				}
+			.freeservice_Fieldset .freeLabel-2 {
+				float:left;
+				margin:0 5px;
+				font-size:12px;
+				color:#000000;
+				line-height:21px;
+				}
+			.freeservice_Fieldset .freeLabel-3 {
+				width:650px;
+				font-size:12px;
+				color:#000000;
+				line-height:21px;
+				}
+			.freeservice_Fieldset .freeInput-1 {
+				float:left;
+				width:120px;
+				}
+			.freeservice_Fieldset .freeInput-2 {
+				float:left;
+				width:70px;
+				}
+			.freeservice_Fieldset .freeInput-3 {
+				float:left;
+				margin:4px 0 0 0;
+				width:13px;
+				height:13px;
+				}
+			.freeservice_Fieldset .freeInput-4 {
+				float:left;
+				width:50px;
+				height:21px;
+				font-family:Dotum;
+				font-size:12px;
+				color:#666666;
+				}
+			.freeservice_Fieldset .freeInput-5 {
+				float:left;
+				width:40px;
+				}
+			.freeservice_Fieldset .freeInput-6 {
+				float:left;
+				width:120px;
+				height:21px;
+				font-family:Dotum;
+				font-size:12px;
+				color:#666666;
+				}
+			.freeservice_Fieldset .freeInput-7 {
+				float:left;
+				width:90px;
+				height:21px;
+				font-family:Dotum;
+				font-size:12px;
+				color:#666666;
+				}
+			.freeservice_Fieldset .freeInput-8 {
+				padding:5px;
+				width:635px;
+				height:40px;
+				color:#5a5a5a; 
+				font-size:12px; 
+				background:#ffffff;
+				border:1px solid #7f9db9;
+				overflow-x:hidden;
+				overflow-y:auto;
+				}
+			.freeservice_Fieldset .freeBtn-1 {
+				display:block;
+				float:left;
+				margin:2px 0 0 5px;
+				}
+
+			.freeservice_Fieldset .freeLabel-4 {
+				font-size:12px;
+				color:#000000;
+				}
+			.freeservice_Fieldset .freeLabel-5 {
+				margin:8px 0;
+				font-size:12px;
+				color:#000000;
+				}
+			.freeservice_Fieldset .freeInput-9 {
+				margin:8px 0;
+				width:318px;
+				height:38px;
+				color:#5a5a5a; 
+				font-size:12px; 
+				background:#ffffff;
+				border:1px solid #7f9db9;
+				overflow-x:hidden;
+				overflow-y:auto;
+				}
+			.freeservice_Fieldset .freeInput-10 {
+				padding:0;
+				vertical-align:middle;
+				}
+
+/*�������ͺ�_��ȥȸ���˻�*/
+.photosearch_Form {
+	margin:16px 0 0 0;
+	padding:20px 30px;
+	width:704px;
+	border:7px solid #efefef;
+	}
+.photosearch_Fieldset {
+	margin:0;
+	padding:0;
+	width:704px;
+	}
+	.photosearch_Fieldset .hiddenL {
+		position:absolute;
+		visibility:hidden;
+		top:0;
+		left:0;
+		display:none;
+		}
+		.photosearch_Fieldset .row {
+			margin:5px 0;
+			width:704px;
+			overflow:hidden;
+			}
+			.photosearch_Fieldset .photoLabel-1 {
+				float:left;
+				width:60px;
+				color:#222222;
+				font-weight:bold;
+				line-height:21px;
+				}
+			.photosearch_Fieldset .photoLabel-2 {
+				float:left;
+				margin:0 5px;
+				font-size:12px;
+				color:#888888;
+				font-weight:bold;
+				line-height:21px;
+				}
+			.photosearch_Fieldset .photoInput-1 {
+				float:left;
+				margin:4px 0 0 0;
+				padding:0;
+				width:13px;
+				height:13px;
+				}
+			.photosearch_Fieldset .photoInput-2 {
+				float:left;
+				width:60px;
+				height:21px;
+				font-family:Dotum;
+				font-size:12px;
+				color:#666666;
+				}
+			.photosearch_Fieldset .photoBtn-1 {
+				display:block;
+				margin:20px auto 0;
+				}
+
+/*�������ͺ�_��������*/
+.m_propose_Form {
+	margin:0;
+	padding:0;
+	width:778px;
+	}
+.m_propose_Fieldset {
+	margin:0;
+	padding:0;
+	width:778px;
+	}
+	.m_propose_Fieldset .hiddenL {
+		position:absolute;
+		visibility:hidden;
+		top:0;
+		left:0;
+		display:none;
+		}
+		.m_propose_Fieldset .row {
+			padding:9px 10px;
+			width:684px;
+			border-bottom:1px solid #efefef;
+			overflow:hidden;
+			}
+			.m_propose_Fieldset .section-1 {
+				float:left;
+				width:560px;
+				color:#222222;
+				line-height:21px;
+				}
+			.m_propose_Fieldset .proposeLabel-1 {
+				float:left;
+				width:124px;
+				color:#222222;
+				font-weight:bold;
+				line-height:21px;
+				}
+			.m_propose_Fieldset .proposeLabel-2 {
+				float:left;
+				margin:0 5px;
+				font-size:12px;
+				color:#888888;
+				line-height:21px;
+				}
+			.m_propose_Fieldset .proposeLabel-3 {
+				width:684px;
+				color:#222222;
+				font-weight:bold;
+				line-height:21px;
+				}
+			.m_propose_Fieldset .proposeInput-1 {
+				float:left;
+				margin:4px 0 0 0;
+				padding:0;
+				width:13px;
+				height:13px;
+				}
+			.m_propose_Fieldset .proposeInput-2 {
+				float:left;
+				width:60px;
+				height:21px;
+				font-family:Dotum;
+				font-size:12px;
+				color:#666666;
+				}
+			.m_propose_Fieldset .proposeInput-3 {
+				float:left;
+				width:300px;
+				}
+			.m_propose_Fieldset .proposeInput-4 {
+				float:left;
+				width:50px;
+				}
+			.m_propose_Fieldset .proposeInput-5 {
+				float:left;
+				width:130px;
+				}
+			.m_propose_Fieldset .proposeInput-6 {
+				float:left;
+				width:150px;
+				height:21px;
+				font-family:Dotum;
+				font-size:12px;
+				color:#666666;
+				}
+			.m_propose_Fieldset .proposeInput-7 {
+				margin:3px 0 8px 0;
+				padding:5px;
+				width:672px;
+				height:40px;
+				color:#5a5a5a; 
+				font-size:12px; 
+				background:#ffffff;
+				border:1px solid #7f9db9;
+				overflow-x:hidden;
+				overflow-y:auto;
+				}
+			.m_propose_Fieldset .proposeBtn-1 {
+				display:block;
+				margin:20px auto;
+				}
+			.m_propose_Fieldset .proposeBtn-2 {
+				display:block;
+				float:left;
+				margin:0 0 0 8px;
+				width:80px;
+				background:#434343;
+				color:#ffffff;
+				text-align:center;
+				line-height:21px;
+				}
+			.m_propose_Fieldset .proposeBtn-3 {
+				display:block;
+				float:left;
+				margin:0 0 0 8px;
+				width:80px;
+				background:#6e6e6e;
+				font-size:11px;
+				color:#ffffff;
+				text-align:center;
+				line-height:21px;
+				}
+			.m_propose_Fieldset .proposeLabel-4 {
+				color:#222222;
+				font-weight:bold;
+				}
+			.m_propose_Fieldset .proposeLabel-5 {
+				margin:8px 0 5px;
+				color:#222222;
+				}
+			.m_propose_Fieldset .proposeInput-8 {
+				margin:8px 0;
+				width:330px;
+				height:68px;
+				color:#5a5a5a; 
+				font-size:12px; 
+				background:#ffffff;
+				border:1px solid #7f9db9;
+				overflow-x:hidden;
+				overflow-y:auto;
+				}
+			.m_propose_Fieldset .proposeInput-9 {
+				padding:0;
+				vertical-align:middle;
+				}
+
+/*�̻���ã��*/
+.match_Form {
+	margin:0;
+	padding:0;
+	width:778px;
+	}
+.match_Fieldset {
+	margin:0;
+	padding:0;
+	width:778px;
+	}
+	.match_Fieldset .hiddenL {
+		position:absolute;
+		visibility:hidden;
+		top:0;
+		left:0;
+		display:none;
+		}
+		.match_Fieldset .row-1 {
+			padding:8px 0;
+			width:688px;
+			border-bottom:1px solid #dadada;
+			overflow:hidden;
+			}
+			.match_Fieldset .section-1 {
+				float:left;
+				width:140px;
+				overflow:hidden;
+				}
+			.match_Fieldset .section-2 {
+				float:left;
+				width:186px;
+				overflow:hidden;
+				}
+			.match_Fieldset .matchLabel-1 {
+				float:left;
+				width:120px;
+				font-size:14px;
+				font-weight:bold;
+				line-height:21px;
+				}
+			.match_Fieldset .matchLabel-2 {
+				float:left;
+				width:166px;
+				font-size:14px;
+				font-weight:bold;
+				line-height:21px;
+				}
+			.match_Fieldset .matchInput-1 {
+				float:left;
+				margin:4px 7px 0 0;
+				padding:0;
+				width:13px;
+				height:13px;
+				}
+
+		.match_Fieldset .row-2 {
+			padding:10px 0;
+			width:492px;
+			border-bottom:1px solid #e1e1e1;
+			overflow:hidden;
+			}
+			.match_Fieldset .section-3 {
+				float:left;
+				width:246px;
+				overflow:hidden;
+				}
+			.match_Fieldset .matchLabel-3 {
+				float:left;
+				padding:0 0 0 8px;
+				width:92px;
+				font-size:12px;
+				font-weight:bold;
+				line-height:21px;
+				}
+			.match_Fieldset .matchLabel-4 {
+				float:left;
+				padding:0 0 0 8px;
+				width:112px;
+				font-size:12px;
+				font-weight:bold;
+				line-height:21px;
+				}
+			.match_Fieldset .matchLabel-5 {
+				float:left;
+				margin:0 4px;
+				font-size:12px;
+				color:#555555;
+				line-height:21px;
+				}
+			.match_Fieldset .matchLabel-6 {
+				padding:0 0 0 8px;
+				font-size:12px;
+				font-weight:bold;
+				line-height:21px;
+				}
+			.match_Fieldset .matchInput-3 {
+				float:left;
+				width:100px;
+				}
+			.match_Fieldset .matchInput-4 {
+				float:left;
+				width:40px;
+				}
+			.match_Fieldset .matchInput-5 {
+				float:left;
+				margin:4px 0 0 0;
+				padding:0;
+				width:13px;
+				height:13px;
+				}
+			.match_Fieldset .matchInput-6 {
+				float:left;
+				width:100px;
+				height:21px;
+				font-family:Dotum;
+				font-size:12px;
+				color:#666666;
+				}
+			.match_Fieldset .matchInput-7 {
+				float:left;
+				width:60px;
+				height:21px;
+				font-family:Dotum;
+				font-size:12px;
+				color:#666666;
+				}
+			.match_Fieldset .matchInput-8 {
+				float:left;
+				width:250px;
+				}
+			.match_Fieldset .matchInput-9 {
+				margin:8px;
+				padding:5px;
+				width:464px;
+				height:40px;
+				color:#5a5a5a; 
+				font-size:12px; 
+				background:#ffffff;
+				border:1px solid #7f9db9;
+				overflow-x:hidden;
+				overflow-y:auto;
+				}
+			.match_Fieldset .matchBtn-1 {
+				display:block;
+				float:left;
+				margin:0 0 0 4px;
+				width:75px;
+				height:21px;
+				background:#545454;
+				color:#ffffff;
+				text-align:center;
+				line-height:21px;
+				}
+			.match_Fieldset .matchBtn-2 {
+				display:block;
+				float:left;
+				margin:0;
+				width:75px;
+				height:21px;
+				background:#ffffff;
+				border:1px solid #b4b4b4;
+				font-size:11px;
+				color:#757575;
+				text-align:center;
+				line-height:19px;
+				}
+			.match_Fieldset .matchLabel-7 {
+				padding:0 0 0 8px;
+				font-size:12px;
+				font-weight:bold;
+				}
+			.match_Fieldset .matchLabel-8 {
+				margin:8px 0 5px;
+				padding:0 0 0 8px;
+				font-size:11px;
+				}
+			.match_Fieldset .matchInput-10 {
+				margin:8px 0 8px 8px;
+				width:234px;
+				height:60px;
+				color:#5a5a5a; 
+				font-size:12px; 
+				background:#ffffff;
+				border:1px solid #7f9db9;
+				overflow-x:hidden;
+				overflow-y:auto;
+				}
+			.match_Fieldset .matchInput-11 {
+				padding:0;
+				vertical-align:middle;
+				}
+
+/*�̺�Ʈ ��û�ϱ�_�̺�Ʈ*/
+.request_Form {
+	margin:0;
+	padding:0;
+	width:680px;
+	}
+.request_Fieldset {
+	margin:0;
+	padding:0;
+	width:680px;
+	}
+	.request_Fieldset .hiddenL {
+		position:absolute;
+		visibility:hidden;
+		top:0;
+		left:0;
+		display:none;
+		}
+		.request_Fieldset .row-1 {
+			padding:8px 10px;
+			width:660px;
+			border-bottom:1px solid #dadada;
+			overflow:hidden;
+			}
+		.request_Fieldset .row-2 {
+			padding:18px 0;
+			width:680px;
+			overflow:hidden;
+			}
+			.request_Fieldset .section-1 {
+				float:left;
+				width:540px;
+				}
+			.request_Fieldset .section-2 {
+				float:left;
+				width:10px;
+				color:#bcbcbc;
+				line-height:21px;
+				}
+			.request_Fieldset .section-3 {
+				float:left;
+				width:530px;
+				font-size:12px;
+				color:#575757;
+				line-height:21px;
+				overflow:hidden;
+				}
+				.request_Fieldset .reLabel-1 {
+					float:left;
+					margin:0 5px;
+					font-size:12px;
+					color:#575757;
+					line-height:21px;
+					}
+				.request_Fieldset .reLabel-2 {
+					float:left;
+					width:120px;
+					font-size:12px;
+					color:#6c6c6c;
+					font-weight:bold;
+					line-height:21px;
+					}
+				.request_Fieldset .reLabel-3 {
+					float:left;
+					margin:0 10px 0 5px;
+					font-size:12px;
+					color:#575757;
+					line-height:21px;
+					}
+				.request_Fieldset .reInput-1 {
+					margin:5px 0;
+					padding:5px;
+					width:668px;
+					height:40px;
+					color:#5a5a5a; 
+					font-size:12px; 
+					background:#ffffff;
+					border:1px solid #7f9db9;
+					overflow-x:hidden;
+					overflow-y:auto;
+					}
+				.request_Fieldset .reInput-2 {
+					float:left;
+					margin:4px 0 0 0;
+					padding:0;
+					width:13px;
+					height:13px;
+					}
+				.request_Fieldset .reInput-3 {
+					float:left;
+					width:60px;
+					height:21px;
+					font-family:Dotum;
+					font-size:12px;
+					color:#666666;
+					}
+				.request_Fieldset .reInput-4 {
+					float:left;
+					width:50px;
+					}
+				.request_Fieldset .reInput-5 {
+					float:left;
+					width:120px;
+					}
+				.request_Fieldset .reInput-6 {
+					float:left;
+					width:160px;
+					height:21px;
+					font-family:Dotum;
+					font-size:12px;
+					color:#666666;
+					}
+				.request_Fieldset .reInput-7 {
+					float:left;
+					width:100px;
+					height:21px;
+					font-family:Dotum;
+					font-size:12px;
+					color:#666666;
+					}
+				.request_Fieldset .reInput-8 {
+					padding:5px;
+					width:518px;
+					height:40px;
+					color:#5a5a5a; 
+					font-size:12px; 
+					background:#ffffff;
+					border:1px solid #7f9db9;
+					overflow-x:hidden;
+					overflow-y:auto;
+					}
+				.request_Fieldset .reBtn-1 {
+					display:block;
+					float:left;
+					margin:3px 0 0 0;
+					}
+				.request_Fieldset .reBtn-2 {
+					display:block;
+					margin:20px auto;
+					}
+
+				.request_Fieldset .reLabel-4 {
+					margin:5px 0 3px;
+					font-size:12px;
+					color:#575757;
+					line-height:21px;
+					}
+				.request_Fieldset .reInput-9 {
+					padding:0;
+					vertical-align:middle;
+					}
+
+.request_popup_Form {
+	margin:0;
+	padding:0;
+	width:634px;
+	border:0;
+	}
+.request_popup_Fieldset {
+	margin:0;
+	padding:0;
+	width:634px;
+	border:0;
+	}
+	.request_popup_Fieldset .hiddenL {
+		position:absolute;
+		visibility:hidden;
+		top:0;
+		left:0;
+		display:none;
+		}
+		.request_popup_Fieldset .row-1 {
+			padding:8px 10px;
+			width:614px;
+			border-bottom:1px solid #dadada;
+			overflow:hidden;
+			}
+		.request_popup_Fieldset .row-2 {
+			padding:15px 0;
+			width:634px;
+			overflow:hidden;
+			}
+			.request_popup_Fieldset .section-1 {
+				float:left;
+				width:494px;
+				}
+			.request_popup_Fieldset .section-2 {
+				float:left;
+				width:10px;
+				color:#bcbcbc;
+				line-height:21px;
+				}
+			.request_popup_Fieldset .section-3 {
+				float:left;
+				width:484px;
+				font-size:12px;
+				color:#575757;
+				line-height:21px;
+				overflow:hidden;
+				}
+				.request_popup_Fieldset .reLabel-1 {
+					float:left;
+					margin:0 5px;
+					font-size:12px;
+					color:#575757;
+					line-height:21px;
+					}
+				.request_popup_Fieldset .reLabel-2 {
+					float:left;
+					width:120px;
+					font-size:12px;
+					color:#6c6c6c;
+					font-weight:bold;
+					line-height:21px;
+					}
+				.request_popup_Fieldset .reLabel-3 {
+					float:left;
+					margin:0 10px 0 5px;
+					font-size:12px;
+					color:#575757;
+					line-height:21px;
+					}
+				.request_popup_Fieldset .reInput-1 {
+					margin:5px 0;
+					padding:5px;
+					width:612px;
+					height:40px;
+					color:#5a5a5a; 
+					font-size:12px; 
+					background:#ffffff;
+					border:1px solid #7f9db9;
+					overflow-x:hidden;
+					overflow-y:auto;
+					}
+				.request_popup_Fieldset .reInput-2 {
+					float:left;
+					margin:4px 0 0 0;
+					padding:0;
+					width:13px;
+					height:13px;
+					}
+				.request_popup_Fieldset .reInput-3 {
+					float:left;
+					width:60px;
+					height:21px;
+					font-family:Dotum;
+					font-size:12px;
+					color:#666666;
+					}
+				.request_popup_Fieldset .reInput-4 {
+					float:left;
+					width:50px;
+					}
+				.request_popup_Fieldset .reInput-5 {
+					float:left;
+					width:120px;
+					}
+				.request_popup_Fieldset .reInput-6 {
+					float:left;
+					width:160px;
+					height:21px;
+					font-family:Dotum;
+					font-size:12px;
+					color:#666666;
+					}
+				.request_popup_Fieldset .reInput-7 {
+					float:left;
+					width:100px;
+					height:21px;
+					font-family:Dotum;
+					font-size:12px;
+					color:#666666;
+					}
+				.request_popup_Fieldset .reInput-8 {
+					padding:5px;
+					width:472px;
+					height:40px;
+					color:#5a5a5a; 
+					font-size:12px; 
+					background:#ffffff;
+					border:1px solid #7f9db9;
+					overflow-x:hidden;
+					overflow-y:auto;
+					}
+				.request_popup_Fieldset .reInput-9 {
+					float:left;
+					width:200px;
+					}
+				.request_popup_Fieldset .reBtn-1 {
+					display:block;
+					float:left;
+					margin:3px 0 0 0;
+					}
+				.request_popup_Fieldset .reBtn-2 {
+					display:block;
+					margin:20px auto;
+					}
+
+				.request_popup_Fieldset .reLabel-4 {
+					color:#000000;
+					font-weight:bold;
+					}
+				.request_popup_Fieldset .reLabel-5 {
+					margin:8px 0 5px;
+					color:#000000;
+					}
+				.request_popup_Fieldset .reInput-10 {
+					margin:8px 0;
+					width:295px;
+					height:40px;
+					color:#5a5a5a; 
+					font-size:12px; 
+					background:#ffffff;
+					border:1px solid #7f9db9;
+					overflow-x:hidden;
+					overflow-y:auto;
+					}
+				.request_popup_Fieldset .reInput-11 {
+					padding:0;
+					vertical-align:middle;
+					}
+
+/*��й�ȣ �����ϱ�_ȸ������*/
+.password_Form {
+	margin:0;
+	padding:0;
+	width:718px;
+	}
+.password_Fieldset {
+	margin:0;
+	padding:0;
+	width:718px;
+	}
+	.password_Fieldset .hiddenL {
+		position:absolute;
+		visibility:hidden;
+		top:0;
+		left:0;
+		display:none;
+		}
+		.password_Fieldset .row {
+			margin:10px 0;
+			width:718px;
+			overflow:hidden;
+			}
+			.password_Fieldset .passLabel-1 {
+				float:left;
+				width:150px;
+				font-size:12px;
+				color:#575757;
+				font-weight:bold;
+				line-height:24px;
+				}
+			.password_Fieldset .passLabel-2 {
+				float:left;
+				margin:0 0 0 10px;
+				font-size:11px;
+				line-height:24px;
+				}
+			.password_Fieldset .passInput-1 {
+				float:left;
+				width:150px;
+				}
+
+/*��ȥȸ���˻�*/
+.search_Form {
+	margin:0;
+	padding:0;
+	width:778px;
+	}
+.search_Fieldset {
+	margin:0;
+	padding:0;
+	width:778px;
+	}
+	.search_Fieldset .hiddenL {
+		position:absolute;
+		visibility:hidden;
+		top:0;
+		left:0;
+		display:none;
+		}
+		.search_Fieldset .row-1 {
+			padding:22px 25px;
+			width:728px;
+			height:193px;
+			background:url(/duo/member/img/searchBg_01.jpg) no-repeat left top;
+			overflow:hidden;
+			}
+			.search_Fieldset .selectList {
+				width:728px;
+				overflow:hidden;
+				}
+				.search_Fieldset .selectItem {
+					float:left;
+					width:242px;
+					height:193px;
+					border-right:1px solid #e7e7e7;
+					}
+		.search_Fieldset .section-1 {
+			margin:24px auto;
+			padding:10px;
+			width:140px;
+			border-top:1px solid #e6e9d4;
+			border-bottom:1px solid #e6e9d4;
+			}
+			.search_Fieldset .section-2 {
+				margin:20px auto;
+				width:210px;
+				}
+			.search_Fieldset .section-3 {
+				margin:20px auto;
+				width:180px;
+				}
+				.search_Fieldset .searchLabel-1 {
+					float:left;
+					margin:0 0 0 10px;
+					width:100px;
+					font-size:16px;
+					font-weight:bold;
+					line-height:21px;
+					}
+				.search_Fieldset .searchLabel-2 {
+					float:left;
+					margin:0 0 0 10px;
+					width:180px;
+					font-size:16px;
+					font-weight:bold;
+					line-height:21px;
+					}
+				.search_Fieldset .searchLabel-3 {
+					float:left;
+					margin:0 0 0 10px;
+					width:150px;
+					font-size:16px;
+					font-weight:bold;
+					line-height:21px;
+					}
+				.search_Fieldset .searchInput-1 {
+					float:left;
+					margin:4px 0 0 0;
+					padding:0;
+					width:13px;
+					height:13px;
+					}
+		.search_Fieldset .searchArea {
+			}
+		.search_Fieldset .row-2 {
+			margin:15px 0;
+			width:644px;
+			overflow:hidden;
+			}
+			.search_Fieldset .section-4 {
+				float:left;
+				width:322px;
+				overflow:hidden;
+				}
+				.search_Fieldset .searchLabel-4 {
+					float:left;
+					width:100px;
+					font-size:12px;
+					color:#595959;
+					font-weight:bold;
+					line-height:21px;
+					}
+				.search_Fieldset .searchLabel-5 {
+					float:left;
+					width:120px;
+					font-size:12px;
+					color:#595959;
+					font-weight:bold;
+					line-height:21px;
+					}
+				.search_Fieldset .searchLabel-6 {
+					float:left;
+					font-size:12px;
+					color:#595959;
+					line-height:21px;
+					}
+				.search_Fieldset .searchLabel-7 {
+					float:left;
+					margin:0 10px 0 4px;
+					font-size:12px;
+					color:#595959;
+					line-height:21px;
+					}
+				.search_Fieldset .searchInput-2 {
+					float:left;
+					width:120px;
+					}
+				.search_Fieldset .searchInput-3 {
+					float:left;
+					margin:0 8px;
+					width:30px;
+					}
+				.search_Fieldset .searchInput-4 {
+					float:left;
+					margin:4px 0 0 0;
+					padding:0;
+					width:13px;
+					height:13px;
+					}
+				.search_Fieldset .searchInput-5 {
+					float:left;
+					width:120px;
+					height:21px;
+					font-family:Dotum;
+					font-size:12px;
+					color:#666666;
+					}
+				.search_Fieldset .searchInput-6 {
+					float:left;
+					width:150px;
+					height:21px;
+					font-family:Dotum;
+					font-size:12px;
+					color:#666666;
+					}
+				.search_Fieldset .searchInput-7 {
+					float:left;
+					width:60px;
+					height:21px;
+					font-family:Dotum;
+					font-size:12px;
+					color:#666666;
+					}
+				.search_Fieldset .searchInput-8 {
+					float:left;
+					width:40px;
+					}
+				.search_Fieldset .searchInput-9 {
+					margin:0 0 5px 0;
+					padding:5px;
+					width:532px;
+					height:40px;
+					color:#5a5a5a; 
+					font-size:12px; 
+					background:#ffffff;
+					border:1px solid #7f9db9;
+					overflow-x:hidden;
+					overflow-y:auto;
+					}
+				.search_Fieldset .searchBtn-1 {
+					display:block;
+					float:left;
+					margin:2px 0 0 0;
+					}
+				.search_Fieldset .searchInput-10 {
+					float:left;
+					margin:10px 15px 0 0;
+					height:22px;
+					font-family:Dotum;
+					font-size:14px;
+					color:#010101;
+					font-weight:bold;
+					}
+
+				.search_Fieldset .searchLabel-8 {
+					font-size:12px; 
+					color:#595959;
+					font-weight:bold;
+					}
+				.search_Fieldset .searchLabel-9 {
+					margin:8px 0;
+					font-size:12px; 
+					color:#595959;
+					}
+				.search_Fieldset .searchInput-11 {
+					margin:8px 0;
+					width:300px;
+					height:68px;
+					color:#5a5a5a; 
+					font-size:12px; 
+					background:#ffffff;
+					border:1px solid #7f9db9;
+					overflow-x:hidden;
+					overflow-y:auto;
+					}
+				.search_Fieldset .searchInput-12 {
+					padding:0;
+					vertical-align:middle;
+					}
+
+/*�̺�Ʈ ����_�̺�Ʈ*/
+.pay_Form {
+	margin:0;
+	padding:0;
+	width:680px;
+	}
+.pay_Fieldset {
+	margin:0;
+	padding:0;
+	width:680px;
+	}
+	.pay_Fieldset .hiddenL {
+		position:absolute;
+		visibility:hidden;
+		top:0;
+		left:0;
+		display:none;
+		}
+		.pay_Fieldset .row-1 {
+			padding:8px 10px;
+			width:660px;
+			border-bottom:1px solid #dadada;
+			overflow:hidden;
+			}
+		.pay_Fieldset .row-2 {
+			margin:20px 0;
+			width:680px;
+			overflow:hidden;
+			}
+			.pay_Fieldset .section-1 {
+				float:left;
+				width:540px;
+				}
+			.pay_Fieldset .section-2 {
+				float:left;
+				width:10px;
+				color:#bcbcbc;
+				line-height:21px;
+				}
+			.pay_Fieldset .section-3 {
+				float:left;
+				width:530px;
+				font-size:12px;
+				color:#575757;
+				line-height:21px;
+				overflow:hidden;
+				}
+				.pay_Fieldset .payLabel-1 {
+					float:left;
+					margin:0 5px;
+					font-size:12px;
+					color:#575757;
+					line-height:21px;
+					}
+				.pay_Fieldset .payLabel-2 {
+					float:left;
+					width:120px;
+					font-size:12px;
+					color:#6c6c6c;
+					font-weight:bold;
+					line-height:21px;
+					}
+				.pay_Fieldset .payLabel-3 {
+					float:left;
+					margin:0 10px 0 5px;
+					font-size:12px;
+					color:#575757;
+					line-height:21px;
+					}
+				.pay_Fieldset .payInput-1 {
+					margin:5px 0;
+					padding:5px;
+					width:668px;
+					height:40px;
+					color:#5a5a5a; 
+					font-size:12px; 
+					background:#ffffff;
+					border:1px solid #7f9db9;
+					overflow-x:hidden;
+					overflow-y:auto;
+					}
+				.pay_Fieldset .payInput-2 {
+					float:left;
+					margin:4px 0 0 0;
+					padding:0;
+					width:13px;
+					height:13px;
+					}
+				.pay_Fieldset .payInput-3 {
+					float:left;
+					width:100px;
+					height:21px;
+					font-family:Dotum;
+					font-size:12px;
+					color:#666666;
+					}
+				.pay_Fieldset .payInput-4 {
+					float:left;
+					width:100px;
+					}
+				.pay_Fieldset .payInput-5 {
+					float:left;
+					}
+				.pay_Fieldset .payBtn-1 {
+					display:block;
+					float:left;
+					margin:3px 0 0 0;
+					}
+				.pay_Fieldset .payBtn-2 {
+					display:block;
+					margin:20px auto;
+					}
+
+/*������������ۼ�*/
+.dataform_Form {
+	margin:0;
+	padding:20px 20px 20px 316px;
+	width:380px;
+	background:#ffffff url(/duo/helpdesk/img/dataBg_01.jpg) no-repeat left top;
+	}
+.dataform_Fieldset {
+	margin:0;
+	padding:0;
+	width:380px;
+	}
+	.dataform_Fieldset .hiddenL {
+		position:absolute;
+		visibility:hidden;
+		top:0;
+		left:0;
+		display:none;
+		}
+		.dataform_Fieldset .row {
+			margin:10px 0;
+			width:270px;
+			overflow:hidden;
+			}
+		.dataform_Fieldset .dataLabel-1 {
+			float:left;
+			width:120px;
+			font-size:12px;
+			color:#8d3aaf;
+			font-weight:bold;
+			line-height:21px;
+			}
+		.dataform_Fieldset .dataInput-1 {
+			float:left;
+			}
+		.dataform_Fieldset .dataBtn-1 {
+			display:block; 
+			float:right;
+			}

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" id="WebApp_ID" version="3.1">
+  <display-name>duo</display-name>
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+    <welcome-file>index.htm</welcome-file>
+    <welcome-file>index.jsp</welcome-file>
+    <welcome-file>default.html</welcome-file>
+    <welcome-file>default.htm</welcome-file>
+    <welcome-file>default.jsp</welcome-file>
+  </welcome-file-list>
+  
+  <servlet>
+    <servlet-name>DuoControl</servlet-name>
+    <servlet-class>control.DuoControl</servlet-class>
+	<multipart-config>
+  		<location>C:\\javaclass\\web\\duo\\WebContent\\temp</location>
+  		<file-size-threshold>1024</file-size-threshold>
+  	</multipart-config>  
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>DuoControl</servlet-name>
+    <url-pattern>/DuoControl</url-pattern>
+  </servlet-mapping>
+      <servlet>
+    <servlet-name>ValControl</servlet-name>
+    <servlet-class>control.ValControl</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>ValControl</servlet-name>
+    <url-pattern>/ValControl</url-pattern>
+  </servlet-mapping>
+        <servlet>
+    <servlet-name>ModifyControl</servlet-name>
+    <servlet-class>control.ModifyControl</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>ModifyControl</servlet-name>
+    <url-pattern>/ModifyControl</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+    <servlet-name>PurchaseControl</servlet-name>
+    <servlet-class>control.PurchaseControl</servlet-class> 
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>PurchaseControl</servlet-name>
+    <url-pattern>/PurchaseControl</url-pattern>
+  </servlet-mapping>
+  
+   <servlet>
+    <servlet-name>ListControl</servlet-name>
+    <servlet-class>control.ListControl</servlet-class> 
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>ListControl</servlet-name>
+    <url-pattern>/ListControl</url-pattern>
+  </servlet-mapping>
+  
+        <servlet>
+    <servlet-name>SearchControl</servlet-name>
+    <servlet-class>control.SearchCon</servlet-class>
+  </servlet>
+    <servlet-mapping>
+    <servlet-name>SearchControl</servlet-name>
+    <url-pattern>/search</url-pattern>
+  </servlet-mapping>
+</web-app>

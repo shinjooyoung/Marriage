@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<!DOCTYPE mapper
+PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd"> 
+<mapper namespace="mybatis.mapper.SearchMapper"> 
+
+
+<select id="searchMember" parameterType="hashmap" resultType="Member">
+		select  m_id, m_name,m_birth,m_edu,m_job,m_remarry,m_pic
+		from duoMember
+				<where>
+		<if test="startage!=null">
+			and 2017-substr(m_birth,1,4)+1<![CDATA[>=]]>#{startage}		 
+      	</if>      	
+      	<if test="endage!=null">
+			and 2017-substr(m_birth,1,4)+1<![CDATA[<=]]>#{endage}	 
+      	</if>
+       	<if test="sal!=null">
+         and m_sal=#{sal}
+      	</if>      
+    	<if test="edu!=null">
+         and m_edu=#{edu}
+      	</if>       	
+      	<if test="gender!=null">
+      	and m_gender=#{gender}
+      	</if>  		
+  		<if test="job!=null">
+         and m_job=#{job}
+    	</if>    
+   </where>	
+	</select>	
+	<insert parameterType="hashmap" id="sendHeart"> 
+	insert into duoheart(h_no, h_sendid, h_receiveid, h_stat, h_date) 
+	values(heart_seq.nextval,#{sId},#{rId},'대기중',sysdate) 
+	</insert>	
+</mapper>

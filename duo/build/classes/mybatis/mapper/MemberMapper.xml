@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<!DOCTYPE mapper
+PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd"> 
+<mapper namespace="mybatis.mapper.MemberMapper"> 
+
+<select id="selectAll" parameterType="hashMap" resultType="Member"> 
+select m_id,m_pass,m_name,m_gender,m_birth,
+m_tel,
+m_job,
+m_sal,
+m_edu,
+m_pic,
+m_rank,
+m_remarry,
+m_marry,
+m_heart,
+m_hstat from duoMember
+<where>
+	<if test="{mId!=null}">
+		m_id=#{mId}
+	</if>
+	<if test="{mPass!=null}">
+		and m_pass=#{mPass}
+	</if>
+</where>
+</select>
+<select id="selectAll2" parameterType="hashMap" resultType="Member"> 
+select m_id,m_pass,m_name,m_gender,m_birth,
+m_tel,
+m_job,
+m_sal,
+m_edu,
+m_pic,
+m_rank,
+m_remarry,
+m_marry,
+m_heart,
+m_hstat from duoMember
+<where>
+	<if test="{mId!=null}">
+		m_id=#{mId}
+	</if>
+</where>
+</select>
+<insert id="insertMember" parameterType="Member"> 
+insert into duoMember(m_id,m_pass,m_name,m_gender,m_birth,m_tel,m_job,m_sal,m_edu,m_pic,m_remarry)
+values(#{mId},#{mPass},#{mName},#{mGender},#{mBirth},#{mTel},#{mJob},#{mSal},#{mEdu},#{mPic},#{mRemarry})
+</insert> 
+
+</mapper>

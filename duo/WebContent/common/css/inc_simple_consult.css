@@ -1,0 +1,56 @@
+#simple_pop_bg { opacity:0.8; filter:alpha(opacity:'80'); position:fixed; top:0; right:0; bottom:0; left:0; z-index:100000; background-color:rgb(0, 0, 0); display:none; }
+#simple_consult_popup { font-family:Malgun Gothic, ���� ���, Dotum, ����, Gulim, ����; opacity:1; position:fixed; overflow:hidden; z-index:100001; width:100%; height:100%; top:0; left:0; text-align:center; display:none; }
+#simple_consult_popup .align { display:inline-block; vertical-align:middle; height:100%; }
+#simple_consult_popup .content { display:inline-block; opacity:1; visibility:visible; outline:none; text-align:left; position:relative; vertical-align:middle; }
+#simple_consult_popup .view-wrapper { float:left; width:100%; min-width:1120px; height:740px; }
+#simple_consult_popup .view-wrapper span.close { display:block; float:left; width:1120px; text-align:right; margin-bottom:10px; }
+/*#simple_consult_popup .view-wrapper span.st-1 { display:block; float:left; width:268px; height:740px; background:#5298ee url(/duo/main_img_2016/popup_03_20170209.jpg) center center no-repeat;  font-size:0; line-height:100%; }*/
+#simple_consult_popup .view-wrapper span.st-1 { display:block; float:left; width:268px; height:740px; background:#5298ee url(/duo/main_img_2016/popup_03.jpg) center center no-repeat;  font-size:0; line-height:100%; }
+#simple_consult_popup .view-wrapper input[type=text] { height:38px; line-height:38px; color:#535353; padding:0 4px; font-family:Malgun Gothic, ���� ���, Dotum, ����, Gulim, ����; font-size:14px; background-color:#ffffff; border:1px solid #dedede; }
+#simple_consult_popup .view-wrapper select { display:block; float:left; height:40px; font-family:Malgun Gothic, ���� ���, Dotum, ����, Gulim, ����; font-size:14px; color:#535353; background-color:#ffffff; border:1px solid  #dedede; line-height:31px; }
+#simple_consult_popup .view-wrapper select { height:auto; padding:9px 0;\0/ie8+9;}
+#simple_consult_popup .view-wrapper label { font-size:14px; color:#535353; }
+#simple_consult_popup .view-wrapper .field { margin-right:5px; }
+#simple_consult_popup .view-wrapper input[type=checkbox], #simple_consult_popup .view-wrapper input[type=radio] { display:none; position:absolute; z-index:-1; }
+#simple_consult_popup .view-wrapper label.sex { margin-left:-1px; display:block; float:left; width:60px; height:38px; position:relative; font-size:0; line-height:100%; border-top:1px solid #d9d9d9; border-bottom:1px solid #d9d9d9; border:1px solid #d9d9d9; }
+#simple_consult_popup .view-wrapper .man { background:url(/duo/main_img_2016/popup_sex_m_off.gif) center center no-repeat; }
+#simple_consult_popup .view-wrapper .man_on { background:url(/duo/main_img_2016/popup_sex_m_on.gif) center center no-repeat; }
+#simple_consult_popup .view-wrapper .woman { background:url(/duo/main_img_2016/popup_sex_w_off.gif) center center no-repeat; }
+#simple_consult_popup .view-wrapper .woman_on { background:url(/duo/main_img_2016/popup_sex_w_on.gif) center center no-repeat; }
+#simple_consult_popup .view-wrapper label.marry { margin-left:-1px; display:block; float:left; width:60px; height:38px; font-size:14px; text-align:center; line-height:36px; }
+#simple_consult_popup .view-wrapper .on { background:#6f7e91; border:1px solid #6f7e91; color:#ffffff; }
+#simple_consult_popup .view-wrapper .off { background:#ffffff; border:1px solid #dbdbdb; color:#333333; }
+#simple_consult_popup .view-wrapper label.privacy { display:block; float:left; padding-left:28px; height:23px; position:relative; font-size:12px; color:#161616; line-height:20px; }
+#simple_consult_popup .view-wrapper .agree { background:url(/duo/main_img_2016/popup_10.gif) left center no-repeat; }
+#simple_consult_popup .view-wrapper .agree_on { background:url(/duo/main_img_2016/popup_09.gif) left center no-repeat; }
+#simple_consult_popup .view-wrapper .select-jisa { display:block; float:left; width:780px; height:193px; margin:38px 38px 0 34px; }
+#simple_consult_popup .view-wrapper .select-jisa span.st-1 { display:bl6ock; float:left; margin:0; padding:0; width:151px; height:27px; background:url(/duo/main_img_2016/popup_04.gif); font-size:0; line-height:100%; }
+#simple_consult_popup .view-wrapper .select-jisa .box { clear:both; display:block; float:left; width:780px; margin:25px 0 0 0; background:#ebebeb; }
+#simple_consult_popup .view-wrapper .select-jisa table { table-layout:fixed; width:100%; }
+#simple_consult_popup .view-wrapper .select-jisa table td { height:47px; background:#ffffff; text-align:center; color:#535353; font-size:16px; }
+#simple_consult_popup .view-wrapper .select-jisa table .select { background:#04b9c2; color:#ffffff; }
+#simple_consult_popup .view-wrapper .select-day { display:block; float:left; width:402px; height:424px; margin:0 0 0 34px; }
+#simple_consult_popup .view-wrapper .select-day span.st-1 { display:block; float:left; margin:0; padding:0; width:150px; height:27px; background:url(/duo/main_img_2016/popup_05.gif); font-size:0; line-height:100%; }
+#simple_consult_popup .view-wrapper .select-day .box { clear:both; display:block; float:left; width:400px; border:1px solid #e8e8e8; margin:19px 0 0 0; padding:0 0 6px 0; }
+#simple_consult_popup .view-wrapper .select-day span.month { display:block; float:left; width:400px; height:64px; text-align:center; position:relative; }
+#simple_consult_popup .view-wrapper .select-day span.month span.state { display:inline-block; height:64px; font-size:26px; color:#969696; line-height:61px; } 
+#simple_consult_popup .view-wrapper .select-day span.month a.prev { display:block; width:8px; height:14px; background:url(/duo/main_img_2016/popup_07.gif); position:absolute; left:122px; top:25px; font-size:0; line-height:100%; }
+#simple_consult_popup .view-wrapper .select-day span.month a.next { display:block; width:8px; height:14px; background:url(/duo/main_img_2016/popup_08.gif); position:absolute; right:126px; top:25px; font-size:0; line-height:100%; }
+#simple_consult_popup .view-wrapper .select-day span.week { display:block; float:left; width:364px; height:32px; background:#f5f5f5; font-size:12px; color:#7c7c7c; }
+#simple_consult_popup .view-wrapper .select-day span.week span { display:block; float:left; width:52px; height:32px; text-align:center; line-height:29px; }
+#simple_consult_popup .view-wrapper .select-day span.day { display:block; float:left; width:364px; font-size:14px; color:#7c7c7c; }
+#simple_consult_popup .view-wrapper .select-day span.day span.date { display:block; float:left; margin:2px 0; width:52px; padding:5px 0; height:34px; text-align:center; line-height:17px; }
+#simple_consult_popup .view-wrapper .select-day span.day .sun { color:#ff5656; }
+#simple_consult_popup .view-wrapper .select-day span.day .sat { color:#4285f4; }
+#simple_consult_popup .view-wrapper .select-day span.day .today { background:#f0f0f0; }
+#simple_consult_popup .view-wrapper .select-day span.day .today span { font-size:10px; color:#3bc4ad; }
+#simple_consult_popup .view-wrapper .select-day span.day .select { background:#04b9c2; color:#ffffff; }
+#simple_consult_popup .view-wrapper .select-day span.day .select span { font-size:10px; }
+#simple_consult_popup .view-wrapper .input-data { display:block; float:right; width:346px; height:424px; margin:0 39px 0 0; }
+#simple_consult_popup .view-wrapper .input-data span.st-1 { display:block; float:left; margin:0; padding:0; width:168px; height:27px; background:url(/duo/main_img_2016/popup_06.gif); font-size:0; line-height:100%; }
+#simple_consult_popup .view-wrapper .input-data .box { clear:both; display:block; float:left; width:346px; margin:19px 0 0 0; }
+#simple_consult_popup .view-wrapper .input-data table { width:100%; }
+#simple_consult_popup .view-wrapper span.count { display:block; float:left; width:852px; height:85px; background:#505e70; }
+#simple_consult_popup .view-wrapper span.count span.st-2 { display:block; float:left; margin:0; padding:0; font-size:14px; color:#ffffff; text-align:center; }
+#simple_consult_popup .view-wrapper span.count span.st-3 { display:block; float:left; width:100%; font-size:11px; color:#adadad; text-align:center; }
+#simple_consult_popup .view-wrapper span.count span.member, #simple_consult_popup .view-wrapper span.count span.couple { display:block; float:left; width:100%; font-size:14px; color:#ffffff; text-align:center; }

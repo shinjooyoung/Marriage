@@ -1,0 +1,25 @@
+body, h1, h2, h3, h4, h5, h6, ul, p {
+	margin:0;
+	padding:0;
+	}
+ul {
+	list-style-type:none;
+	}
+body {
+	color:#000000;
+	}
+img, fieldset {
+	border:0;
+	}
+a, a:hover, a:visited, a:link {
+	text-decoration:none;
+	}
+.hideTxt {
+	position:absolute;
+	visibility:hidden;
+	top:0;
+	left:0;
+	height:0;
+	font-size:0;
+	line-height:0;
+	}

@@ -1,0 +1,128 @@
+@charset "utf-8";
+@font-face {
+	font-family: 'Nanum Gothic';
+	font-style: normal;
+	font-weight:800;
+	src:url('/fonts/NanumGothic/NanumGothic-Regular.eot');
+	src:url('/fonts/NanumGothic/NanumGothic-Regular.eot?#iefix') format('embedded-opentype'), url('/fonts/NanumGothic/NanumGothic-Regular.woff2') format('woff2'), url('/fonts/NanumGothic/NanumGothic-Regular.woff') format('woff'), url('/fonts/NanumGothic/NanumGothic-Regular.ttf') format('truetype');
+	}
+@font-face {
+	font-family:'Nanum Gothic Bold';
+	font-style:normal;
+	font-weight:700;
+	src:url('/fonts/NanumGothic/NanumGothic-Bold.eot');
+	src:url('/fonts/NanumGothic/NanumGothic-Bold.eot?#iefix') format('embedded-opentype'), url('/fonts/NanumGothic/NanumGothic-Bold.woff2') format('woff2'), url('/fonts/NanumGothic/NanumGothic-Bold.woff') format('woff'), url('/fonts/NanumGothic/NanumGothic-Bold.ttf') format('truetype');
+	}
+
+#visual-box { display:block; padding:98px 0 0 0; float:left; width:100%; font-size:100%; line-height:1em; }
+#visual-box a { color:inherit; }
+#visual-box .box { display:block; width:100%; height:100%; min-width:1120px; }
+#visual-box .member { display:block; background:url(/html/include/img/member_visual.jpg) center top no-repeat; }
+#visual-box .company { display:block; background:url(/html/include/img/company_visual.jpg) center top no-repeat; }
+#visual-box .duostory { display:block; background:url(/html/include/img/duostory_visual.jpg) center top no-repeat; }
+#visual-box .lovetest { display:block; background:url(/html/include/img/lovetest_visual.jpg) center top no-repeat; }
+#visual-box .meetguide { display:block; background:url(/html/include/img/meetguide_visual.jpg) center top no-repeat; }
+#visual-box .duocouple { display:block; background:url(/html/include/img/couple_visual.jpg) center top no-repeat; }
+#visual-box .event { display:block; background:url(/html/include/img/event_visual.jpg) center top no-repeat; }
+#visual-box .membership { display:block; background:url(/html/include/img/membership_visual.jpg) center top no-repeat; }
+#visual-box .helpdesk { display:block; background:url(/html/include/img/membership_visual.jpg) center top no-repeat; }
+#visual-box .service { display:block; background:url(/html/include/img/service_visual.jpg) center top no-repeat; }
+#visual-box .members { display:block; background:url(/html/include/img/service_01_visual.jpg) center top no-repeat; }
+#visual-box .duostorymain { display:block; background:url(/html/include/img/duostory_01_visual.jpg) center top no-repeat; }
+#visual-box .duosupport { display:block; background:url(/html/include/img/duostory_02_visual.jpg) center top no-repeat; }
+#visual-box .duocouplemain { display:block; background:url(/html/include/img/duocouple_01_visual.jpg) center top no-repeat; }
+#visual-box .lovetestmain { display:block; background:url(/html/include/img/lovetest_01_visual.jpg) center top no-repeat; }
+#visual-box .meetguidemain { display:block; background:url(/html/include/img/meetguide_01_visual.jpg) center top no-repeat; }
+#visual-box .eventmain { display:block; background:url(/html/include/img/event_01_visual.jpg) center top no-repeat; }
+#visual-box .sitemap { display:block; background:url(/html/include/img/sitemap_visual.jpg) center top no-repeat; }
+#visual-box .marriageguide { display:block; background:#d3f1ef; }
+#visual-box .consult_ko { background:#d3f1ef url(/html/membership/img/guide_01.jpg) center top no-repeat; }
+#visual-box .consult_en { background:#d3f1ef url(/html/membership/img/guide_03.jpg) center top no-repeat; }
+#visual-box .consult_ko_end { background:#d3f1ef url(/html/membership/img/guide_05.jpg) center top no-repeat; }
+#visual-box .consult_en_end { background:#d3f1ef url(/html/membership/img/guide_07.jpg) center top no-repeat; }
+
+#visual-box .box .subtitle { display:block; margin:0 auto; width:1120px; height:100%; font-family:'Nanum Gothic'; position:relative; }
+#visual-box .box .subtitle .cell { display:table-cell; width:1120px; height:100px; vertical-align:middle; text-align:center; }
+#visual-box .box .subtitle .cell span { display:block; float:left; width:100%; font-size:12px; color:#ffffff; line-height:1; text-align:center; }
+#visual-box .box .subtitle .cell h2 { position:static; visibility:visible; display:block; float:left; margin:4px 0 0 0; width:100%; font-size:24px; color:#232323; text-align:center; line-height:1; }
+#visual-box .box .subtitle a.tel { display:block; width:132px; height:39px; background:url(/html/include/img/visulal_tel.png) center top no-repeat; position:absolute; right:1px; top:30px; font-size:0; line-height:100%;}
+
+.height_100 { height:100px; }
+.height_190 { height:190px; }
+.height_418 { height:418px; }
+.height_365 { height:365px; }
+.height_235 { height:235px; }
+.height_553 { height:553px; }
+.height_595 { height:595px; }
+.height_172 { height:172px; }
+.height_354 { height:354px; }
+.height_369 { height:369px; }
+
+#left-box { float:left; width:160px; }
+#left-box a { color:inherit; }
+#left-box .fix-box { display:block; width:160px; top:-70px; left:0; position:absolute; }
+#left-box .fix-box span.menu { display:block; float:left; width:160px; }
+#left-box .fix-box span.menu span.st-1 { display:block; float:left; padding-left:10px; width:150px; height:50px; font-size:20px; color:#000000; line-height:48px; }
+#left-box .fix-box span.menu ul { display:block; float:left; width:160px; font-size:13px; }
+#left-box .fix-box span.menu ul li { display:block; float:left; padding-left:10px; width:150px; height:42px; background:#ffffff; line-height:39px; color:#6e6e6e; }
+#left-box .fix-box span.menu ul li a { }
+#left-box .fix-box span.menu ul li:hover { background:#5a6077; color:#ffffff; }
+#left-box .fix-box span.menu ul li:hover a { color:#ffffff; }
+#left-box .fix-box span.menu ul .on { background:#5a6077; color:#ffffff; }
+#left-box .fix-box a.simulation { display:block; float:left; width:80px; height:109px; background-image:url(/html/service/img/new_marriage_02.png); background-position:center top; background-repeat:no-repeat; font-size:0; line-height:0; }
+#left-box .fix-box a.freeconsult { display:block; float:left; width:80px; height:109px; background-image:url(/html/service/img/new_marriage_03.png); background-position:center top; background-repeat:no-repeat; font-size:0; line-height:0; }
+#left-box .fix-box form.freeservice { display:block; float:left; width:160px; height:144px; margin:0; padding:0; }
+#left-box .fix-box form.freeservice span.sub-box { display:block; float:left; width:160px; height:144px; background-image:url(/html/service/img/new_marriage_04.jpg); background-position:center top; background-repeat:no-repeat; }
+#left-box .fix-box form.freeservice span.sub-box span.st-1 { display:block; float:left; padding-left:65px; width:95px; color:#ffffff; font-size:13px; margin-top:16px; line-height:20px; }
+#left-box .fix-box form.freeservice span.sub-box a.submit { display:block; clear:both; margin:0 auto; width:120px; height:32px; background-color:#ffffff; font-size:12px; color:#000000; text-align:center; line-height:29px; }
+#left-box .fix-box form.freeservice span.sub-box span.radio_off { display:block; float:left; padding-left:20px; width:40px; height:19px; background-image:url(/html/service/img/new_marriage_12.png); background-position:left center; background-repeat:no-repeat; font-size:13px; color:#ffffff; line-height:17px; }
+#left-box .fix-box form.freeservice span.sub-box span.radio_on { display:block; float:left; padding-left:20px; width:40px; height:19px; background-image:url(/html/service/img/new_marriage_13.png); background-position:left center; background-repeat:no-repeat; font-size:13px; color:#454e6f; line-height:17px; }
+
+
+#left-box .fix-box .network { display:block; float:left; width:160px; }
+#left-box .fix-box .network span.st-1 { display:block; float:left; width:100%; height:18px; font-size:11px; color:#262626; text-align:center; line-height:15px; }
+#left-box .fix-box .network { display:block; float:left; width:160px; }
+#left-box .fix-box .network ul.jisa { display:block; float:left; width:160px; }
+#left-box .fix-box .network ul.jisa .jisa01 { display:block; float:left; width:160px; height:57px; margin:0 0 15px 0; background:url(/html/include/left/img/jisa_01.jpg) left top no-repeat; }
+#left-box .fix-box .network ul.jisa .jisa01:hover { display:block; float:left; width:160px; height:57px; margin:0 0 15px 0; background:url(/html/include/left/img/jisa_01_on.jpg) left top no-repeat; }
+#left-box .fix-box .network ul.jisa .jisa11 { display:block; float:left; width:80px; height:47px; background:url(/html/include/left/img/jisa_11.jpg) left top no-repeat; }
+#left-box .fix-box .network ul.jisa .jisa11:hover { display:block; float:left; width:80px; height:47px; background:url(/html/include/left/img/jisa_11_on.jpg) left top no-repeat; }
+#left-box .fix-box .network ul.jisa .jisa10 { display:block; float:left; width:80px; height:47px; background:url(/html/include/left/img/jisa_10.jpg) left top no-repeat; }
+#left-box .fix-box .network ul.jisa .jisa10:hover { display:block; float:left; width:80px; height:47px; background:url(/html/include/left/img/jisa_10_on.jpg) left top no-repeat; }
+#left-box .fix-box .network ul.jisa .jisa35 { display:block; float:left; width:80px; height:46px; background:url(/html/include/left/img/jisa_35.jpg) left top no-repeat; }
+#left-box .fix-box .network ul.jisa .jisa35:hover { display:block; float:left; width:80px; height:46px; background:url(/html/include/left/img/jisa_35_on.jpg) left top no-repeat; }
+#left-box .fix-box .network ul.jisa .jisa30 { display:block; float:left; width:80px; height:46px; background:url(/html/include/left/img/jisa_30.jpg) left top no-repeat; }
+#left-box .fix-box .network ul.jisa .jisa30:hover { display:block; float:left; width:80px; height:46px; background:url(/html/include/left/img/jisa_30_on.jpg) left top no-repeat; }
+#left-box .fix-box .network ul.jisa .jisa51 { display:block; float:left; width:80px; height:46px; background:url(/html/include/left/img/jisa_51.jpg) left top no-repeat; }
+#left-box .fix-box .network ul.jisa .jisa51:hover { display:block; float:left; width:80px; height:46px; background:url(/html/include/left/img/jisa_51_on.jpg) left top no-repeat; }
+#left-box .fix-box .network ul.jisa .jisa31 { display:block; float:left; width:80px; height:46px; background:url(/html/include/left/img/jisa_31.jpg) left top no-repeat; }
+#left-box .fix-box .network ul.jisa .jisa31:hover { display:block; float:left; width:80px; height:46px; background:url(/html/include/left/img/jisa_31_on.jpg) left top no-repeat; }
+#left-box .fix-box .network ul.jisa .jisa20 { display:block; float:left; width:80px; height:46px; background:url(/html/include/left/img/jisa_20.jpg) left top no-repeat; }
+#left-box .fix-box .network ul.jisa .jisa20:hover { display:block; float:left; width:80px; height:46px; background:url(/html/include/left/img/jisa_20_on.jpg) left top no-repeat; }
+#left-box .fix-box .network ul.jisa .jisa12 { display:block; float:left; width:80px; height:46px; background:url(/html/include/left/img/jisa_12.jpg) left top no-repeat; }
+#left-box .fix-box .network ul.jisa .jisa12:hover { display:block; float:left; width:80px; height:46px; background:url(/html/include/left/img/jisa_12_on.jpg) left top no-repeat; }
+#left-box .fix-box .network ul.jisa .jisa40 { display:block; float:left; width:80px; height:46px; background:url(/html/include/left/img/jisa_40.jpg) left top no-repeat; }
+#left-box .fix-box .network ul.jisa .jisa40:hover { display:block; float:left; width:80px; height:46px; background:url(/html/include/left/img/jisa_40_on.jpg) left top no-repeat; }
+#left-box .fix-box .network ul.jisa .jisa50 { display:block; float:left; width:80px; height:46px; background:url(/html/include/left/img/jisa_50.jpg) left top no-repeat; }
+#left-box .fix-box .network ul.jisa .jisa50:hover { display:block; float:left; width:80px; height:46px; background:url(/html/include/left/img/jisa_50_on.jpg) left top no-repeat; }
+#left-box .fix-box .network ul.jisa .jisa75 { display:block; float:left; width:80px; height:46px; background:url(/html/include/left/img/jisa_75.jpg) left top no-repeat; }
+#left-box .fix-box .network ul.jisa .jisa75:hover { display:block; float:left; width:80px; height:46px; background:url(/html/include/left/img/jisa_75_on.jpg) left top no-repeat; }
+#left-box .fix-box .network ul.jisa .jisa70 { display:block; float:left; width:80px; height:46px; background:url(/html/include/left/img/jisa_70.jpg) left top no-repeat; }
+#left-box .fix-box .network ul.jisa .jisa70:hover { display:block; float:left; width:80px; height:46px; background:url(/html/include/left/img/jisa_70_on.jpg) left top no-repeat; }
+#left-box .fix-box .network ul.jisa li a { display:block; float:left; width:100%; height:100%; font-size:0; line-height:100%; }
+
+#right-box { float:left; width:70px; height:372px; }
+#right-box a { color:inherit; }
+#right-box ul.menu-list { font-size:11px; color:#ffffff; text-align:center; line-height:16px; }
+#right-box ul.menu-list .tel { width:70px; height:114px; background:url(/html/service/img/main_14.jpg) no-repeat left top; font-size:0; text-indent:-99999px; }
+#right-box ul.menu-list .tel a { display:block; width:70px; height:114px; }
+#right-box ul.menu-list .speed { border-top:1px solid #e2e2e2; width:70px; height:91px; background:url(/html/service/img/main_15.jpg) no-repeat left top; }
+#right-box ul.menu-list .speed a {display:block; width:70px; height:91px; padding:50px 0 0 0; height:41px; color:#434b60; font-size:12px; line-height:16px; }
+#right-box ul.menu-list .simple { width:70px; height:90px; background:url(/html/service/img/main_16.jpg) no-repeat left top; }
+#right-box ul.menu-list .simple a {display:block; width:70px; height:90px; padding:45px 0 0 0; height:46px; color:#434b60; font-size:12px; line-height:16px; }
+#right-box ul.menu-list .top { width:70px; height:76px; background:url(/html/service/img/main_17.jpg) no-repeat left top; }
+#right-box ul.menu-list .top a { display:block; width:70px; height:76px; padding:40px 0 0 0; height:36px; color:#434b60; font-size:0; text-indent:-99999px; }
+#right-box ul.menu-list .fast { width:70px; height:90px; background:#2eb79b url(/html/main_img_09/quick_menu_06.jpg) no-repeat left top; font-size:0; text-indent:-99999px;}
+#right-box ul.menu-list .fast a { display:block; width:70px; height:90px; }
+
+a.footer_speed_icon { position:fixed; right:20px; bottom:20px; display:block; width:96px; height:126px; background:url(/html/include/footer/img/footer_speed.png) left top no-repeat; font-size:0; line-height:100%; z-index:10000; }

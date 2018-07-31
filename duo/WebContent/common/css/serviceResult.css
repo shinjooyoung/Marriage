@@ -1,0 +1,2446 @@
+		/* 왼쪽메뉴 */
+		#leftArea .leftMenuWrap {
+			margin:0 0 20px 0;
+			width:202px;
+			overflow:hidden;
+			}
+			#leftArea .leftMenuList {
+				width:202px;
+				background:url(/duo/service/img/leftMenuBg.gif) repeat-y left top;
+				overflow:hidden;
+				}
+				#leftArea .offLeft {
+					margin:0 0 0 8px;
+					width:150px;
+					border-bottom:1px solid #efefef;
+					font-size:0;
+					line-height:0;
+					}
+				#leftArea .onLeft {
+					margin:0 0 0 8px;
+					width:150px;
+					border-bottom:1px solid #ffffff;
+					font-size:0;
+					line-height:0;
+					}
+				#leftArea .etcLeft {
+					margin:0 0 0 8px;
+					width:150px;
+					font-size:0;
+					line-height:0;
+					}
+				#leftArea .leftMenuImg-1 {
+					display:block;
+					}
+				#leftArea .leftMenuImg-2 {
+					display:block;
+					margin:0 auto;
+					}
+					#leftArea .leftdepth0 {
+						padding:4px 0 4px 5px;
+						width:145px;
+						border-bottom:1px solid #efefef;
+						}
+						#leftArea .leftdepth1 {
+							font-size:12px;
+							color:#5b5b5b;
+							line-height:20px;
+							letter-spacing:-0.05em;
+							zoom:1;
+							}
+							#leftArea .leftdepth1 a {
+								color:#5b5b5b;
+								}
+							#leftArea .leftdepth1 a:hover {
+								font-size:12px;
+								color:#699f07;
+								font-weight:bold;
+								line-height:20px;
+								}
+/*가입안내 본문 배경*/
+.serviceBgArea {
+	padding:125px 0 0 0;
+	width:100%;
+	height:93px;
+	background:url(/duo/service/img/serviceBg.jpg) repeat-x center 125px;
+	}
+/*가입안내 상단 타이틀*/
+.st_T_Wrap {	
+	padding:0 0 12px 0;
+	width:778px;
+	height:30px;
+	border-bottom:1px solid #daecbc;
+	color:#b9b9b9;
+	overflow:hidden;
+	}
+	.st_T_Wrap .stImg {
+		display:block;
+		float:left;
+		}
+	.st_T_Wrap .stsubTxt {
+		float:left;
+		margin:16px 0 0 10px;
+		padding:0 0 0 16px;
+		font-size:12px;
+		background:url(/duo/common/img/st_B_slash.gif) no-repeat left 2px;
+		}
+.common_link-1 {
+	color:#4b4b4b;
+	}
+.common_link-2 {
+	color:#6d6d6d;
+	}
+.common_link-3 {
+	color:#4c4c4c;
+	}
+.common_link-4 {
+	 color:#bbbbbb;
+	}
+.common_link-5 {
+	 color:#222222;
+	}
+.common_contentWrap {
+	width:778px;
+	overflow:hidden;
+	}
+.common_serviceWrap {
+	width:778px;
+	border-top:2px solid #424242;
+	border-bottom:2px solid #424242;
+	font-size:12px;
+	overflow:hidden;
+	}
+	.common_serviceWrap .commonImg {
+		display:block;
+		float:left;
+		width:457px;
+		height:190px;
+		}
+	.common_serviceWrap .common_Form {
+		float:left;
+		margin:0;
+		padding:20px 5px 20px 0;
+		width:316px;
+		height:150px;
+		background:#f7f7f7 url(/duo/service/img/serviceBg_02.jpg) no-repeat left top;
+		}
+		.common_serviceWrap .common_Fieldset {
+			margin:0;
+			padding:0;
+			width:316px;
+			}
+			.common_serviceWrap .hiddenL {
+				position:absolute;
+				visibility:hidden;
+				top:0;
+				left:0;
+				}
+			.common_serviceWrap .common_row {
+				margin:5px 0;
+				overflow:hidden;
+				}
+				.common_serviceWrap .commonLabel-1 {
+					float:left;
+					width:95px;
+					color:#000000;
+					line-height:21px;
+					}
+				.common_serviceWrap .commonLabel-2 {
+					float:left;
+					margin:0 10px 0 5px;
+					width:30px;
+					color:#000000;
+					line-height:21px;
+					}
+				.common_serviceWrap .commonInput-1 {
+					float:left;
+					margin:4px 0;
+					padding:0;
+					width:13px;
+					height:13px;
+					}
+				.common_serviceWrap .commonInput-2 {
+					float:left;
+					width:190px;
+					height:21px;
+					font-size:11px;
+					color:#666666;
+					}
+				.common_serviceWrap .commonBtn-1 {
+					display:block;
+					margin:10px 0 0 0;
+					}
+/*서비스종류_초혼*/
+#typeWrap {
+	float:left;
+	width:778px;
+	font-size:12px;
+	}
+	#typeWrap .typeList {
+		margin:30px 0;
+		width:778px;
+		overflow:hidden;
+		}
+		#typeWrap .typeItem_on {
+			float:left;
+			width:260px;
+			font-size:16px;
+			color:#ffffff;
+			font-weight:bold;
+			text-align:center;
+			line-height:42px;
+			}
+		#typeWrap .typeItem_off {
+			float:left;
+			width:258px;
+			background:#ffffff;
+			border-top:1px solid #c7c7c7;
+			border-bottom:1px solid #c7c7c7;
+			font-size:16px;
+			color:#4b4b4b;
+			text-align:center;
+			line-height:40px;
+			}	
+	#typeWrap .informWrap {
+		margin:50px 0;
+		width:778px;
+		overflow:hidden;
+		}
+		#typeWrap .typeTxt-1 {
+			padding:150px 0 0 45px;
+			font-size:14px;
+			color:#4c4c4c;
+			line-height:26px;
+			}
+			#typeWrap .typeTxt-2 {
+				position:static;
+				visibility:visible;
+				float:left;
+				width:130px;
+				font-size:16px;
+				color:#4c4c4c;
+				line-height:24px;
+				}
+			#typeWrap .typeTxt-3 {
+				position:static;
+				visibility:visible;
+				font-size:16px;
+				color:#4c4c4c;
+				line-height:24px;
+				}
+				#typeWrap .typeTxt-4 {
+					margin:15px 0 0 0;
+					font-size:14px;
+					color:#6d6d6d;
+					line-height:26px;
+					}
+				#typeWrap .typeTxt-5 {
+					padding:5px 0 5px 10px;
+					background:#ffffff;
+					font-size:16px;
+					font-weight:bold;
+					}
+			#typeWrap .typeImg-1 {
+				display:block;
+				float:left;
+				margin:0 8px;
+				width:84px;
+				}
+				#typeWrap .typeImg-2 {
+					display:block;
+					}
+				#typeWrap .typeImg-3 {
+					display:block;
+					float:left;
+					}
+				#typeWrap .typeImg-4 {
+					display:block;
+					margin:0 auto;
+					}
+				#typeWrap .typeImg-5 {
+					display:block;
+					margin:30px auto;
+					}
+				#typeWrap .typeImg-6 {
+					display:block;
+					float:left;
+					width:381px;
+					border-left:1px solid #ffffff;
+					}
+		#typeWrap .programWrap {
+			margin:15px 20px;
+			padding:30px 25px;
+			width:688px;
+			overflow:hidden;
+			}
+			#typeWrap .programList {
+				float:left;
+				width:458px;
+				font-size:14px;
+				line-height:25px;
+				}
+		#typeWrap .matchList {
+			margin:15px 0 30px;
+			width:802px;
+			overflow:hidden;
+			}
+			#typeWrap .matchItem {
+				float:left;
+				margin:0 24px 0 0;
+				width:243px;
+				}
+		#typeWrap .indexWrap {
+			margin:15px 0;
+			padding:19px 17px;
+			width:334px;
+			overflow:hidden;
+			}
+			#typeWrap .indexTable {
+				width:334px;
+				background:#ffffff;
+				border-collapse:collapse;
+				border-spacing:0;
+				overflow:hidden;
+				}
+				/*초혼회원 지표*/
+				#typeWrap .m_thTxt-1 {
+					padding:0 0 0 20px;
+					width:115px;
+					background:url(/duo/service/img/marryImg_07.jpg) no-repeat left top;
+					border-bottom:1px solid #f1faf6;
+					font-size:14px;
+					color:#000000;
+					text-align:left;
+					font-weight:bold;
+					line-height:44px;
+					}
+				#typeWrap .m_thTxt-2 {
+					padding:0 20px 0 0;
+					width:115px;
+					background:url(/duo/service/img/marryImg_08.jpg) no-repeat left top;
+					border-bottom:1px solid #f1faf6;
+					font-size:14px;
+					color:#000000;
+					text-align:right;
+					font-weight:bold;
+					line-height:44px;
+					}
+				#typeWrap .m_thTxt-3 {
+					width:61px;
+					border:1px solid #f1faf6;
+					border-top:none;
+					line-height:44px;
+					}
+				#typeWrap .m_tdTxt-1 {
+					padding:0 10px 0 0;
+					width:125px;
+					height:42px;
+					font-size:12px;
+					color:#17985c;
+					text-align:right;
+					font-weight:bold;
+					}
+				#typeWrap .m_tdTxt-2 {
+					padding:0 0 0 10px;
+					width:125px;
+					height:42px;
+					font-size:12px;
+					color:#17985c;
+					text-align:left;
+					font-weight:bold;
+					}
+				#typeWrap .m_tdTxt-3 {
+					width:61px;
+					border:1px solid #f1faf6;
+					border-top:none;
+					border-bottom:none;
+					font-size:11px;
+					color:#37a974;
+					text-align:center;
+					}				
+				
+				#typeWrap .m_thTxt-4 {				
+					padding:0 20px 0 0;
+					width:115px;
+					background:url(/duo/service/img/marryImg_09.jpg) no-repeat left top;
+					border-bottom:1px solid #f3eef9;
+					font-size:14px;
+					color:#000000;
+					text-align:right;
+					font-weight:bold;
+					line-height:44px;
+					}
+				#typeWrap .m_thTxt-5 {
+					padding:0 0 0 20px;
+					width:115px;
+					background:url(/duo/service/img/marryImg_10.jpg) no-repeat left top;
+					border-bottom:1px solid #f3eef9;
+					font-size:14px;
+					color:#000000;
+					text-align:left;
+					font-weight:bold;
+					line-height:44px;
+					}
+				#typeWrap .m_thTxt-6 {
+					width:61px;
+					border:1px solid #f3eef9;
+					border-top:none;
+					line-height:44px;
+					}
+				#typeWrap .m_tdTxt-4 {
+					padding:0 10px 0 0;
+					width:125px;
+					height:36px;
+					font-size:12px;
+					color:#623495;
+					text-align:right;
+					font-weight:bold;
+					}
+				#typeWrap .m_tdTxt-5 {
+					padding:0 0 0 10px;
+					width:125px;
+					height:36px;
+					font-size:12px;
+					color:#623495;
+					text-align:left;
+					font-weight:bold;
+					}
+				#typeWrap .m_tdTxt-6 {
+					width:61px;
+					border:1px solid #f3eef9;
+					border-top:none;
+					border-bottom:none;
+					font-size:11px;
+					color:#9576b8;
+					text-align:center;
+					}
+				/*초혼회원 지표*/
+				/*재혼회원 지표*/
+				#typeWrap .r_thTxt-1 {
+					padding:0 0 0 20px;
+					width:115px;
+					background:url(/duo/service/img/remarryImg_07.jpg) no-repeat left top;
+					border-bottom:1px solid #faf6f1;
+					font-size:14px;
+					color:#000000;
+					text-align:left;
+					font-weight:bold;
+					line-height:44px;
+					}
+				#typeWrap .r_thTxt-2 {
+					padding:0 20px 0 0;
+					width:115px;
+					background:url(/duo/service/img/remarryImg_08.jpg) no-repeat left top;
+					border-bottom:1px solid #faf6f1;
+					font-size:14px;
+					color:#000000;
+					text-align:right;
+					font-weight:bold;
+					line-height:44px;
+					}
+				#typeWrap .r_thTxt-3 {
+					width:61px;
+					border:1px solid #faf6f1;
+					border-top:none;
+					line-height:44px;
+					}
+				#typeWrap .r_tdTxt-1 {
+					padding:0 10px 0 0;
+					width:125px;
+					height:42px;
+					font-size:12px;
+					color:#a27009;
+					text-align:right;
+					font-weight:bold;
+					}
+				#typeWrap .r_tdTxt-2 {
+					padding:0 0 0 10px;
+					width:125px;
+					height:42px;
+					font-size:12px;
+					color:#a27009;
+					text-align:left;
+					font-weight:bold;
+					}
+				#typeWrap .r_tdTxt-3 {
+					width:61px;
+					border:1px solid #faf6f1;
+					border-top:none;
+					border-bottom:none;
+					font-size:11px;
+					color:#a27009;
+					text-align:center;
+					}				
+				
+				#typeWrap .r_thTxt-4 {				
+					padding:0 20px 0 0;
+					width:115px;
+					background:url(/duo/service/img/remarryImg_09.jpg) no-repeat left top;
+					border-bottom:1px solid #f3eef9;
+					font-size:14px;
+					color:#000000;
+					text-align:right;
+					font-weight:bold;
+					line-height:44px;
+					}
+				#typeWrap .r_thTxt-5 {
+					padding:0 0 0 20px;
+					width:115px;
+					background:url(/duo/service/img/remarryImg_10.jpg) no-repeat left top;
+					border-bottom:1px solid #f3eef9;
+					font-size:14px;
+					color:#000000;
+					text-align:left;
+					font-weight:bold;
+					line-height:44px;
+					}
+				#typeWrap .r_thTxt-6 {
+					width:61px;
+					border:1px solid #f3eef9;
+					border-top:none;
+					line-height:44px;
+					}
+				#typeWrap .r_tdTxt-4 {
+					padding:0 10px 0 0;
+					width:125px;
+					height:42px;
+					font-size:12px;
+					color:#623495;
+					text-align:right;
+					font-weight:bold;
+					}
+				#typeWrap .r_tdTxt-5 {
+					padding:0 0 0 10px;
+					width:125px;
+					height:42px;
+					font-size:12px;
+					color:#623495;
+					text-align:left;
+					font-weight:bold;
+					}
+				#typeWrap .r_tdTxt-6 {
+					width:61px;
+					border:1px solid #f3eef9;
+					border-top:none;
+					border-bottom:none;
+					font-size:11px;
+					color:#9576b8;
+					text-align:center;
+					}
+				/*재혼회원 지표*/
+			#typeWrap .detailBtn {
+				display:block;
+				float:right;
+				margin:10px 0 0;
+				width:120px;
+				background:#ffffff;
+				font-size:14px;
+				color:#000000;
+				text-align:center;
+				line-height:26px;
+				}
+		#typeWrap .stepList {
+			margin:15px 0;
+			width:778px;
+			}
+			#typeWrap .stepItem {
+				padding:15px 0 0 150px;
+				width:628px;
+				height:155px;
+				font-size:16px;
+				color:#000000;
+				overflow:hidden;
+				}
+/*가입자격 & 가입비*/
+#joinFeeWrap {
+	float:left;
+	width:778px;
+	font-size:12px;
+	}
+	#joinFeeWrap .joinfeeTxt-1 {
+		float:right;
+		color:#575757;
+		line-height:26px;
+		}
+	#joinFeeWrap .joinImg-1 {
+		display:block;
+		float:left;
+		}
+	#joinFeeWrap .joinImg-2 {
+		display:block;
+		float:right;
+		}
+	#joinFeeWrap .joinImg-3 {
+		display:block;
+		margin:0 auto;
+		}
+	
+	#joinFeeWrap .fee_tdTxt-1 {
+		padding:10px 0;
+		background:#ffffff;
+		border-right:1px solid #cecece;
+		border-bottom:1px solid #cecece;
+		font-size:12px;
+		color:#000000;
+		font-weight:bold;
+		text-align:center;
+		}
+	#joinFeeWrap .fee_tdTxt-2 {
+		padding:10px 0;
+		background:#ffffff;
+		border-right:1px solid #cecece;
+		border-bottom:1px solid #cecece;
+		font-size:12px;
+		color:#000000;
+		text-align:center;
+		line-height:18px;
+		}
+	#joinFeeWrap .fee_tdTxt-3 {
+		padding:10px 0;
+		background:#ffffff;
+		border-bottom:1px solid #cecece;
+		font-size:14px;
+		color:#e64551;
+		font-weight:bold;
+		text-align:center;
+		}
+	#joinFeeWrap .fee_tdTxt-4 {
+		padding:10px;
+		background:#ffffff;
+		border-bottom:1px solid #cecece;
+		font-size:12px;
+		color:#f73746;
+		line-height:18px;
+		}
+	#joinFeeWrap .fee_tdTxt-5 {
+		padding:10px;
+		background:#ffffff;
+		border-bottom:1px solid #cecece;
+		font-size:12px;
+		color:#e64551;
+		line-height:18px;
+		}
+	#joinFeeWrap .fee_tdTxt-6 {
+		padding:10px;
+		background:#ffffff;
+		border-right:1px solid #cecece;
+		border-bottom:1px solid #cecece;
+		font-size:12px;
+		color:#000000;
+		line-height:18px;
+		}
+
+	/*초혼 가입자격 & 가입비*/
+	#joinFeeWrap .marryTxt-1 {
+		position:static;
+		visibility:visible;
+		float:left;
+		width:300px;
+		font-size:18px;
+		color:#74a113;
+		line-height:26px;
+		}
+	#joinFeeWrap .marryTxt-2 {
+		width:778px;
+		height:35px;
+		background:#76a50b;
+		color:#ffffff;
+		text-align:center;
+		line-height:35px;
+		}
+	#joinFeeWrap .marryWrap {
+		padding:20px;
+		width:734px;
+		border:2px solid #76a50b;
+		overflow:hidden;
+		}
+		#joinFeeWrap .marryTxt-3 {
+			padding:0 0 10px 0;
+			font-size:16px;
+			font-weight:bold;
+			color:#000000;
+			}
+	#joinFeeWrap .marryTable {
+		width:359px;
+		border-collapse:collapse;
+		border-spacing:0;
+		border:1px solid #cecece;
+		overflow:hidden;
+		}
+		#joinFeeWrap .marryTable .thM {
+			padding:10px 0;
+			width:178px;
+			background:#f0f4fd;
+			border-right:1px solid #cecece;
+			border-bottom:1px solid #cecece;
+			font-size:14px;
+			color:#3d3d3d;
+			}
+		#joinFeeWrap .marryTable .thW {
+			padding:10px 0;
+			width:178px;
+			background:#feeeee;
+			border-bottom:1px solid #cecece;
+			font-size:14px;
+			color:#3d3d3d;
+			}
+	#joinFeeWrap .marrySTable {
+		width:732px;
+		border-collapse:collapse;
+		border-spacing:0;
+		border:1px solid #cecece;
+		overflow:hidden;
+		}
+		#joinFeeWrap .marrySTable .thM {
+			padding:10px 0;
+			width:365px;
+			background:#f0f4fd;
+			border-right:1px solid #cecece;
+			border-bottom:1px solid #cecece;
+			font-size:14px;
+			color:#3d3d3d;
+			}
+		#joinFeeWrap .marrySTable .thW {
+			padding:10px 0;
+			width:366px;
+			background:#feeeee;
+			border-right:1px solid #cecece;
+			border-bottom:1px solid #cecece;
+			font-size:14px;
+			color:#3d3d3d;
+			}
+	/*재혼 가입자격 & 가입비*/
+	#joinFeeWrap .remarryTxt-1 {
+		position:static;
+		visibility:visible;
+		float:left;
+		width:300px;
+		font-size:18px;
+		color:#ad8b4c;
+		line-height:26px;
+		}
+	#joinFeeWrap .remarryTxt-2 {
+		width:778px;
+		height:35px;
+		background:#ad8b4c;
+		color:#ffffff;
+		text-align:center;
+		line-height:35px;
+		}
+	#joinFeeWrap .remarryWrap {
+		padding:20px;
+		width:734px;
+		border:2px solid #ad8b4c;
+		overflow:hidden;
+		}
+		#joinFeeWrap .remarryTxt-3 {
+			padding:0 0 10px 0;
+			font-size:16px;
+			font-weight:bold;
+			color:#000000;
+			}
+	#joinFeeWrap .remarryTable {
+		width:359px;
+		border-collapse:collapse;
+		border-spacing:0;
+		border:1px solid #cecece;
+		overflow:hidden;
+		}
+		#joinFeeWrap .remarryTable .thM {
+			padding:10px 0;
+			width:178px;
+			background:#f0f4fd;
+			border-right:1px solid #cecece;
+			border-bottom:1px solid #cecece;
+			font-size:14px;
+			color:#3d3d3d;
+			}
+		#joinFeeWrap .remarryTable .thW {
+			padding:10px 0;
+			width:178px;
+			background:#feeeee;
+			border-bottom:1px solid #cecece;
+			font-size:14px;
+			color:#3d3d3d;
+			}
+	#joinFeeWrap .remarrySTable {
+		width:732px;
+		border-collapse:collapse;
+		border-spacing:0;
+		border:1px solid #cecece;
+		overflow:hidden;
+		}
+		#joinFeeWrap .remarrySTable .thM {
+			padding:10px 0;
+			width:365px;
+			background:#f0f4fd;
+			border-right:1px solid #cecece;
+			border-bottom:1px solid #cecece;
+			font-size:14px;
+			color:#3d3d3d;
+			}
+		#joinFeeWrap .remarrySTable .thW {
+			padding:10px 0;
+			width:366px;
+			background:#feeeee;
+			border-right:1px solid #cecece;
+			border-bottom:1px solid #cecece;
+			font-size:14px;
+			color:#3d3d3d;
+			}
+	/*노블레스 가입자격 & 가입비*/
+	#joinFeeWrap .noblesseTxt-1 {
+		position:static;
+		visibility:visible;
+		float:left;
+		width:300px;
+		font-size:18px;
+		color:#cf5240;
+		line-height:26px;
+		}
+	#joinFeeWrap .noblesseTxt-2 {
+		width:778px;
+		height:35px;
+		background:#cf5240;
+		color:#ffffff;
+		text-align:center;
+		line-height:35px;
+		}
+	#joinFeeWrap .noblesseWrap {
+		padding:20px;
+		width:734px;
+		border:2px solid #cf5240;
+		overflow:hidden;
+		}
+		#joinFeeWrap .noblesseTxt-3 {
+			padding:0 0 10px 0;
+			font-size:16px;
+			font-weight:bold;
+			color:#000000;
+			}
+	#joinFeeWrap .noblesseSTable {
+		width:732px;
+		border-collapse:collapse;
+		border-spacing:0;
+		border:1px solid #cecece;
+		overflow:hidden;
+		}
+		#joinFeeWrap .noblesseSTable .thM {
+			padding:10px 0;
+			width:365px;
+			background:#f0f4fd;
+			border-right:1px solid #cecece;
+			border-bottom:1px solid #cecece;
+			font-size:14px;
+			color:#3d3d3d;
+			}
+		#joinFeeWrap .noblesseSTable .thW {
+			padding:10px 0;
+			width:366px;
+			background:#feeeee;
+			border-right:1px solid #cecece;
+			border-bottom:1px solid #cecece;
+			font-size:14px;
+			color:#3d3d3d;
+			}
+	/*오블리주 가입자격 & 가입비*/
+	#joinFeeWrap .obligeTxt-1 {
+		position:static;
+		visibility:visible;
+		float:left;
+		width:300px;
+		font-size:18px;
+		color:#656972;
+		line-height:26px;
+		}
+	#joinFeeWrap .obligeTxt-2 {
+		width:778px;
+		height:35px;
+		background:#656972;
+		color:#ffffff;
+		text-align:center;
+		line-height:35px;
+		}
+	#joinFeeWrap .obligeWrap {
+		padding:20px;
+		width:734px;
+		border:2px solid #656972;
+		overflow:hidden;
+		}
+		#joinFeeWrap .obligeTxt-3 {
+			padding:0 0 10px 0;
+			font-size:16px;
+			font-weight:bold;
+			color:#000000;
+			}
+	#joinFeeWrap .obligeTable {
+		width:359px;
+		border-collapse:collapse;
+		border-spacing:0;
+		border:1px solid #cecece;
+		overflow:hidden;
+		}
+		#joinFeeWrap .obligeTable .thM {
+			padding:10px 0;
+			width:178px;
+			background:#f0f4fd;
+			border-right:1px solid #cecece;
+			border-bottom:1px solid #cecece;
+			font-size:14px;
+			color:#3d3d3d;
+			}
+		#joinFeeWrap .obligeTable .thW {
+			padding:10px 0;
+			width:178px;
+			background:#feeeee;
+			border-bottom:1px solid #cecece;
+			font-size:14px;
+			color:#3d3d3d;
+			}
+
+	#joinFeeWrap .joinfeeTxt-2 {
+		position:static;
+		visibility:visible;
+		font-size:16px;
+		color:#000000;
+		line-height:22px;
+		}
+	#joinFeeWrap .joinfeeTxt-3 {
+		color:#808080;
+		line-height:20px;
+		}
+	#joinFeeWrap .joinfeeTxt-4 {
+		position:static;
+		visibility:visible;
+		font-size:16px;
+		color:#76a315;
+		line-height:22px;
+		}
+	#joinFeeWrap .joinfeeTxt-5 {
+		margin:10px 0 30px 0;
+		padding:0 0 30px 0;
+		border-bottom:1px solid #dddddd;
+		color:#808080;
+		line-height:20px;
+		}
+/*매칭 및 활동절차*/
+#matchWrap {
+	float:left;
+	width:778px;
+	font-size:12px;
+	}
+	#matchWrap .matchImg-1 {
+		display:block;
+		}
+	#matchWrap .matchTxt-1 {
+		position:static;
+		visibility:visible;
+		margin:30px 0;
+		font-size:18px;
+		color:#000000;
+		}
+	#matchWrap .matchTxt-2 {
+		font-size:16px;
+		color:#000000;
+		font-weight:bold;
+		}
+	#matchWrap .matchTxt-3 {
+		font-size:14px;
+		color:#8fbd27;
+		font-weight:bold;
+		}
+	#matchWrap .matchTxt-4 {
+		margin:10px 0 0 0;
+		font-size:12px;
+		color:#4f4f4f;
+		line-height:18px;
+		}
+	#matchWrap .matchTxt-5 {
+		margin:10px 0 30px;
+		font-size:12px;
+		color:#4f4f4f;
+		line-height:18px;
+		}
+	#matchWrap .matchTxt-6 {
+		margin:15px 0 30px;
+		font-size:12px;
+		color:#4f4f4f;
+		line-height:20px;
+		}
+	#matchWrap .navWrap {
+		width:778px;
+		overflow:hidden;
+		}
+		#matchWrap .navItem {
+			float:left;
+			width:389px;
+			}
+	#matchWrap .matchList {
+		margin:30px 0;
+		width:778px;
+		font-size:0;
+		overflow:hidden;
+		}
+		#matchWrap .matchItem-1 {
+			padding:0 0 0 105px;
+			width:673px;
+			height:114px;
+			background:url(/duo/service/img/matchingBg_01.jpg) no-repeat left top;
+			overflow:hidden;
+			}
+		#matchWrap .matchItem-2 {
+			padding:0 0 0 105px;
+			width:673px;
+			height:176px;
+			background:url(/duo/service/img/matchingBg_02.jpg) no-repeat left top;
+			overflow:hidden;
+			}
+		#matchWrap .matchItem-3 {
+			padding:0 0 0 105px;
+			width:673px;
+			height:284px;
+			background:url(/duo/service/img/matchingBg_03.jpg) no-repeat left top;
+			overflow:hidden;
+			}
+		#matchWrap .matchItem-4 {
+			padding:0 0 0 105px;
+			width:673px;
+			height:155px;
+			background:url(/duo/service/img/matchingBg_04.jpg) no-repeat left top;
+			overflow:hidden;
+			}
+		#matchWrap .matchItem-5 {
+			padding:0 0 0 105px;
+			width:673px;
+			height:149px;
+			background:url(/duo/service/img/matchingBg_05.jpg) no-repeat left top;
+			overflow:hidden;
+			}
+		#matchWrap .matchItem-6 {
+			padding:0 0 0 105px;
+			width:673px;
+			height:143px;
+			background:url(/duo/service/img/matchingBg_06.jpg) no-repeat left top;
+			overflow:hidden;
+			}
+		#matchWrap .matchItem-7 {
+			padding:0 0 0 105px;
+			width:673px;
+			height:149px;
+			background:url(/duo/service/img/matchingBg_07.jpg) no-repeat left top;
+			overflow:hidden;
+			}
+	#matchWrap .systemWrap {
+		padding:0 0 0 285px;
+		width:493px;
+		background:#ffffff url(/duo/service/img/matchingBg_08.jpg) no-repeat left top;
+		overflow:hidden;
+		}
+/*상담방법 & 자료요청*/
+#consultwayWrap {
+	float:left;
+	width:778px;
+	font-size:12px;
+	}
+	#consultwayWrap .consultImg-1 {
+		display:block;
+		}
+	#consultwayWrap .consultImg-2 {
+		display:block;
+		border-bottom:1px solid #e3e3e3;
+		}
+	#consultwayWrap .consultImg-3 {
+		display:block;
+		margin:20px auto;
+		}
+	#consultwayWrap .consultImg-4 {
+		display:block;
+		float:left;
+		margin:0 14px 0 0;
+		width:221px;
+		}
+	#consultwayWrap .consultImg-5 {
+		display:block;
+		margin:8px 0;
+		}
+	#consultwayWrap .consultImg-6 {
+		display:block;
+		float:left;
+		width:58px;
+		}
+	#consultwayWrap .consultTxt-1 {
+		position:static;
+		visibility:visible;
+		margin:30px 0 0;
+		font-size:18px;
+		color:#000000;
+		}
+	#consultwayWrap .consultTxt-2 {
+		margin:5px 0 0;
+		font-size:12px;
+		color:#4f4f4f;
+		line-height:20px;
+		}
+	#consultwayWrap .consultTxt-3 {
+		position:static;
+		visibility:visible;
+		margin:0 0 10px 0;
+		font-size:16px;
+		color:#000000;
+		}
+	#consultwayWrap .consultTxt-4 {
+		font-size:14px;
+		color:#515151;
+		font-weight:bold;
+		}
+	#consultwayWrap .consultTxt-5 {
+		margin:8px 0 15px;
+		padding:0 0 13px 0;
+		border-bottom:1px solid #aeaeae;
+		font-size:22px;
+		color:#d34946;
+		font-weight:bold;
+		letter-spacing:-0.05em;
+		zoom:1;
+		}
+	#consultwayWrap .consultTxt-6 {
+		margin:8px 0;
+		font-size:12px;
+		color:#555555;
+		line-height:18px;
+		}
+	#consultwayWrap .navWrap {
+		width:778px;
+		overflow:hidden;
+		}
+		#consultwayWrap .navItem {
+			float:left;
+			}
+	#consultwayWrap .telWrap {
+		margin:10px 0 0;
+		padding:0 0 0 155px;
+		width:623px;
+		height:145px;
+		background:#f6f6f6 url(/duo/service/img/consultImg_01.jpg) no-repeat left top;
+		border-top:1px solid #b5b5b5;
+		border-bottom:1px solid #b5b5b5;
+		overflow:hidden;
+		}
+	#consultwayWrap .jisaInform {
+		padding:15px;
+		width:420px;
+		background:#f7f7f7;
+		border-top:2px solid #5b5b5b;
+		border-bottom:2px solid #5b5b5b;
+		overflow:hidden;
+		}
+/*회원가입 시뮬레이션*/
+#simulationWrap {
+	float:left;
+	width:778px;
+	font-size:12px;
+	}
+	#simulationWrap .simulationImg-1 {
+		display:block;
+		}
+	#simulationWrap .simulationImg-2 {
+		position:absolute;
+		top:-30px;
+		left:15px;
+		display:block;
+		}
+	#simulationWrap .simulationImg-3 {
+		display:block;
+		float:left;
+		}
+	#simulationWrap .simulationImg-4 {
+		display:block;
+		float:right;
+		}
+	#simulationWrap .simulationImg-5 {
+		display:block;
+		margin:0 auto;
+		}
+	#simulationWrap .simulationTxt-1 {
+		position:static;
+		visibility:visible;
+		margin:30px 0 10px;
+		padding:0 0 5px 0;
+		width:778px;
+		border-bottom:2px solid #424242;
+		font-size:18px;
+		color:#7ba619;
+		text-align:center;
+		}
+	#simulationWrap .simulationTxt-2 {
+		padding:15px 30px;
+		width:714px;
+		background:#f7f7f7;
+		border:2px solid #8bb629;
+		color:#686868;
+		line-height:18px;
+		position:relative;
+		}
+	#simulationWrap .flashWrap {
+		margin:55px 0 20px;
+		width:370px;
+		height:240px;
+		background:#000000;
+		overflow:hidden;
+		}
+/*희망상대 Profile 무료추천*/
+#profileWrap {
+	float:left;
+	width:778px;
+	font-size:12px;
+	}
+	#profileWrap .allWrap {
+		margin:30px 0 0;
+		padding:30px 0 0 0;
+		width:778px;
+		background:url(/duo/service/img/profile/bgImg_01.jpg) no-repeat left top;
+		}
+	#profileWrap .profileTxt-1 {
+		font-size:16px;
+		color:#698f11;
+		font-weight:bold;
+		line-height:22px;
+		}
+	#profileWrap .profileTxt-2 {
+		color:#969696;
+		line-height:18px;
+		}
+	#profileWrap .profileTxt-3 {
+		position:static;
+		visibility:visible;
+		padding:0 0 8px 0;
+		font-size:16px;
+		color:#000000;
+		}
+	#profileWrap .profileTxt-4 {
+		position:static;
+		visibility:visible;
+		font-size:16px;
+		color:#7c7c7c;
+		text-align:center;
+		}
+	#profileWrap .profileTxt-5 {
+		margin:92px 0 20px;
+		font-size:14px;
+		color:#84af21;
+		text-align:center;
+		}
+	#profileWrap .profileTxt-6 {
+		font-size:12px;
+		color:#7c7c7c;
+		text-align:center;
+		line-height:18px;
+		}
+	#profileWrap .profileImg-1 {	
+		display:block;
+		}
+	#profileWrap .profileImg-2 {	
+		display:block;
+		margin:14px 0 0 24px;
+		}
+	#profileWrap .profileImg-3 {	
+		display:block;
+		margin:15px auto 0;
+		}
+	#profileWrap .endWrap {
+		margin:30px 0;
+		padding:47px 100px 0 200px;
+		width:478px;
+		height:353px;
+		background:url(/duo/service/img/profile/bgImg_02.jpg) no-repeat left top;
+		}
+/*듀오서비스 무료체험*/
+#freeserviceWrap {
+	float:left;
+	width:778px;
+	font-size:12px;
+	}
+	#freeserviceWrap .freeImg-1 {
+		display:block;
+		}
+	#freeserviceWrap .freeImg-2 {
+		display:block;
+		float:left;
+		}
+	#freeserviceWrap .freeImg-3 {
+		display:block;
+		margin:0 auto;
+		}
+	#freeserviceWrap .freeImg-4 {
+		display:block;
+		margin:10px 0 30px;
+		}
+	#freeserviceWrap .freeTxt-1 {
+		position:absolute;
+		visibility:hidden;
+		top:0;
+		left:0;
+		display:none;
+		}
+	#freeserviceWrap .freeTxt-2 {
+		margin:10px 0 30px;
+		font-size:12px;
+		color:#5b5b5b;
+		line-height:18px;
+		}
+	#freeserviceWrap .freeTxt-3 {
+		position:static;
+		visibility:visible;
+		font-size:18px;
+		color:#838b01;
+		text-align:center;
+		}
+	#freeserviceWrap .freeTxt-4 {
+		position:static;
+		visibility:visible;
+		font-size:18px;
+		color:#b58543;
+		text-align:center;
+		}
+	#freeserviceWrap .freeTxt-5 {
+		position:static;
+		visibility:visible;
+		font-size:18px;
+		color:#d18404;
+		text-align:center;
+		}
+	#freeserviceWrap .btnWrap {
+		margin:0 auto;
+		width:366px;
+		overflow:hidden;
+		}
+	#freeserviceWrap .topWrap_M {
+		width:778px;
+		height:169px;
+		background:url(/duo/service/img/free_service/f_bgImg_01.jpg) no-repeat left top;
+		}
+	#freeserviceWrap .contentWrap_M {
+		padding:5px 54px;
+		width:670px;
+		background:url(/duo/service/img/free_service/f_bgImg_02.jpg) repeat-y left top;
+		}
+	#freeserviceWrap .bottomWrap_M {
+		padding:60px 0 0 0;
+		width:778px;
+		height:70px;
+		background:url(/duo/service/img/free_service/f_bgImg_03.jpg) no-repeat left top;
+		}
+	#freeserviceWrap .topWrap_R {
+		width:778px;
+		height:169px;
+		background:url(/duo/service/img/free_service/r_bgImg_01.jpg) no-repeat left top;
+		}
+	#freeserviceWrap .contentWrap_R {
+		padding:5px 54px;
+		width:670px;
+		background:url(/duo/service/img/free_service/r_bgImg_02.jpg) repeat-y left top;
+		}
+	#freeserviceWrap .bottomWrap_R {
+		padding:60px 0 0 0;
+		width:778px;
+		height:70px;
+		background:url(/duo/service/img/free_service/r_bgImg_03.jpg) no-repeat left top;
+		}
+	#freeserviceWrap .topWrap_N {
+		width:778px;
+		height:169px;
+		background:url(/duo/service/img/free_service/n_bgImg_01.jpg) no-repeat left top;
+		}
+	#freeserviceWrap .contentWrap_N {
+		padding:5px 54px;
+		width:670px;
+		background:url(/duo/service/img/free_service/n_bgImg_02.jpg) repeat-y left top;
+		}
+	#freeserviceWrap .bottomWrap_N {
+		padding:60px 0 0 0;
+		width:778px;
+		height:70px;
+		background:url(/duo/service/img/free_service/n_bgImg_03.jpg) no-repeat left top;
+		}
+
+	#freeserviceWrap .freeBtnList {
+		padding:55px 0 0 44px;
+		width:195px;
+		overflow:hidden;
+		}
+		#freeserviceWrap .freeBtnItem {
+			float:left;
+			margin:0 5px 0 0;
+			width:60px;
+			}
+
+	#freeserviceWrap .commonTable {
+		margin:10px 0 30px;
+		width:670px;
+		border-collapse:collapse;
+		border-spacing:0;
+		overflow:hidden;
+		}
+		#freeserviceWrap .commonTable .thLeft {
+			padding:5px 0;
+			width:334px;
+			border-right:1px solid #ffffff;
+			border-bottom:1px solid #ffffff;
+			font-size:14px;
+			color:#ffffff;
+			}
+		#freeserviceWrap .commonTable .thRight {
+			padding:5px 0;
+			width:335px;
+			border-bottom:1px solid #ffffff;
+			font-size:14px;
+			color:#ffffff;
+			}
+		#freeserviceWrap .commonTable .tdLeft {
+			padding:10px 15px;
+			width:304px;
+			background:#f5f5f5;
+			border-right:1px solid #c5c5c5;
+			border-bottom:1px solid #c5c5c5;
+			font-size:12px;
+			color:#5b5b5b;
+			line-height:18px;
+			}
+		#freeserviceWrap .commonTable .tdRight {
+			padding:10px 15px;
+			width:305px;
+			background:#f5f5f5;
+			border-bottom:1px solid #c5c5c5;
+			font-size:12px;
+			color:#5b5b5b;
+			line-height:18px;
+			}
+
+	#freeserviceWrap .commonCount {
+		margin:10px 0 30px;
+		padding:15px;
+		width:640px;
+		background:#2c2c2c;
+		overflow:hidden;
+		}
+		#freeserviceWrap .countTxt-1 {
+			font-size:18px;
+			color:#f1fd03;
+			font-weight:bold;
+			text-align:center;
+			}
+		#freeserviceWrap .countTxt-2 {
+			font-size:18px;
+			color:#fec502;
+			font-weight:bold;
+			text-align:center;
+			}
+		#freeserviceWrap .countTxt-3 {
+			margin:5px 0 0 0;
+			font-size:55px;
+			color:#ffffff;
+			font-weight:bold;
+			text-align:center;
+			letter-spacing:-0.05em;
+			zoom:1;
+			}
+/*1:1매칭*/
+#matchtypeWrap {
+	float:left;
+	width:778px;
+	font-size:12px;
+	}
+	#matchtypeWrap .matchImg-1 {
+		display:block;
+		}
+	#matchtypeWrap .matchImg-2 {
+		display:block;
+		float:left;
+		margin:0 8px 0 0;
+		width:32px;
+		}
+	#matchtypeWrap .matchImg-3 {
+		display:block;
+		margin:15px 0;
+		}
+	#matchtypeWrap .matchTxt-1 {
+		position:static;
+		visibility:visible;
+		font-size:18px;
+		color:#575757;
+		}
+	#matchtypeWrap .navWrap {
+		margin:40px 0;
+		width:778px;
+		overflow:hidden;
+		}
+		#matchtypeWrap .navItem {
+			float:left;
+			width:259px;
+			}
+	#matchtypeWrap .informList {
+		margin:15px 0 50px 0;
+		padding:0 20px;
+		width:738px;
+		background:#f6f6f6;
+		border-top:1px solid #e8e8e8;
+		border-bottom:1px solid #e8e8e8;
+		overflow:hidden;
+		}
+		#matchtypeWrap .informItem {
+			padding:10px 0;
+			width:738px;
+			border-bottom:1px solid #e8e8e8;
+			font-size:0;
+			color:#626263;
+			line-height:0;
+			overflow:hidden;
+			}
+/*안내자료요청*/
+#marriageWrap {
+	float:left;
+	width:778px;
+	font-size:12px;
+	}
+	#marriageWrap .guideTxt-1 {
+		}
+	#marriageWrap .guideTxt-2 {
+		position:static;
+		visibility:visible;
+		margin:25px 0 7px;
+		font-size:16px;
+		color:#4e4e4e;
+		font-weight:normal;
+		}
+	#marriageWrap .guideImg-1 {
+		display:block;
+		}
+	#marriageWrap .guideImg-2 {
+		display:block;
+		margin:0 auto;
+		}
+	#marriageWrap .guideImg-3 {
+		display:block;
+		margin:15px auto;
+		}
+	#marriageWrap .guideEnd {
+		margin:30px 0;
+		padding:30px 0 0 65px;
+		width:713px;
+		height:213px;
+		background:url(/duo/service/img/serviceBg_03.jpg) no-repeat left top;
+		overflow:hidden;
+		}
+/*숫자로보는듀오*/
+#numberWrap {
+	float:left;
+	width:778px;
+	font-size:12px;
+	}	
+	#numberWrap .numTxt-1 {
+		display:block;
+		width:100%;
+		font-size:12px;
+		color:#535353;
+		line-height:20px;
+		}
+	#numberWrap .numTxt-2 {
+		font-size:53px; 
+		color:#f36918;
+		font-weight:bold;
+		line-height:80px;,
+		letter-spacing:-0.05em;
+		}
+	#numberWrap .numList {
+		padding:0 30px;
+		width:718px;
+		background:#f3f0dd;
+		}
+		#numberWrap .numItem-1 {
+			padding:26px 0 20px 0;
+			width:718px;
+			border-bottom:1px solid #c0c0be;
+			overflow:hidden;
+			}
+		#numberWrap .numItem-2 {
+			float:left;
+			width:352px;
+			background:url(/duo/service/img/numberBg_03.jpg) no-repeat left top;
+			border-right:1px solid #c0c0be;
+			}
+		#numberWrap .numItem-3 {
+			float:right;
+			width:337px;
+			background:url(/duo/service/img/numberBg_04.jpg) no-repeat left top;
+			}
+		#numberWrap .numItem-4 {
+			float:left;
+			width:235px;
+			background:url(/duo/service/img/numberBg_05.jpg) no-repeat left top;
+			border-right:1px solid #c0c0be;
+			}
+		#numberWrap .numItem-5 {
+			float:left;
+			margin:0 0 0 20px;
+			width:219px;
+			background:url(/duo/service/img/numberBg_06.jpg) no-repeat left top;
+			border-right:1px solid #c0c0be;
+			}
+		#numberWrap .numItem-6 {
+			float:right;
+			width:220px;
+			background:url(/duo/service/img/numberBg_07.jpg) no-repeat left top;
+			}
+	#numberWrap .n-tab { margin:30px 0; width:778px; font-size:16px; text-align:center; line-height:40px; overflow:hidden; }
+	#numberWrap .n-tab li { float:left; width:387px; height:40px; background:#ffffff; border:1px solid #c7c7c7; color:#4b4b4b; }
+	#numberWrap .n-tab .on { float:left; width:387px; height:40px; background:#67a20f; border:1px solid #67a20f; color:#ffffff; font-weight:bold; line-height:40px; }
+
+	#numberWrap .n-con { width:778px; background:#f3f0dd; }
+	#numberWrap .n-img-1 { display:block; }
+
+
+/*/Duo/service/consult.asp 신규 추가 컨텐츠*/
+#consultwayWrap .brochure-on { display:block; width:778px; }
+#consultwayWrap .brochure-off { display:none; width:778px; }
+#consultwayWrap ul.bro { margin-bottom:13px; width:770px; overflow:hidden; }
+#consultwayWrap ul.bro a { color:inherit; }
+#consultwayWrap ul.bro li.on { float:left; margin-right:10px; width:140px; height:40px; background:#d34946; border:1px solid #d34946; font-size:14px; color:#ffffff; text-align:center; line-height:40px; }
+#consultwayWrap ul.bro li.off { float:left; margin-right:10px; width:140px; height:40px; background:#ffffff; border:1px solid #dedede; font-size:14px; color:#313131; text-align:center; line-height:40px; }
+#consultwayWrap .broimg-1 { display:block; margin-bottom:40px; border-top:2px solid #5b5b5b; }
+#consultwayWrap .brobtn-1 { display:block; float:left; }
+#consultwayWrap .brobtn-2 { display:block; float:right; }
+#consultwayWrap .brobtn-3 { display:block; margin:0 auto; }
+
+
+
+
+/* 가입비 신규 */
+#membershipfee { display:block; padding:98px 0 0 0; width:100%; min-width:1120px; background:#ffffff url(/duo/service/img/bg_03.jpg) center 98px repeat-x; font-size:75%; line-height:1em; }
+#membershipfee .hide { position:absolute; overflow:hidden; top:-9999px; left:-9999px; width:0; height:0; font-size:0; line-height:0; text-indent:-10000px; }
+#membershipfee caption { display:block; margin-top:-1px; height:0; color:transparent; line-height:0; overflow:hidden; }
+#membershipfee a { color:inherit; }
+
+#membershipfee .left_box { float:left; width:160px; margin-top:39px; }
+#membershipfee .left_box span.menu { display:block; float:left; width:160px; }
+#membershipfee .left_box span.menu span.st-1 { display:block; float:left; padding-left:10px; width:150px; height:50px; font-size:20px; color:#000000; line-height:48px; }
+#membershipfee .left_box span.menu ul { display:block; float:left; width:160px; font-size:13px; }
+#membershipfee .left_box span.menu ul li { display:block; float:left; padding-left:10px; width:150px; height:42px; background:#ffffff; line-height:39px; color:#6e6e6e; }
+#membershipfee .left_box span.menu ul li a { }
+#membershipfee .left_box span.menu ul li:hover { background:#5a6077; color:#ffffff; }
+#membershipfee .left_box span.menu ul li:hover a { color:#ffffff; }
+#membershipfee .left_box span.menu ul .on { background:#5a6077; color:#ffffff; }
+#membershipfee .left_box a.simulation { display:block; float:left; width:80px; height:109px; background-image:url(/duo/service/img/new_marriage_02.png); background-position:center top; background-repeat:no-repeat; font-size:0; line-height:0; }
+#membershipfee .left_box a.freeconsult { display:block; float:left; width:80px; height:109px; background-image:url(/duo/service/img/new_marriage_03.png); background-position:center top; background-repeat:no-repeat; font-size:0; line-height:0; }
+#membershipfee .left_box form.freeservice { display:block; float:left; width:160px; height:144px; margin:0; padding:0; }
+#membershipfee .left_box form.freeservice span.box { display:block; float:left; width:160px; height:144px; background-image:url(/duo/service/img/new_marriage_04.jpg); background-position:center top; background-repeat:no-repeat; }
+#membershipfee .left_box form.freeservice span.box span.st-1 { display:block; float:left; padding-left:65px; width:95px; color:#ffffff; font-size:13px; margin-top:16px; line-height:20px; }
+#membershipfee .left_box form.freeservice span.box a.submit { display:block; clear:both; margin:0 auto; width:120px; height:32px; background-color:#ffffff; font-size:12px; color:#000000; text-align:center; line-height:29px; }
+#membershipfee .left_box form.freeservice span.box span.radio_off { display:block; float:left; padding-left:20px; width:40px; height:19px; background-image:url(/duo/service/img/new_marriage_12.png); background-position:left center; background-repeat:no-repeat; font-size:13px; color:#ffffff; line-height:17px; }
+#membershipfee .left_box form.freeservice span.box span.radio_on { display:block; float:left; padding-left:20px; width:40px; height:19px; background-image:url(/duo/service/img/new_marriage_13.png); background-position:left center; background-repeat:no-repeat; font-size:13px; color:#454e6f; line-height:17px; }
+
+#membershipfee .content_box { display:block; float:right; width:918px; margin:0 0 0 0; position:relative; }
+#membershipfee .content_box .fee_tab { position:absolute; left:140px; top:187px; display:block; width:602px; height:50px; }
+#membershipfee .content_box .fee_tab_sub { display:block; width:602px; height:50px; font-size:18px; color:#5c5c5c; text-align:center; line-height:47px; }
+#membershipfee .content_box .fee_tab_sub span { display:block; float:left; width:200px; height:50px; background:#ffffff; }
+#membershipfee .content_box .fee_tab_sub .remarry { border-left:1px solid #dbdfe2; border-right:1px solid #dbdfe2; }
+#membershipfee .content_box .fee_tab_sub .on { background:#28b8c0; color:#ffffff; }
+#membershipfee .content_box .fee_tab_sub .other { background:#6d7d8c;  color:#ffffff; }
+
+#membershipfee .content_box .top_box { display:block; float:left; padding:65px 0 0 0; width:918px; height:229px; position:relative; }
+#membershipfee .content_box .top_box h2.txt-type1 { position:static; visibility:visible; display:block; width:181px; height:34px; margin:0 auto 25px; background:url(/duo/service/img/bg_04.png) center top no-repeat; font-size:14px; color:#ffffff; line-height:31px; text-align:center; font-weight:normal; }
+#membershipfee .content_box .top_box h3.txt-type1 { position:static; visibility:visible; display:block; width:274px; height:33px; margin:0 auto 90px; background:url(/duo/service/img/st_81.png) center top no-repeat; font-size:0; line-height:100%; }
+#membershipfee .content_box .top_box span.txt-type1 { display:block; position:absolute; right:0; top:45px; font-size:12px; color:#ffffff; text-align:right; }
+#membershipfee .content_box .top_box span.txt-type2 { display:block; margin:0 auto; width:602px; font-size:12px; color:#778a90; text-align:right; }
+
+#membershipfee .content_box .consult_box { display:block; float:left; width:918px; height:255px; }
+#membershipfee .content_box .consult_box span { display:block; float:left; width:918px; height:146px; background:url(/duo/service/img/st_94.jpg) center top no-repeat; font-size:0; line-height:100%; }
+#membershipfee .content_box .consult_box a.marry { display:block; margin:0 10px 0 130px; float:left; width:317px; height:63px; background:url(/duo/service/img/btn_22.jpg) center top no-repeat; font-size:0; line-height:100%; }
+#membershipfee .content_box .consult_box a.remarry { display:block; margin:0 10px 0 130px; float:left; width:317px; height:63px; background:url(/duo/service/img/btn_24.jpg) center top no-repeat; font-size:0; line-height:100%; }
+#membershipfee .content_box .consult_box a.noble { display:block; margin:0 10px 0 130px; float:left; width:317px; height:63px; background:url(/duo/service/img/btn_25.jpg) center top no-repeat; font-size:0; line-height:100%; }
+#membershipfee .content_box .consult_box a.consult { display:block; float:left; width:317px; height:63px; background:url(/duo/service/img/btn_23.jpg) center top no-repeat; font-size:0; line-height:100%; }
+
+#membershipfee .content_box .marry_fee1 { display:block; float:left; width:918px; height:930px; padding:60px 0 0 0; }
+#membershipfee .content_box .marry_fee1 h3.txt-type1 { position:static; visibility:visible; display:block; width:257px; height:39px; margin:0 auto; background:url(/duo/service/img/bg_05.png) center top no-repeat;font-size:16px; color:#26282b; text-align:center; font-weight:normal; line-height:36px; }
+#membershipfee .content_box .marry_fee1 h3.txt-title { position:static; visibility:visible; display:block; width:400px; height:260px; margin:0 auto 90px; background:url(/duo/service/img/st_120.jpg) center top no-repeat; font-size:0; line-height:100%; }
+#membershipfee .content_box .marry_fee1 h3.txt-backmain { position:static; visibility:visible; display:block; width:330px; height:50px; margin:0 auto 90px; background:url(/duo/service/img/st_121.png) center top no-repeat; font-size:0; line-height:100%; }
+
+#membershipfee .content_box .marry_fee1 table td span.txt-type1 { display:block; float:left; width:107px; height:83px; background:url(/duo/service/img/st_82.png) center top no-repeat; font-size:0; line-height:100%; }
+/*노블레스 타이틀 위해서 txt-type1-1 생성*/
+#membershipfee .content_box .marry_fee1 table td span.txt-type1-1 { display:block; float:left; width:143px; height:83px; background:url(/duo/service/img/st_101.png) center top no-repeat; font-size:0; line-height:100%; }
+#membershipfee .content_box .marry_fee1 table td span.txt-type2 { display:inline-block; padding:0 0 5px 0; width:100%; font-size:16px; color:#353535; line-height:32px; }
+#membershipfee .content_box .marry_fee1 table td span.txt-type3 { display:inline-block; width:100%; font-size:12px; color:#6b6b6b; line-height:20px; }
+
+
+
+#membershipfee .content_box .marry_fee1 .fee-type1 { display:block; float:left; width:429px; margin:36px 0 0 0; }
+#membershipfee .content_box .marry_fee1 .fee-type2 { display:block; float:right; width:429px; margin:36px 0 0 0; }
+#membershipfee .content_box .marry_fee1 .fee-type3 { display:block; clear:both; float:left; width:918px; margin:50px 0 0 0; }
+#membershipfee .content_box .marry_fee1 .fee-type1 span.txt-type1 { display:block; float:left; width:429px; height:173px; background:url(/duo/service/img/st_85.jpg) center top no-repeat; font-size:0; line-height:100%; }
+
+/*노블레스 위로 올리기위해서 호출이미지 수정 86->104*/
+#membershipfee .content_box .marry_fee1 .fee-type2 span.txt-type1 { display:block; float:left; width:429px; height:173px; background:url(/duo/service/img/st_104.jpg) center top no-repeat; font-size:0; line-height:100%; }
+#membershipfee .content_box .marry_fee1 .fee-type3 span.txt-type1 { display:block; float:left; width:429px; height:260px; background:url(/duo/service/img/st_87.jpg) center top no-repeat; font-size:0; line-height:100%; }
+
+#membershipfee .content_box .marry_fee1 .fee-type1 span.box { display:block; float:left; margin:-1px 0 0 0; padding:0 29px 0 29px; width:369px; height:216px; border:2px solid #e7e7e7; background:#ffffff; }
+#membershipfee .content_box .marry_fee1 .fee-type2 span.box { display:block; float:left; margin:-1px 0 0 0; padding:0 29px 0 29px; width:369px; height:369px; border:2px solid #e7e7e7; background:#ffffff; }
+#membershipfee .content_box .marry_fee1 .fee-type3 span.box { display:block; float:left; margin:0 0 0 -1px; padding:0 0 0 40px; width:448px; height:258px; border:1px solid #e7e7e7; background:#ffffff; }
+#membershipfee .content_box .marry_fee1 .fee-type1 span.cell { display:table-cell; width:369px; height:216px; vertical-align:middle; color:#676767; font-size:14px; }
+#membershipfee .content_box .marry_fee1 .fee-type2 span.cell { display:table-cell; width:369px; height:216px; vertical-align:middle; color:#676767; font-size:14px; }
+#membershipfee .content_box .marry_fee1 .fee-type3 span.cell { display:table-cell; width:448px; height:258px; vertical-align:middle; color:#676767; font-size:14px; }
+#membershipfee .content_box .marry_fee1 .fee-type1 span.cell .term, #membershipfee .content_box .marry_fee1 .fee-type2 span.cell .term, #membershipfee .content_box .marry_fee1 .fee-type3 span.cell .term { display:block; float:left; width:100%; height:33px; background:url(/duo/service/img/icon_06.gif) left center no-repeat; padding:0 0 0 30px; line-height:31px; }
+#membershipfee .content_box .marry_fee1 .fee-type1 span.cell .blank, #membershipfee .content_box .marry_fee1 .fee-type2 span.cell .blank, #membershipfee .content_box .marry_fee1 .fee-type3 span.cell .blank { background:none; }
+
+#membershipfee .content_box .purchase { display:block; float:left; width:918px; height:627px; padding:79px 0 0 0; }
+#membershipfee .content_box .purchase table td span.txt-type1 { display:block; float:left; width:107px; height:83px; background:url(/duo/service/img/st_117.png) center top no-repeat; font-size:0; line-height:100%; }
+#membershipfee .content_box .marry_fee2 table td span.txt-type2 { display:inline-block; padding:0 0 5px 0; width:100%; font-size:16px; color:#353535; line-height:32px; }
+#membershipfee .content_box .marry_fee2 table td span.txt-type3 { display:inline-block; width:100%; font-size:12px; color:#6b6b6b; line-height:20px; }
+#membershipfee .content_box .marry_fee2 .fee-type2 { display:block; float:right; width:429px; margin:49px 0 0 0; }
+#membershipfee .content_box .marry_fee2 .fee-type3 { display:block; clear:both; float:left; width:918px; margin:50px 0 0 0; }
+#membershipfee .content_box .marry_fee2 .fee-type2 span.txt-type1 { display:block; float:left; width:429px; height:173px; background:url(/duo/service/img/st_92.jpg) center top no-repeat; font-size:0; line-height:100%; }
+#membershipfee .content_box .marry_fee2 .fee-type3 span.txt-type1 { display:block; float:left; width:429px; height:260px; background:url(/duo/service/img/st_93.jpg) center top no-repeat; font-size:0; line-height:100%; }
+#membershipfee .content_box .marry_fee2 .fee-type2 span.box { display:block; float:left; margin:-1px 0 0 0; padding:0 29px 0 29px; width:369px; height:216px; border:1px solid #ffffff; background:#ffffff; }
+#membershipfee .content_box .marry_fee2 .fee-type3 span.box { display:block; float:left; margin:0 0 0 -1px; padding:0 0 0 40px; width:448px; height:258px; border:1px solid #ffffff; background:#ffffff; }
+#membershipfee .content_box .marry_fee2 .fee-type2 span.cell { display:table-cell; width:369px; height:216px; vertical-align:middle; color:#676767; font-size:14px; }
+#membershipfee .content_box .marry_fee2 .fee-type3 span.cell { display:table-cell; width:448px; height:258px; vertical-align:middle; color:#676767; font-size:14px; }
+#membershipfee .content_box .marry_fee2 .fee-type1 span.cell .blank, #membershipfee .content_box .marry_fee2 .fee-type2 span.cell .blank, #membershipfee .content_box .marry_fee2 .fee-type3 span.cell .blank { background:none; }
+
+/* 결제 css*/
+#membershipfee .content_box .purchase .fee-type1 { display:block; clear:both; float:left; width:918px; margin:50px 0 0 0; }
+#membershipfee .content_box .purchase .fee-type1 span.txt-type1 { display:block; float:left; width:429px; height:353px; background:url(/duo/service/img/st_116.jpg) center top no-repeat; font-size:0; line-height:100%;}
+#membershipfee .content_box .purchase .fee-type1 span.box { display:block; float:left; margin:0 0 0 -1px; padding:0 0 0 40px; width:400px; height:351px; border:1px solid #ffffff; background:#ffffff;}
+#membershipfee .content_box .purchase .fee-type1 span.cell { display:table-cell; width:448px; height:280px; vertical-align:middle; color:#676767; font-size:19px;  }
+#membershipfee .content_box .purchase .fee-type1 span.cell .term, #membershipfee .content_box .marry_fee2 .fee-type2 span.cell .term, #membershipfee .content_box .marry_fee2 .fee-type3 span.cell .term { display:block; float:left; width:100%; height:33px; background:url(/duo/service/img/icon_06.gif) left center no-repeat; padding:0 0 0 50px; line-height:31px; }
+
+#membershipfee .content_box .purchase .fee-type1 span.purbtn { float:left; display:table-cell; width:200px; height:50px; vertical-align:middle;  }
+
+
+
+
+
+
+#membershipfee .content_box .remarry_fee { display:block; float:left; width:918px; height:617px; padding:110px 0 0 0; }
+#membershipfee .content_box .remarry_fee h3.txt-type1 { position:static; visibility:visible; display:block; width:257px; height:39px; margin:0 auto; background:url(/duo/service/img/bg_05.png) center top no-repeat;font-size:16px; color:#26282b; text-align:center; font-weight:normal; line-height:36px; }
+#membershipfee .content_box .remarry_fee table td span.txt-type1 { display:block; float:left; width:142px; height:83px; background:url(/duo/service/img/st_95.png) center top no-repeat; font-size:0; line-height:100%; }
+#membershipfee .content_box .remarry_fee table td span.txt-type2 { display:inline-block; padding:0 0 5px 0; width:100%; font-size:16px; color:#353535; line-height:24px; }
+#membershipfee .content_box .remarry_fee .fee-type1 { display:block; float:left; width:429px; margin:36px 0 0 0; }
+#membershipfee .content_box .remarry_fee .fee-type2 { display:block; float:right; width:429px; margin:36px 0 0 0; }
+#membershipfee .content_box .remarry_fee .fee-type3 { display:block; clear:both; float:left; width:918px; margin:50px 0 0 0; }
+#membershipfee .content_box .remarry_fee .fee-type1 span.txt-type1 { display:block; float:left; width:429px; height:173px; background:url(/duo/service/img/st_98_new.jpg) center top no-repeat; font-size:0; line-height:100%; }
+#membershipfee .content_box .remarry_fee .fee-type2 span.txt-type1 { display:block; float:left; width:429px; height:173px; background:url(/duo/service/img/st_99.jpg) center top no-repeat; font-size:0; line-height:100%; }
+#membershipfee .content_box .remarry_fee .fee-type3 span.txt-type1 { display:block; float:left; width:429px; height:260px; background:url(/duo/service/img/st_100.jpg) center top no-repeat; font-size:0; line-height:100%; }
+#membershipfee .content_box .remarry_fee .fee-type1 span.box { display:block; float:left; margin:-1px 0 0 0; padding:0 29px 0 29px; width:369px; height:216px; border:1px solid #e7e7e7; background:#ffffff; }
+#membershipfee .content_box .remarry_fee .fee-type2 span.box { display:block; float:left; margin:-1px 0 0 0; padding:0 29px 0 29px; width:369px; height:216px; border:1px solid #e7e7e7; background:#ffffff; }
+#membershipfee .content_box .remarry_fee .fee-type3 span.box { display:block; float:left; margin:0 0 0 -1px; padding:0 0 0 40px; width:448px; height:258px; border:1px solid #e7e7e7; background:#ffffff; }
+#membershipfee .content_box .remarry_fee .fee-type1 span.cell { display:table-cell; width:369px; height:216px; vertical-align:middle; color:#676767; font-size:14px; }
+#membershipfee .content_box .remarry_fee .fee-type2 span.cell { display:table-cell; width:369px; height:216px; vertical-align:middle; color:#676767; font-size:14px; }
+#membershipfee .content_box .remarry_fee .fee-type3 span.cell { display:table-cell; width:448px; height:258px; vertical-align:middle; color:#676767; font-size:14px; }
+#membershipfee .content_box .remarry_fee .fee-type1 span.cell .term, #membershipfee .content_box .remarry_fee .fee-type2 span.cell .term, #membershipfee .content_box .remarry_fee .fee-type3 span.cell .term { display:block; float:left; width:100%; height:33px; background:url(/duo/service/img/icon_07.gif) left center no-repeat; padding:0 0 0 30px; line-height:31px; }
+#membershipfee .content_box .remarry_fee .fee-type1 span.cell .blank, #membershipfee .content_box .remarry_fee .fee-type2 span.cell .blank, #membershipfee .content_box .remarry_fee .fee-type3 span.cell .blank { background:none; }
+
+#membershipfee .content_box .noble_fee1 { display:block; float:left; width:918px; height:1004px; padding:89px 0 0 0; }
+#membershipfee .content_box .noble_fee1 h3.txt-type1 { position:static; visibility:visible; display:block; width:257px; height:39px; margin:0 auto; background:url(/duo/service/img/bg_05.png) center top no-repeat;font-size:16px; color:#26282b; text-align:center; font-weight:normal; line-height:36px; }
+#membershipfee .content_box .noble_fee1 table td span.txt-type1 { display:block; float:left; width:143px; height:83px; background:url(/duo/service/img/st_101.png) center top no-repeat; font-size:0; line-height:100%; }
+#membershipfee .content_box .noble_fee1 table td span.txt-type2 { display:inline-block; padding:0 0 7px 0; width:100%; font-size:14px; color:#353535; line-height:24px; }
+#membershipfee .content_box .noble_fee1 .fee-type1 { display:block; float:left; width:429px; margin:45px 0 0 0; }
+#membershipfee .content_box .noble_fee1 .fee-type2 { display:block; float:right; width:429px; margin:45px 0 0 0; }
+#membershipfee .content_box .noble_fee1 .fee-type1 span.txt-type1 { display:block; float:left; width:429px; height:173px; background:url(/duo/service/img/st_104.jpg) center top no-repeat; font-size:0; line-height:100%; }
+#membershipfee .content_box .noble_fee1 .fee-type2 span.txt-type1 { display:block; float:left; width:429px; height:173px; background:url(/duo/service/img/st_105.jpg) center top no-repeat; font-size:0; line-height:100%; }
+#membershipfee .content_box .noble_fee1 .fee-type1 span.box { display:block; float:left; margin:-1px 0 0 0; padding:0 29px 0 29px; width:369px; height:389px; border:1px solid #e7e7e7; background:#ffffff; }
+#membershipfee .content_box .noble_fee1 .fee-type2 span.box { display:block; float:left; margin:-1px 0 0 0; padding:0 29px 0 29px; width:369px; height:389px; border:1px solid #e7e7e7; background:#ffffff; }
+#membershipfee .content_box .noble_fee1 .fee-type1 span.cell { display:table-cell; width:369px; height:389px; vertical-align:middle; color:#676767; font-size:14px; }
+#membershipfee .content_box .noble_fee1 .fee-type2 span.cell { display:table-cell; width:369px; height:389px; vertical-align:middle; color:#676767; font-size:14px; }
+#membershipfee .content_box .noble_fee1 .fee-type1 span.cell .term, #membershipfee .content_box .noble_fee1 .fee-type2 span.cell .term { display:block; float:left; width:100%; height:33px; background:url(/duo/service/img/icon_08.gif) left center no-repeat; padding:0 0 0 30px; line-height:31px; }
+#membershipfee .content_box .noble_fee1 .fee-type1 span.cell .blank, #membershipfee .content_box .noble_fee1 .fee-type2 span.cell .blank { background:none; }
+
+#membershipfee .content_box .noble_fee2 { display:block; float:left; width:918px; height:660px; }
+#membershipfee .content_box .noble_fee2 table td span.txt-type1 { display:block; float:left; width:107px; height:83px; background:url(/duo/service/img/st_106.png) center top no-repeat; font-size:0; line-height:100%; }
+#membershipfee .content_box .noble_fee2 table td span.txt-type2 { display:inline-block; width:100%; font-size:16px; color:#353535; line-height:32px; }
+#membershipfee .content_box .noble_fee2 .fee-type1 { display:block; clear:both; float:left; width:918px; margin:50px 0 0 0; }
+#membershipfee .content_box .noble_fee2 .fee-type1 span.txt-type1 { display:block; float:left; width:429px; height:353px; background:url(/duo/service/img/st_107.jpg) center top no-repeat; font-size:0; line-height:100%; }
+#membershipfee .content_box .noble_fee2 .fee-type1 span.box { display:block; float:left; margin:0 0 0 -1px; padding:0 0 0 40px; width:448px; height:351px; border:1px solid #ffffff; background:#ffffff; }
+#membershipfee .content_box .noble_fee2 .fee-type1 span.cell { display:table-cell; width:448px; height:351px; vertical-align:middle; color:#676767; font-size:14px; }
+#membershipfee .content_box .noble_fee2 .fee-type1 span.cell .term { display:block; float:left; width:100%; height:33px; background:url(/duo/service/img/icon_08.gif) left center no-repeat; padding:0 0 0 30px; line-height:31px; }
+
+#membershipfee .content_box .noble_fee3 { display:block; float:left; width:918px; height:474px; padding:73px 0 0 0; }
+#membershipfee .content_box .noble_fee3 h3.txt-type1 { position:static; visibility:visible; display:block; margin:0 0 0 253px; width:420px; height:40px; background:url(/duo/service/img/st_108.png) center top no-repeat; font-size:0; line-height:100%; }
+#membershipfee .content_box .noble_fee3 .fee-type1 { display:block; float:left; width:429px; margin:40px 0 0 0; }
+#membershipfee .content_box .noble_fee3 .fee-type2 { display:block; float:right; width:429px; margin:40px 0 0 0; }
+#membershipfee .content_box .noble_fee3 .fee-type1 span.txt-type1 { display:block; float:left; width:429px; height:173px; background:url(/duo/service/img/st_109.jpg) center top no-repeat; font-size:0; line-height:100%; }
+#membershipfee .content_box .noble_fee3 .fee-type2 span.txt-type1 { display:block; float:left; width:429px; height:173px; background:url(/duo/service/img/st_110.jpg) center top no-repeat; font-size:0; line-height:100%; }
+#membershipfee .content_box .noble_fee3 .fee-type1 span.box, #membershipfee .content_box .noble_fee3 .fee-type2 span.box { display:block; float:left; margin:-1px 0 0 0; padding:0 29px 0 29px; width:369px; height:151px; border:1px solid #e7e7e7; background:#ffffff; }
+#membershipfee .content_box .noble_fee3 .fee-type1 span.cell, #membershipfee .content_box .noble_fee3 .fee-type2 span.cell { display:table-cell; width:369px; height:151px; vertical-align:middle; color:#676767; font-size:14px; }
+#membershipfee .content_box .noble_fee3 .fee-type1 span.cell .term, #membershipfee .content_box .noble_fee3 .fee-type2 span.cell .term { display:block; float:left; width:100%; line-height:24px; text-align:center; }
+
+#membershipfee .content_box .notice_box { display:block; float:left; width:918px; height:850px; padding:80px 0 0 0; }
+#membershipfee .content_box .notice_box h3.txt-type1 { position:static; visibility:visible; display:block; width:257px; height:39px; margin:0 auto; background:url(/duo/service/img/bg_05.png) center top no-repeat;font-size:16px; color:#ffffff; text-align:center; font-weight:normal; line-height:36px; }
+#membershipfee .content_box .notice_box table span.txt-type1 { display:block; float:left; width:100%; font-size:18px; color:#fcff00; margin:5px 0 25px 0; line-height:1em; }
+#membershipfee .content_box .notice_box table span.txt-type2 { display:block; float:left; width:100%; line-height:26px; }
+#membershipfee .content_box .notice_box table td.cell1, #membershipfee .content_box .notice_box table td.cell2, #membershipfee .content_box .notice_box table td.cell3, #membershipfee .content_box .notice_box table td.cell4 { font-size:14px; color:#ffffff; }
+#membershipfee .content_box .notice_box table td.cell1 span.txt-type2 { display:block; float:left; width:100%; height:33px; background:url(/duo/service/img/icon_09.gif) left center no-repeat; padding:0 0 0 30px; line-height:31px; }
+#membershipfee .content_box .notice_box table td.cell4 span.txt-type1 { margin:13px 0 10px 0; }
+
+
+
+
+
+/* 가입안내 메인 */
+#servicemain { display:block; padding:98px 0 0 0; width:100%; min-width:1120px; font-size:75%; line-height:1em; }
+#servicemain .hide { position:absolute; overflow:hidden; top:-9999px; left:-9999px; width:0; height:0; font-size:0; line-height:0; text-indent:-10000px; }
+#servicemain caption { display:block; margin-top:-1px; height:0; color:transparent; line-height:0; overflow:hidden; }
+#servicemain a { color:inherit; }
+
+#servicemain .left_box { display:block; width:160px; top:39px; left:0; position:absolute; }
+#servicemain .left_box span.menu { display:block; float:left; width:160px; }
+#servicemain .left_box span.menu span.st-1 { display:block; float:left; padding-left:10px; width:150px; height:50px; font-size:20px; color:#000000; line-height:48px; }
+#servicemain .left_box span.menu ul { display:block; float:left; width:160px; font-size:13px; }
+#servicemain .left_box span.menu ul li { display:block; float:left; padding-left:10px; width:150px; height:42px; background:#ffffff; line-height:39px; color:#6e6e6e; }
+#servicemain .left_box span.menu ul li a { }
+#servicemain .left_box span.menu ul li:hover { background:#5a6077; color:#ffffff; }
+#servicemain .left_box span.menu ul li:hover a { color:#ffffff; }
+#servicemain .left_box span.menu ul .on { background:#5a6077; color:#ffffff; }
+#servicemain .left_box a.simulation { display:block; float:left; width:80px; height:109px; background-image:url(/duo/service/img/new_marriage_02.png); background-position:center top; background-repeat:no-repeat; font-size:0; line-height:0; }
+#servicemain .left_box a.freeconsult { display:block; float:left; width:80px; height:109px; background-image:url(/duo/service/img/new_marriage_03.png); background-position:center top; background-repeat:no-repeat; font-size:0; line-height:0; }
+#servicemain .left_box form.freeservice { display:block; float:left; width:160px; height:144px; margin:0; padding:0; }
+#servicemain .left_box form.freeservice span.box { display:block; float:left; width:160px; height:144px; background-image:url(/duo/service/img/new_marriage_04.jpg); background-position:center top; background-repeat:no-repeat; }
+#servicemain .left_box form.freeservice span.box span.st-1 { display:block; float:left; padding-left:65px; width:95px; color:#ffffff; font-size:13px; margin-top:16px; line-height:20px; }
+#servicemain .left_box form.freeservice span.box a.submit { display:block; clear:both; margin:0 auto; width:120px; height:32px; background-color:#ffffff; font-size:12px; color:#000000; text-align:center; line-height:29px; }
+#servicemain .left_box form.freeservice span.box span.radio_off { display:block; float:left; padding-left:20px; width:40px; height:19px; background-image:url(/duo/service/img/new_marriage_12.png); background-position:left center; background-repeat:no-repeat; font-size:13px; color:#ffffff; line-height:17px; }
+#servicemain .left_box form.freeservice span.box span.radio_on { display:block; float:left; padding-left:20px; width:40px; height:19px; background-image:url(/duo/service/img/new_marriage_13.png); background-position:left center; background-repeat:no-repeat; font-size:13px; color:#454e6f; line-height:17px; }
+
+#servicemain .content_box { display:block; float:right; width:918px; margin:0 0 0 0; position:relative; }
+
+
+#servicemain .service-top { width:100%; min-width:1120px; height:1055px; background:#ffffff url(/duo/service/img/bg_06.jpg) center top no-repeat; }
+#servicemain .service-top .box { display:block; margin:0 auto; width:1120px; height:1055px; position:relative; }
+#servicemain .service-top .box .top1 { display:block; float:left; width:100%; height:348px; }
+#servicemain .service-top .box .top1 h2 { position:static; visibility:visible; display:block; float:left; width:100%; height:155px; font-size:0; line-height:100%; }
+#servicemain .service-top .box .top1 span.txt-type1 { display:block; float:left; width:100%; font-size:16px; color:#6b6b6b; text-align:center; line-height:26px; margin:0 0 32px 0; }
+#servicemain .service-top .box .top1 span.txt-type2 { display:block; position:absolute; right:0; top:45px; font-size:12px; color:#ffffff; text-align:right; }
+#servicemain .service-top .box .top1 a.consult { display:block; clear:both; margin:0 auto; width:253px; height:50px; border:1px solid #39b5ae; font-size:18px; color:#1c7685; text-align:center; line-height:47px; }
+#servicemain .service-top .box .square1 { display:block; float:left; padding:0 0 0 51px; width:408px; height:313px; background:#388594; position:relative; }
+#servicemain .service-top .box .square2 { display:block; float:left; padding:0 0 0 66px; width:393px; height:313px; background:#38b5ae; position:relative; }
+#servicemain .service-top .box .square3 { display:block; float:left; padding:0 0 0 50px; width:408px; height:312px; background:#ffffff; position:relative; border:1px solid #e7e7e7; border-top:0; border-right:0; }
+#servicemain .service-top .box .square4 { display:block; float:left; padding:0 0 0 65px; width:394px; height:313px; background:#ffffff url(/duo/service/img/bg_07.jpg) center top no-repeat; position:relative; }
+#servicemain .service-top .box .square1 h3 { position:static; visibility:visible; position:absolute; left:51px; top:123px; display:block; width:329px; height:38px; background:url(/duo/service/img/main_01.png) center top no-repeat; font-size:0; line-height:0;}
+#servicemain .service-top .box .square2 h3 { position:static; visibility:visible; position:absolute; left:66px; top:123px; display:block; width:303px; height:38px; background:url(/duo/service/img/main_02.png) center top no-repeat; font-size:0; line-height:0; }
+#servicemain .service-top .box .square3 h3 { position:static; visibility:visible; position:absolute; left:48px; top:123px; display:block; width:261px; height:38px; background:url(/duo/service/img/main_03.png) center top no-repeat; font-size:0; line-height:0; }
+#servicemain .service-top .box .square4 h3 { position:static; visibility:visible; position:absolute; left:65px; top:123px; display:block; width:273px; height:38px; background:url(/duo/service/img/main_04.png) center top no-repeat; font-size:0; line-height:0; }
+#servicemain .service-top .box .square1 span.txt-type1, #servicemain .service-top .box .square2 span.txt-type1, #servicemain .service-top .box .square3 span.txt-type1, #servicemain .service-top .box .square4 span.txt-type1 { display:block; float:left; margin:49px 0 110px 0; width:100%; font-size:16px; color:#ffffff; line-height:25px; }
+#servicemain .service-top .box .square3 span.txt-type1 { color:#516581; }
+#servicemain .service-top .box .square1 a.detail { display:block; float:left; margin:0 0 0 3px; width:136px; height:38px; border:1px solid #98bfc7; font-size:14px; color:#ffffff; text-align:center; line-height:35px; }
+#servicemain .service-top .box .square2 a.detail { display:block; float:left; margin:0 0 0 5px; width:136px; height:38px; border:1px solid #ffffff; background:#ffffff; font-size:14px; color:#636b7e; text-align:center; line-height:35px; }
+#servicemain .service-top .box .square3 a.detail { display:block; float:left; margin:0 0 0 3px; width:136px; height:38px; border:1px solid #a1a5a5; background:#a1a5a5; font-size:14px; color:#ffffff; text-align:center; line-height:35px; }
+#servicemain .service-top .box .square4 a.detail { display:block; float:left; margin:0 0 0 5px; width:136px; height:38px; border:1px solid #d5d4d5; font-size:14px; color:#ffffff; text-align:center; line-height:35px; }
+
+#servicemain .service-duo { width:100%; min-width:1120px; height:440px; padding:48px 0 0 0; background:#47a9ba; }
+#servicemain .service-duo .box { display:block; margin:0 auto; width:1120px; height:440px; }
+#servicemain .service-duo .box h3 { position:static; visibility:visible; display:block; margin:0 auto; width:257px; height:39px; background:url(/duo/service/img/bg_10.png) center top no-repeat; font-size:16px; color:#ffffff; text-align:center; font-weight:normal; line-height:36px; }
+#servicemain .service-duo .box a.type1 { clear:both; display:block; float:left; margin:44px 0 0 0; padding:0 0 0 80px; width:238px; height:307px; background:#ffffff url(/duo/service/img/main_05.jpg) center top no-repeat; font-size:16px; color:#ffea00; }
+#servicemain .service-duo .box a.type2 { display:block; float:left; margin:44px 0 0 0; padding:157px 0 0 89px; width:205px; height:150px; background:#ffffff url(/duo/service/img/main_06.jpg) center top no-repeat; font-size:16px; color:#ffea00; }
+#servicemain .service-duo .box a.type3 { display:block; float:left; margin:44px 0 0 0; padding:0 0 0 108px; width:198px; height:307px; background:#ffffff url(/duo/service/img/main_07.jpg) center top no-repeat; font-size:16px; color:#ffea00; }
+
+#servicemain .service-history { width:100%; min-width:1120px; padding:81px 0 0 0; height:460px; background:#ffffff url(/duo/service/img/bg_11.jpg) center top no-repeat; }
+#servicemain .service-history .box { display:block; margin:0 auto; width:1120px; height:460px; }
+#servicemain .service-history .box h3 { position:static; visibility:visible; display:block; margin:0 auto; width:317px; height:39px; background:url(/duo/service/img/bg_13.png) center top no-repeat; font-size:16px; color:#000000; text-align:center; font-weight:normal; line-height:36px; }
+#servicemain .service-history .box span.type1 { display:block; float:left; width:449px; height:185px; background:#ffffff url(/duo/service/img/main_08.jpg) center top no-repeat; font-size:0; line-height:100%; }
+#servicemain .service-history .box span.type2 { display:block; float:left; width:469px; height:185px; background:#ffffff url(/duo/service/img/main_09.jpg) center top no-repeat; font-size:0; line-height:100%; }
+#servicemain .service-history .box span.type1 a, #servicemain .service-history .box span.type2 a { display:block; float:left; width:100%; height:100%; }
+
+#servicemain .service-number { width:100%; min-width:1120px; height:493px; background:#e6f2f7 url(/duo/service/img/bg_12.jpg) center top no-repeat; }
+#servicemain .service-number .box { display:block; margin:0 auto; width:1120px; height:493px; }
+#servicemain .service-number .box span.num1 { display:block; float:left; margin:0 0 0 150px; width:122px; font-size:34px; color:#2a8ad8; font-weight:600; text-align:center;line-height:34px; }
+#servicemain .service-number .box span.num2 { display:block; float:left; margin:0 0 0 171px; width:122px; font-size:34px; color:#149dac; font-weight:600; text-align:center;line-height:34px; }
+#servicemain .service-number .box span.date { clear:both; display:block; float:left; margin:10px 0 0 0; width:100%; font-size:12px; color:#a1a6ac; text-align:center; }
+#servicemain .service-number .box span.type1 { display:block; float:left; width:229px; height:221px; background:url(/duo/service/img/main_10.jpg) center top no-repeat; font-size:0; line-height:100%; }
+#servicemain .service-number .box span.type2 { display:block; float:left; width:231px; height:221px; background:url(/duo/service/img/main_11.jpg) center top no-repeat; font-size:0; line-height:100%; }
+#servicemain .service-number .box span.type3 { display:block; float:left; width:229px; height:221px; background:url(/duo/service/img/main_12.jpg) center top no-repeat; font-size:0; line-height:100%; }
+#servicemain .service-number .box span.type4 { display:block; float:left; width:229px; height:221px; background:url(/duo/service/img/main_13.jpg) center top no-repeat; font-size:0; line-height:100%; }
+#servicemain .service-number .box span.type1 a, #servicemain .service-number .box span.type2 a, #servicemain .service-number .box span.type3 a, #servicemain .service-number .box span.type4 a { display:block; float:left; width:100%; height:100%; }
+
+#servicemain .service-network { width:100%; min-width:1120px; height:485px; background:#ffffff url(/duo/service/img/bg_09.jpg) center top no-repeat; }
+#servicemain .service-network .box { display:block; margin:0 auto; width:1120px; height:485px; }
+#servicemain .service-network .box h3 { position:static; visibility:visible; display:block; float:left; width:100%; height:132px; font-size:0; line-height:100%; }
+#servicemain .service-network .box ul { display:block; float:left; width:693px; height:312px; }
+#servicemain .service-network .box ul li { display:block; float:left; width:88px; height:136px; margin:0 11px 20px 0; position:relative; }
+#servicemain .service-network .box ul li a { display:block; float:left; width:100%; height:100%; }
+#servicemain .service-network .box ul li img { display:block; float:left; width:88px; height:98px; }
+#servicemain .service-network .box ul li span.txt-type-1 { display:block; float:left; margin:0; padding:0; width:88px; height:38px; font-size:16px; color:#444444; text-align:center; line-height:35px; }
+#servicemain .service-network .box ul li span.blank { position:absolute; top:0; left:0; width:88px; height:98px; z-index:1; }
+#servicemain .service-network .box ul li:hover span.blank { background:url(/duo/main_img_2016/network_bg_03.png) center top no-repeat; }
+#servicemain .service-network .box a.detail { display:block; float:left; padding:58px 0 0 0; width:88px; height:40px; margin:0 11px 20px 0; background:#4199e0 url(/duo/service/img/btn_28.jpg) center top no-repeat; font-size:11px; color:#ffffff; text-align:center; }
+
+#servicemain .service-flow { width:100%; min-width:1120px; height:313px; background:#5a6077 url(/duo/service/img/bg_08.jpg) center top no-repeat; }
+#servicemain .service-flow .box { display:block; margin:0 auto; width:1120px; height:313px; }
+#servicemain .service-flow .box h3 { position:static; visibility:visible; display:block; float:left; width:100%; height:178px; font-size:0; line-height:100%; }
+#servicemain .service-flow .box a.btn-type1 { display:block; float:left; margin:0 10px 0 130px; width:317px; height:63px; background:url(/duo/service/img/btn_26.jpg) center top no-repeat; font-size:0; line-height:100%; }
+#servicemain .service-flow .box a.btn-type2 { display:block; float:left; width:317px; height:63px; background:url(/duo/service/img/btn_27.jpg) center top no-repeat; font-size:0; line-height:100%; }
+
+#servicemain .service-faq { width:100%; min-width:1120px; height:523px; padding:0; }
+#servicemain .service-faq .box { display:block; margin:0 auto; width:1120px; padding:55px 0 0 0; height:468px; background:url(/duo/service/img/bg_15.jpg) right top no-repeat; }
+#servicemain .service-faq .box h3 { position:static; visibility:visible; display:block; margin:0 auto; width:227px; height:40px; background:url(/duo/service/img/bg_17.png) center center no-repeat; font-size:16px; color:#000000; text-align:center; font-weight:normal; line-height:36px; }
+#servicemain .service-faq .box ul { display:block; clear:both; float:left; margin:95px 0 38px; width:918px; height:170px; }
+#servicemain .service-faq .box ul li {display:block; float:left; width:170px; height:170px; margin:0 17px 0 0; font-size:20px; color:#ffffff; text-align:center; line-height:26px;}
+#servicemain .service-faq .box ul li a {display:block; float:left; width:100%; height:100%;}
+#servicemain .service-faq .box ul .first {height:52px; padding:59px 0;}
+#servicemain .service-faq .box ul .second {height:78px; padding:46px 0;}
+#servicemain .service-faq .box ul .third {height:52px; padding:59px 0;}
+#servicemain .service-faq .box ul .fourth {height:78px; padding:46px 0;}
+#servicemain .service-faq .box ul .fifth {height:52px; padding:59px 0; margin:0;}
+#servicemain .service-faq .box .more {display:block; clear:both;margin:0 auto; width:291px; height:51px; border:1px solid #e3e3e3; font-size:18px; color:#6e6e6e; text-align:center; line-height:51px;}
+
+/*fix-right s*/
+#fix-right { font-family:Malgun Gothic, 맑은 고딕, Dotum, 돋움, Gulim, 굴림; width:70px; height:100%; position:fixed; top:35%; right:0; z-index:70; }
+#fix-right .hide { position:absolute; overflow:hidden; top:-9999px; left:-9999px; width:0; height:0; font-size:0; line-height:0; text-indent:-10000px; }
+#fix-right caption { display:block; margin-top:-1px; height:0; color:transparent; line-height:0; overflow:hidden; }
+#fix-right a { color:inherit; }
+
+#fix-right ul.menu-list { font-size:11px; color:#ffffff; text-align:center; line-height:16px; }
+#fix-right ul.menu-list .tel { width:70px; height:114px; background:url(/duo/service/img/main_14.jpg) no-repeat left top; font-size:0; text-indent:-99999px; }
+#fix-right ul.menu-list .tel a { display:block; width:70px; height:114px; }
+#fix-right ul.menu-list .speed { width:70px; height:91px; background:url(/duo/service/img/main_15.jpg) no-repeat left top; }
+#fix-right ul.menu-list .speed a {display:block; width:70px; height:91px; padding:50px 0 0 0; height:41px; color:#434b60; font-size:12px; line-height:20px; }
+#fix-right ul.menu-list .simple { width:70px; height:91px; background:url(/duo/service/img/main_16.jpg) no-repeat left top; }
+#fix-right ul.menu-list .simple a {display:block; width:70px; height:91px; padding:45px 0 0 0; height:46px; color:#434b60; font-size:12px; line-height:16px; }
+#fix-right ul.menu-list .top { width:70px; height:76px; background:url(/duo/service/img/main_17.jpg) no-repeat left top; }
+#fix-right ul.menu-list .top a { display:block; width:70px; height:76px; padding:40px 0 0 0; height:36px; color:#434b60; font-size:12px; line-height:20px; }
+/*fix-right e*/
+
+
+
+
+#m_consult { padding-top:98px; width:100%; min-width:1120px; overflow:hidden; }
+#m_consult a { color:inherit; }
+
+/**/
+#m_consult-view-bg { opacity:0.8; filter:alpha(opacity:'80'); position:fixed; top:0; right:0; bottom:0; left:0; z-index:100000; background-color:rgb(0, 0, 0); display:none; }
+#m_consult-view-popup { opacity:1; position:fixed; overflow:hidden; z-index:100001; width:100%; height:100%; top:0; left:0; text-align:center; display:block; display:none;}
+#m_consult-view-popup .align { display:inline-block; vertical-align:middle; height:100%; }
+#m_consult-view-popup .content { display:inline-block; opacity:1; visibility:visible; outline:none; text-align:left; position:relative; vertical-align:middle; }
+#m_consult-view-popup .view-wrapper { float:left; width:100%; min-width:1040px; }
+
+#m_consult-view-popup .view-wrapper span.close { display:block; float:left; width:1040px; text-align:right; margin-bottom:10px; }
+#m_consult-view-popup .view-wrapper span.st-1 { display:block; float:left; width:400px; height:655px; background-color:#7fae12; background-image:url(/duo/service/img/new_marriage_23.gif);  /*이벤트배너background-image:url(/Duo/service/img/new_marriage_23_popup.gif);*/ background-position:center top; background-repeat:no-repeat; }
+#m_consult-view-popup .view-wrapper form { display:block; float:left; margin:0; padding:0; padding:0 46px; width:548px; height:655px; padding-top:40px; height:615px; background-color:#ffffff; }
+#m_consult-view-popup .view-wrapper form span.st-2 { display:block; clear:both; float:left; width:104px; height:21px; background-image:url(/duo/service/img/new_marriage_25.gif); background-position:center top; background-repeat:no-repeat; font-size:0; line-height:0; }
+#m_consult-view-popup .view-wrapper form span.st-3 { display:block; clear:both; float:left; width:85px; height:21px; background-image:url(/duo/service/img/new_marriage_26.gif); background-position:center top; background-repeat:no-repeat; font-size:0; line-height:0; }
+#m_consult-view-popup .view-wrapper form a.confirm { display:block; clear:both; float:left; width:548px; height:65px; background-image:url(/duo/service/img/new_marriage_27.gif); background-position:center top; background-repeat:no-repeat; font-size:0; line-height:0; }
+
+
+#m_consult-view-popup table { width:100%; font-family:Malgun Gothic, 맑은 고딕, Dotum, 돋움, Gulim, 굴림; }
+#m_consult-view-popup table .agree { height:34px; vertical-align:middle; }
+#m_consult-view-popup table .submit { padding-top:10px; height:37px; }
+#m_consult-view-popup table input[type=text] { height:34px; line-height:30px; color:#535353; padding:0 4px; font-family:Malgun Gothic, 맑은 고딕, Dotum, 돋움, Gulim, 굴림; font-size:14px; background-color:#ffffff; border:1px solid #dedede; line-height:31px; }
+#m_consult-view-popup table select { height:34px; font-family:Malgun Gothic, 맑은 고딕, Dotum, 돋움, Gulim, 굴림; font-size:14px; color:#535353; background-color:#ffffff; border:1px solid  #dedede; line-height:31px; }
+#m_consult-view-popup table select { height:auto; padding:7px 0;\0/ie8+9;}
+#m_consult-view-popup table label { font-size:14px; color:#535353; }
+#m_consult-view-popup table .field { margin-right:5px; }
+#m_consult-view-popup table input[type=checkbox], #m_consult-view-popup table input[type=radio] { display:none; position:absolute; z-index:-1; }
+#m_consult-view-popup table textarea { width:538px; height:100px; color:#535353; padding:0 4px; font-family:Malgun Gothic, 맑은 고딕, Dotum, 돋움, Gulim, 굴림; font-size:14px; background-color:#ffffff; border:1px solid #dedede; line-height:28px; }
+#m_consult-view-popup table .ip_agree { display:block; width:254px; height:50px; color:#535353; padding:0 4px; font-family:Malgun Gothic, 맑은 고딕, Dotum, 돋움, Gulim, 굴림; font-size:12px; background-color:#ffffff; border:1px solid #dedede; overflow-x:hidden;overflow-y:auto; }
+#m_consult-view-popup table label.sub { font-size:11px; color:#777777; }
+
+#m_consult-view-popup table label.radio_on { display:block; float:left; width:82px; height:34px; border:1px solid #6f7e91; background-color:#6f7e91; font-family:Malgun Gothic, 맑은 고딕, Dotum, 돋움, Gulim, 굴림; font-size:14px; color:#ffffff; text-align:center; line-height:33px; position:relative; }
+#m_consult-view-popup table label.radio_off { display:block; float:left; width:82px; height:34px; border:1px solid #dedede; background-color:#ffffff; font-family:Malgun Gothic, 맑은 고딕, Dotum, 돋움, Gulim, 굴림; font-size:14px; color:#535353; text-align:center; line-height:33px; position:relative; }
+
+#m_consult-view-popup table label.check_on { display:block; float:left; padding-left:30px; height:25px; background-image:url(/duo/service/img/new_marriage_28.gif); background-position:left center; background-repeat:no-repeat; line-height:22px; position:relative; }
+#m_consult-view-popup table label.check_off { display:block; float:left; padding-left:30px; height:25px; background-image:url(/duo/service/img/new_marriage_29.gif); background-position:left center; background-repeat:no-repeat; line-height:22px; position:relative; }
+
+
+#program { display:block; float:left; width:100%; font-size:100%; line-height:1em; }
+#program .hide { position:absolute; overflow:hidden; top:-9999px; left:-9999px; width:0; height:0; font-size:0; line-height:0; text-indent:-10000px; }
+#program caption { display:block; margin-top:-1px; height:0; color:transparent; line-height:0; overflow:hidden; }
+#program a { color:inherit; }
+#program .service_tab { z-index:10; position:absolute; left:158px; top:98px; display:block; width:602px; height:50px; }
+#program .service_tab_sub { display:block; width:602px; height:50px; font-size:18px; color:#5c5c5c; text-align:center; line-height:47px; }
+#program .service_tab_sub span { display:block; float:left; width:200px; height:50px; background:#ffffff; }
+#program .service_tab_sub .remarry { border-left:1px solid #dbdfe2; border-right:1px solid #dbdfe2; }
+#program .service_tab_sub .on { background:#28b8c0; color:#ffffff; }
+#program .service_tab_sub .other { background:#6d7d8c;  color:#ffffff; }
+
+#program .box-type-1 { display:block; width:100%; min-width:1120px; }
+#program .box-type-2 { display:block; float:left; width:100%; }
+#program .box-type-3 { display:block; margin:0 auto; width:1120px; }
+
+#program .con-type-8 { display:block; float:right; width:918px; position:relative; }
+
+#program .con-type-1 { display:block; float:right; width:918px; }
+#program .con-type-1 h3 { position:static; visibility:visible; display:block; float:left; width:918px; height:203px; font-size:0; line-height:100%; }
+#program .con-type-1 span.txt-type-1 { display:block; float:left; width:869px; height:125px; margin:0 0 40px 49px; font-size:14px; color:#999999; line-height:24px; }
+#program .con-type-1 span.txt-type-2 { display:block; float:left; width:843px; height:35px; margin:0 0 0 49px; padding:0 0 0 26px; font-size:14px; color:#333333; line-height:32px; }
+.type-1 .con-type-1 { height:546px; background:url(/duo/service/img/program_30.jpg) left top no-repeat; }
+.type-2 .con-type-1 { height:546px; background:url(/duo/service/img/program_50.jpg) left top no-repeat; }
+.type-3 .con-type-1 { height:623px; background:url(/duo/service/img/program_59.jpg) left top no-repeat; }
+.type-1 .con-type-1 span.txt-type-2 { background:url(/duo/service/img/icon_10.gif) left center no-repeat; }
+.type-2 .con-type-1 span.txt-type-2 { background:url(/duo/service/img/icon_11.gif) left center no-repeat; }
+.type-3 .con-type-1 span.txt-type-2 { background:url(/duo/service/img/icon_12.gif) left center no-repeat; }
+
+#program .con-type-2 { display:block; float:right; width:918px; }
+#program .con-type-2 h3.txt-type-1 { position:static; visibility:visible; display:block; margin:0 auto; width:255px; height:37px; background:url(/duo/service/img/program_31.png) left top no-repeat; font-size:16px; color:#26282b; text-align:center; font-weight:normal; line-height:34px; }
+#program .con-type-2 h3.txt-type-2 { position:static; visibility:visible; display:block; float:left; width:100%;}
+#program .con-type-2 a.fee { display:block; clear:both; margin:0 auto; width:377px; height:63px; background:url(/duo/service/img/btn_29.gif) left top no-repeat; font-size:0; line-height:100%; }
+.type-1 .con-type-2 { height:440px; padding:83px 0 75px 0; }
+.type-2 .con-type-2 { height:298px; padding:83px 0 85px 0; }
+.type-3 .con-type-2 { height:440px; padding:83px 0 75px 0; }
+.type-1 .con-type-2 h3.txt-type-2 { height:57px; margin:16px 0 0 0; font-size:22px; color:#47a9ba; text-align:center; line-height:54px; }
+.type-2 .con-type-2 h3.txt-type-2 { height:80px; margin:5px 0 0 0; font-size:22px; color:#9ea72d; text-align:center; line-height:77px; }
+.type-3 .con-type-2 h3.txt-type-2 { height:57px; margin:16px 0 0 0; font-size:22px; color:#5e6cc4; text-align:center; line-height:54px; }
+.type-1 .con-type-2 table td.flag-1 { font-size:16px; color:#222222; line-height:24px; vertical-align:middle; }
+.type-1 .con-type-2 table td.flag-2 { padding:0 10px; font-size:14px; color:#555555; line-height:24px; vertical-align:middle; }
+.type-2 .con-type-2 table td { padding:0 10px; font-size:16px; color:#555555; line-height:24px; vertical-align:middle; }
+.type-3 .con-type-2 table td { padding:0 30px; font-size:14px; color:#555555; line-height:34px; vertical-align:middle; }
+.type-3 .con-type-2 span.txt-type-1 { display:block; clear:both; float:left; width:100%; height:80px; font-size:12px; color:#555555; text-align:center; line-height:77px; }
+
+#program .con-type-3 { display:block; float:right; width:918px; height:437px; padding:51px 0 0 0; }
+#program .con-type-3 h3 { position:static; visibility:visible; display:block; margin:0 auto; width:257px; height:39px; background:url(/duo/service/img/program_32.png) left top no-repeat; font-size:16px; color:#ffffff; text-align:center; font-weight:normal; line-height:34px; }
+#program .con-type-3 span.img-type-1 { clear:both; float:left; width:230px; height:398px; background:url(/duo/service/img/program_34.png) left top no-repeat; font-size:0; line-height:100%; }
+#program .con-type-3 span.img-type-2 { float:left; width:230px; height:398px; background:url(/duo/service/img/program_35.png) left top no-repeat; font-size:0; line-height:100%; }
+#program .con-type-3 span.img-type-3 { float:left; width:229px; height:398px; background:url(/duo/service/img/program_36.png) left top no-repeat; font-size:0; line-height:100%; }
+#program .con-type-3 span.img-type-4 { float:left; width:229px; height:398px; background:url(/duo/service/img/program_37.png) left top no-repeat; font-size:0; line-height:100%; }
+
+#program .con-type-4 { display:block; float:right; width:918px; height:422px; padding:78px 0 0 0; }
+#program .con-type-4 h3 { position:static; visibility:visible; display:block; margin:0 auto; width:255px; height:37px; background:url(/duo/service/img/program_31.png) left top no-repeat; font-size:16px; color:#26282b; text-align:center; font-weight:normal; line-height:34px; }
+.type-1 .con-type-4 { background:url(/duo/service/img/program_38.jpg) left top no-repeat; }
+.type-2 .con-type-4 { background:url(/duo/service/img/program_51.jpg) left top no-repeat; }
+.type-3 .con-type-4 { background:url(/duo/service/img/program_60.jpg) left top no-repeat; }
+
+#program .con-type-5 { display:block; float:right; width:918px; height:269px; }
+#program .con-type-5 .step { float:left; margin:0 0 0 49px; width:410px; height:220px; padding:49px 0 0 0; }
+#program .con-type-5 .step h3 { position:static; visibility:visible; display:block; margin:0 auto; width:218px; height:30px; background:url(/duo/service/img/program_41.png) left top no-repeat; font-size:0; line-height:100%; }
+#program .con-type-5 .step span { display:block; float:left; margin:18px 0 34px 0; width:100%; font-size:14px; text-align:center; line-height:22px; }
+#program .con-type-5 .step a { clear:both; display:block; margin:0 auto; width:136px; height:38px; font-size:14px; color:#ffffff; text-align:center; line-height:35px; }
+#program .con-type-5 .freeservice { float:left; width:400px; height:220px; padding:49px 0 0 0; }
+#program .con-type-5 .freeservice h3 { position:static; visibility:visible; display:block; margin:0 auto; width:218px; height:30px; background:url(/duo/service/img/program_42.png) left top no-repeat; font-size:0; line-height:100%; }
+#program .con-type-5 .freeservice span { display:block; float:left; margin:18px 0 34px 0; width:100%; font-size:14px; color:#ffffff; text-align:center; line-height:22px; }
+#program .con-type-5 .freeservice a { clear:both; display:block; margin:0 auto; width:136px; height:38px; border:1px solid #cfd4d9; font-size:14px; color:#ffffff; text-align:center; line-height:35px; }
+.type-1 .con-type-w100 { background:url(/duo/service/img/program_40.jpg) center top no-repeat; height:269px; }
+.type-2 .con-type-w100 { background:url(/duo/service/img/program_52.jpg) center top no-repeat; height:269px; }
+.type-3 .con-type-w100 { background:url(/duo/service/img/program_61.jpg) center top no-repeat; height:269px; }
+.type-1 .con-type-5 .step span { color:#99c4ce; }
+.type-2 .con-type-5 .step span { color:#d2daad; }
+.type-3 .con-type-5 .step span { color:#abb2df; }
+.type-1 .con-type-5 .step a { border:1px solid #98bfc7; }
+.type-2 .con-type-5 .step a { border:1px solid #c4cd9b; }
+.type-3 .con-type-5 .step a { border:1px solid #abb2df; }
+
+#program .con-type-6 { display:block; float:right; width:918px; height:702px; padding:73px 0 0 0; }
+#program .con-type-6 h3 { position:static; visibility:visible; display:block; margin:0 auto; width:257px; height:39px; background:url(/duo/service/img/program_43.png) left top no-repeat; font-size:16px; color:#000000; text-align:center; font-weight:normal; line-height:34px; }
+#program .con-type-6 span.img-type-1 { clear:both; float:left; margin:42px 0 0 0; width:306px; height:267px; font-size:0; line-height:100%; }
+#program .con-type-6 span.img-type-2 { float:left; margin:42px 0 0 0; width:306px; height:267px; font-size:0; line-height:100%; }
+#program .con-type-6 span.img-type-3 { float:left; margin:42px 0 0 0; width:306px; height:267px; font-size:0; line-height:100%; }
+#program .con-type-6 span.img-type-4 { float:left; width:306px; height:267px; font-size:0; line-height:100%; }
+#program .con-type-6 span.img-type-5 { float:left; width:306px; height:267px; font-size:0; line-height:100%; }
+#program .con-type-6 span.img-type-6 { float:left; width:306px; height:267px; font-size:0; line-height:100%; }
+.type-1 .con-type-6 span.img-type-1 { background:url(/duo/service/img/program_44.jpg) left top no-repeat; }
+.type-1 .con-type-6 span.img-type-2 { background:url(/duo/service/img/program_45.jpg) left top no-repeat; }
+.type-1 .con-type-6 span.img-type-3 { background:url(/duo/service/img/program_46.jpg) left top no-repeat; }
+.type-1 .con-type-6 span.img-type-4 { background:url(/duo/service/img/program_47.jpg) left top no-repeat; }
+.type-1 .con-type-6 span.img-type-5 { background:url(/duo/service/img/program_48.jpg) left top no-repeat; }
+.type-1 .con-type-6 span.img-type-6 { background:url(/duo/service/img/program_49.jpg) left top no-repeat; }
+.type-2 .con-type-6 span.img-type-1 { background:url(/duo/service/img/program_53.jpg) left top no-repeat; }
+.type-2 .con-type-6 span.img-type-2 { background:url(/duo/service/img/program_54.jpg) left top no-repeat; }
+.type-2 .con-type-6 span.img-type-3 { background:url(/duo/service/img/program_55.jpg) left top no-repeat; }
+.type-2 .con-type-6 span.img-type-4 { background:url(/duo/service/img/program_56.jpg) left top no-repeat; }
+.type-2 .con-type-6 span.img-type-5 { background:url(/duo/service/img/program_57.jpg) left top no-repeat; }
+.type-2 .con-type-6 span.img-type-6 { background:url(/duo/service/img/program_58.jpg) left top no-repeat; }
+.type-3 .con-type-6 span.img-type-1 { background:url(/duo/service/img/program_44.jpg) left top no-repeat; }
+.type-3 .con-type-6 span.img-type-2 { background:url(/duo/service/img/program_45.jpg) left top no-repeat; }
+.type-3 .con-type-6 span.img-type-3 { background:url(/duo/service/img/program_46.jpg) left top no-repeat; }
+.type-3 .con-type-6 span.img-type-4 { background:url(/duo/service/img/program_47.jpg) left top no-repeat; }
+.type-3 .con-type-6 span.img-type-5 { background:url(/duo/service/img/program_48.jpg) left top no-repeat; }
+.type-3 .con-type-6 span.img-type-6 { background:url(/duo/service/img/program_49.jpg) left top no-repeat; }
+
+#program .con-type-7 { display:block; float:right; width:918px; height:295px; background:url(/duo/service/img/program_33.gif) left top no-repeat; }
+#program .con-type-7 h3 { position:static; visibility:visible; display:block; float:left; width:918px; height:163px; font-size:0; line-height:100%; }
+#program .con-type-7 a.btn1 { display:block; float:left; margin:0 10px 0 130px; width:317px; height:63px; background:url(/duo/service/img/btn_30.gif) left top no-repeat; font-size:0; line-height:100%; }
+#program .con-type-7 a.btn2 { display:block; float:left; width:317px; height:63px; background:url(/duo/service/img/btn_31.gif) left top no-repeat; font-size:0; line-height:100%; }
+
+
+
+
+
+
+
+
+
+#members { display:block; float:left; width:100%; font-size:100%; line-height:1em; }
+#members .hide { position:absolute; overflow:hidden; top:-9999px; left:-9999px; width:0; height:0; font-size:0; line-height:0; text-indent:-10000px; }
+#members caption { display:block; margin-top:-1px; height:0; color:transparent; line-height:0; overflow:hidden; }
+#members a { color:inherit; }
+
+#members .box-type-1 { display:block; width:100%; min-width:1120px; }
+#members .box-type-2 { display:block; float:left; width:100%; }
+#members .box-type-3 { display:block; margin:0 auto; width:1120px; }
+
+#members .con-type-1 { display:block; float:right; width:918px; position:relative; }
+
+#members .con-type-2 { display:block; float:right; width:918px; height:760px; }
+#members .con-type-2 h3.txt-type-1 { position:static; visibility:visible; display:block; float:left; width:100%; height:250px; background:url(/duo/service/img/members_duo_20.jpg) left top no-repeat; font-size:0; line-height:100%; }
+#members .con-type-2 h3.txt-type-2 { position:static; visibility:visible; display:block; float:left; width:100%; height:106px; background:url(/duo/service/img/members_duo_21.jpg) left top no-repeat; font-size:0; line-height:100%; }
+#members .con-type-2 .box { display:block; float:left; padding:64px 0 0 50px; width:868px; height:340px; background:url(/duo/service/img/members_duo_22.jpg) left top no-repeat; }
+#members .con-type-2 span.txt-type-1 { display:block; float:left; width:100%; font-size:18px; color:#606060; line-height:30px; margin:0 0 50px 0; }
+#members .con-type-2 table td { vertical-align:top; line-height:26px; }
+#members .con-type-2 table td span.txt-type-1 { display:block; float:left; width:100%; margin:-6px 0 0 0; font-size:14px; color:#575757; line-height:26px; }
+#members .con-type-2 table td span.txt-type-1 span { color:#fe0000; font-weight:600; }
+
+#members .con-type-3 { display:block; float:right; width:918px; height:593px; }
+#members .con-type-3 h3 { position:static; visibility:visible; display:block; float:left; margin:79px 0 0 0; width:100%; height:106px; background:url(/duo/service/img/members_duo_23.jpg) left top no-repeat; font-size:0; line-height:100%; }
+#members .con-type-3 .box { display:block; float:left; padding:65px 0 0 50px; width:868px; height:333px; background:url(/duo/service/img/members_duo_24.jpg) left top no-repeat; }
+#members .con-type-3 span.txt-type-1 { display:block; float:left; width:100%; font-size:18px; color:#606060; line-height:30px; margin:0 0 65px 0; }
+#members .con-type-3 table td { vertical-align:top; line-height:26px; }
+#members .con-type-3 table td span.txt-type-1 { display:block; float:left; width:100%; margin:-6px 0 0 0; font-size:14px; color:#575757; line-height:26px; }
+#members .con-type-3 table td span.txt-type-1 span { color:#fe0000; font-weight:600; }
+
+#members .con-type-4 { display:block; float:right; width:918px; height:1060px; }
+#members .con-type-4 h3 { position:static; visibility:visible; display:block; float:left; margin:83px 0 0 0; width:100%; height:106px; background:url(/duo/service/img/members_duo_25.jpg) left top no-repeat; font-size:0; line-height:100%; }
+#members .con-type-4 .box { display:block; float:left; padding:650px 0 0 50px; width:868px; height:226px; background:url(/duo/service/img/members_duo_26.jpg) left top no-repeat; }
+#members .con-type-4 table td { vertical-align:top; line-height:26px; }
+#members .con-type-4 table td span.txt-type-1 { display:block; float:left; width:100%; margin:-6px 0 0 0; font-size:14px; color:#575757; line-height:26px; }
+#members .con-type-4 table td span.txt-type-1 span { color:#fe0000; font-weight:600; }
+
+#members .con-type-5 { display:block; float:right; width:918px; height:916px; }
+#members .con-type-5 h3 { position:static; visibility:visible; display:block; float:left; margin:83px 0 0 0; width:100%; height:106px; background:url(/duo/service/img/members_duo_27.jpg) left top no-repeat; font-size:0; line-height:100%; }
+#members .con-type-5 .box { display:block; float:left; padding:470px 0 0 50px; width:868px; height:257px; background:url(/duo/service/img/members_duo_28.jpg) left top no-repeat; }
+#members .con-type-5 table td { vertical-align:top; line-height:26px; }
+#members .con-type-5 table td span.txt-type-1 { display:block; float:left; width:100%; margin:-6px 0 0 0; font-size:14px; color:#575757; line-height:26px; }
+#members .con-type-5 table td span.txt-type-1 span { color:#fe0000; font-weight:600; }
+
+#members .con-type-6 { display:block; float:right; width:918px; height:280px; }
+#members .con-type-6 h3 { position:static; visibility:visible; display:block; float:left; width:100%; height:280px; background:url(/duo/service/img/members_duo_29.jpg) left top no-repeat; font-size:0; line-height:100%; }
+
+#members .con-type-7 { display:block; float:right; width:918px; height:759px; background:url(/duo/service/img/members_duo_30.jpg) left top no-repeat; }
+#members .con-type-7 span.txt-type-1 { display:block; float:left; width:100%; font-size:14px; color:#5a6078; line-height:26px; text-align:center; }
+#members .con-type-7 span.count { display:block; float:left; margin:177px 0 249px 600px; width:200px; height:89px; }
+#members .con-type-7 span.count span.txt-type-1 { display:block; float:left; margin:2px 0 0 0; width:100%; height:30px; font-size:18px; color:#ff0000; text-align:center; line-height:27px; font-weight:600; }
+#members .con-type-7 span.count span.txt-type-2 { display:block; float:left; width:100%; height:30px; font-size:30px; color:#ff0000; text-align:center; line-height:27px; font-weight:600; }
+#members .con-type-7 span.count span.txt-type-2 span { font-size:18px; }
+#members .con-type-7 span.count span.txt-type-3 { display:block; float:left; margin:3px 0 0 0; width:100%; height:19px; font-size:11px; color:#818181; text-align:center; line-height:16px; }
+#members .con-type-7 a { display:block; clear:both; margin:0 auto; width:498px; height:79px; background:url(/duo/service/img/btt_24.jpg) left top no-repeat; font-size:0; line-height:100%; }
+
+
+
+#matching { display:block; float:left; width:100%; font-size:100%; line-height:1em; }
+#matching .hide { position:absolute; overflow:hidden; top:-9999px; left:-9999px; width:0; height:0; font-size:0; line-height:0; text-indent:-10000px; }
+#matching caption { display:block; margin-top:-1px; height:0; color:transparent; line-height:0; overflow:hidden; }
+#matching a { color:inherit; }
+
+#matching .box-type-1 { display:block; width:100%; min-width:1120px; }
+#matching .box-type-2 { display:block; float:left; width:100%; }
+#matching .box-type-3 { display:block; margin:0 auto; width:1120px; }
+
+#matching .con-type-1 { display:block; float:right; width:918px; height:100px; position:relative; }
+#matching .con-type-2 { display:block; float:right; width:918px; height:953px; background:url(/duo/service/img/matching_30.jpg) left top no-repeat; }
+#matching .con-type-3 { display:block; float:right; width:918px; height:489px; background:url(/duo/service/img/matching_31.jpg) left top no-repeat; }
+#matching .con-type-4 { display:block; float:right; width:918px; height:782px; background:url(/duo/service/img/matching_32.jpg) left top no-repeat; }
+#matching .con-type-5 { display:block; float:right; width:918px; height:1180px; background:url(/duo/service/img/matching_33.jpg) left top no-repeat; }
+#matching .con-type-6 { display:block; float:right; width:918px; height:1330px; background:url(/duo/service/img/matching_34.jpg) left top no-repeat; }
+#matching .con-type-7 { display:block; float:right; width:918px; height:295px; background:url(/duo/service/img/matching_35.jpg) left top no-repeat; }
+
+#matching .con-type-2 span.txt-type1 { display:block; float:left; margin:242px 45px 0 45px; width:828px; font-size:14px; color:#777777; line-height:24px; }
+#matching .con-type-2 span.txt-type2 { display:block; float:left; margin:316px 45px 55px 45px; width:828px; font-size:14px; color:#777777; line-height:24px; }
+#matching .con-type-2 a { display:block; clear:both; margin:0 auto; width:377px; height:67px; background:url(/duo/service/img/btt_27.gif) left top no-repeat; font-size:0; line-height:100%; }
+
+#matching .con-type-3 span { display:block; float:left; margin:170px 0 0 480px; width:438px; font-size:14px; color:#777777; line-height:24px; }
+
+#matching .con-type-4 span { display:block; float:left; margin:135px 45px 435px 45px; width:828px; font-size:14px; color:#777777; line-height:24px; text-align:center; }
+#matching .con-type-4 a { display:block; clear:both; margin:0 auto; width:377px; height:67px; background:url(/duo/service/img/btt_27.gif) left top no-repeat; font-size:0; line-height:100%; }
+
+#matching .con-type-5 span.txt-type1 { display:block; float:left; margin:140px 45px 0 45px; width:828px; font-size:14px; color:#777777; line-height:24px; }
+#matching .con-type-5 span.txt-type2 { display:block; float:left; margin:35px 200px 680px 200px; width:518px; font-size:14px; color:#222222; line-height:30px; }
+#matching .con-type-5 a { display:block; clear:both; margin:0 auto; width:377px; height:67px; background:url(/duo/service/img/btt_28.gif) left top no-repeat; font-size:0; line-height:100%; }
+
+#matching .con-type-6 span.txt-type1 { display:block; float:left; margin:140px 45px 45px 45px; width:828px; font-size:14px; color:#777777; line-height:24px; }
+#matching .con-type-6 span.party1 { display:block; float:left; margin:0 0 10px 0; padding:40px 0; width:451px; border:1px solid #dfdfdf; }
+#matching .con-type-6 span.party2 { display:block; float:right; margin:0 0 10px 0; padding:40px 0; width:451px; border:1px solid #dfdfdf; }
+#matching .con-type-6 span.party3 { display:block; clear:both; float:left; margin:0 0 70px 0; padding:40px 0; width:451px; border:1px solid #dfdfdf; }
+#matching .con-type-6 span.party4 { display:block; float:right; margin:0 0 70px 0; padding:40px 0; width:451px; border:1px solid #dfdfdf; }
+#matching .con-type-6 span.txt-type2 { display:block; float:left; width:100%; font-size:20px; color:#444444; font-weight:600; text-align:center; }
+#matching .con-type-6 span.txt-type3 { display:block; float:left; width:100%; margin:20px 0; font-size:14px; font-size:14px; color:#777777; line-height:22px; text-align:center; }
+#matching .con-type-6 img { display:block; clear:both; margin:0 auto; width:341px; height:208px; }
+#matching .con-type-6 a { display:block; clear:both; margin:0 auto; width:377px; height:67px; background:url(/duo/service/img/btt_29.gif) left top no-repeat; font-size:0; line-height:100%; }
+
+#matching .con-type-7 a.consult1 { display:block; float:left; margin:163px 10px 0 130px; width:317px; height:63px; background:url(/duo/service/img/btt_30.gif) left top no-repeat; font-size:0; line-height:100%; }
+#matching .con-type-7 a.consult2 { display:block; float:left; margin:163px 0 0 0; width:317px; height:63px; background:url(/duo/service/img/btt_31.gif) left top no-repeat; font-size:0; line-height:100%; }
+
+
+
+
+#joinstep { display:block; float:left; width:100%; font-size:100%; line-height:1em; }
+#joinstep .hide { position:absolute; overflow:hidden; top:-9999px; left:-9999px; width:0; height:0; font-size:0; line-height:0; text-indent:-10000px; }
+#joinstep caption { display:block; margin-top:-1px; height:0; color:transparent; line-height:0; overflow:hidden; }
+#joinstep a { color:inherit; }
+
+#joinstep .box-type-1 { display:block; width:100%; min-width:1120px; }
+#joinstep .box-type-2 { display:block; float:left; width:100%; }
+#joinstep .box-type-3 { display:block; margin:0 auto; width:1120px; }
+
+#joinstep .con-type-1 { display:block; float:right; width:918px; height:235px; position:relative; }
+#joinstep .con-type-2 { display:block; float:right; width:918px; height:175px; background:url(/duo/service/img/matching_14.gif) left top no-repeat; }
+#joinstep .con-type-3 { display:block; float:right; width:918px; height:264px; padding:0 0 68px 0; background:url(/duo/service/img/matching_15.jpg) left bottom no-repeat; }
+#joinstep .con-type-4 { display:block; float:right; width:918px; height:307px; padding:0 0 68px 0; background:url(/duo/service/img/matching_15.jpg) left bottom no-repeat; }
+#joinstep .con-type-5 { display:block; float:right; width:918px; height:409px; padding:0 0 68px 0; background:url(/duo/service/img/matching_15.jpg) left bottom no-repeat; }
+#joinstep .con-type-6 { display:block; float:right; width:918px; height:277px; padding:0 0 68px 0; background:url(/duo/service/img/matching_15.jpg) left bottom no-repeat; }
+#joinstep .con-type-7 { display:block; float:right; width:918px; height:181px; padding:0 0 68px 0; background:url(/duo/service/img/matching_15.jpg) left bottom no-repeat; }
+#joinstep .con-type-8 { display:block; float:right; width:918px; height:181px; padding:0 0 68px 0; background:url(/duo/service/img/matching_15.jpg) left bottom no-repeat; }
+#joinstep .con-type-9 { display:block; float:right; width:918px; height:289px; padding:0 0 70px 0; }
+#joinstep .con-type-10 { display:block; float:right; width:918px; height:133px; }
+#joinstep .con-type-11 { display:block; float:right; width:918px; height:299px; }
+
+#joinstep .con-type-1 span.step { display:block; float:left; margin:100px 0 0 0; width:100%; height:135px; background:url(/duo/service/img/matching_26.png) left top no-repeat; font-size:0; line-height:100%; }
+#joinstep .con-type-2 span { display:block; float:left; width:100%; margin:107px 0 0 0; font-size:14px; color:#777777; text-align:center; }
+#joinstep .con-type-3 .box { width:918px; height:264px; background:url(/duo/service/img/matching_16.jpg) left top no-repeat; }
+#joinstep .con-type-3 .box span { display:block; float:left; margin:100px 0 38px 40px; width:878px; font-size:14px; color:#777777; line-height:24px; }
+#joinstep .con-type-3 .box a { display:block; float:left; margin:0 0 0 190px; width:189px; height:38px; border:1px solid #cacaca; font-size:14px; color:#555555; text-align:center; text-align:center; line-height:35px; }
+#joinstep .con-type-4 .box { width:918px; height:307px; background:url(/duo/service/img/matching_17.jpg) left top no-repeat; }
+#joinstep .con-type-4 .box span { display:block; float:left; margin:100px 0 33px 40px; width:878px; font-size:14px; color:#777777; line-height:24px; }
+#joinstep .con-type-4 .box a { display:block; float:left; margin:0 0 0 190px; width:189px; height:38px; border:1px solid #cacaca; font-size:14px; color:#555555; text-align:center; text-align:center; line-height:35px; }
+#joinstep .con-type-5 .box { width:918px; height:409px; background:url(/duo/service/img/matching_18.jpg) left top no-repeat; }
+#joinstep .con-type-5 .box table td.txt { font-size:14px; color:#ffffff; line-height:28px; }
+#joinstep .con-type-6 .box { width:918px; height:277px; background:url(/duo/service/img/matching_19.jpg) left top no-repeat; }
+#joinstep .con-type-6 .box span { display:block; float:left; margin:100px 0 30px 40px; width:878px; font-size:14px; color:#777777; line-height:24px; }
+#joinstep .con-type-6 .box a { display:block; float:left; margin:0 0 0 40px; width:189px; height:38px; border:1px solid #cacaca; font-size:14px; color:#555555; text-align:center; text-align:center; line-height:35px; }
+#joinstep .con-type-7 .box { width:918px; height:181px; background:url(/duo/service/img/matching_20.jpg) left top no-repeat; }
+#joinstep .con-type-7 .box span { display:block; float:left; margin:100px 0 0 40px; width:878px; font-size:14px; color:#777777; line-height:24px; }
+#joinstep .con-type-8 .box { width:918px; height:181px; background:url(/duo/service/img/matching_21.jpg) left top no-repeat; }
+#joinstep .con-type-8 .box span { display:block; float:left; margin:100px 0 0 40px; width:878px; font-size:14px; color:#777777; line-height:24px; }
+#joinstep .con-type-9 .box { width:918px; height:289px; background:url(/duo/service/img/matching_22.jpg) left top no-repeat; }
+#joinstep .con-type-9 .box span { display:block; float:left; margin:100px 0 40px 40px; width:878px; font-size:14px; color:#777777; line-height:24px; }
+#joinstep .con-type-9 .box a { display:block; float:left; margin:0 0 0 40px; width:189px; height:38px; border:1px solid #cacaca; font-size:14px; color:#555555; text-align:center; text-align:center; line-height:35px; }
+#joinstep .con-type-10 a.consult1 { float:left; width:317px; height:63px; background:url(/duo/service/img/btt_25.gif) left top no-repeat; font-size:0; line-height:100%; }
+#joinstep .con-type-10 a.consult2 { float:right; width:317px; height:63px; background:url(/duo/service/img/btt_26.gif) left top no-repeat; font-size:0; line-height:100%; }
+#joinstep .con-type-11 h2 { position:static; visibility:visible; margin:0 auto; width:216px; height:34px;  background:url(/duo/service/img/matching_27.png) left top no-repeat; font-size:14px; color:#ffffff; text-align:center; line-height:31px; font-weight:500; }
+#joinstep .con-type-11 .consult { float:left; width:459px; height:266px; padding:33px 0 0 0; }
+#joinstep .con-type-11 .bg-1 { background:url(/duo/service/img/matching_24.jpg) center bottom no-repeat; }
+#joinstep .con-type-11 .bg-2 { background:url(/duo/service/img/matching_25.jpg) center bottom no-repeat; }
+#joinstep .con-type-11 .consult a { display:block; float:left; width:100%; height:100%; }
+
+
+
+#newconsult { display:block; float:left; width:100%; font-size:100%; line-height:1em; }
+#newconsult .hide { position:absolute; overflow:hidden; top:-9999px; left:-9999px; width:0; height:0; font-size:0; line-height:0; text-indent:-10000px; }
+#newconsult caption { display:block; margin-top:-1px; height:0; color:transparent; line-height:0; overflow:hidden; }
+#newconsult a { color:inherit; }
+
+#newconsult .box-type-1 { display:block; width:100%; min-width:1120px; }
+#newconsult .box-type-2 { display:block; float:left; width:100%; }
+#newconsult .box-type-3 { display:block; margin:0 auto; width:1120px; }
+
+#newconsult .con-type-1 { display:block; float:right; width:918px; height:100px; position:relative; }
+#newconsult .con-type-2 { display:block; float:right; width:918px; height:231px; }
+#newconsult .con-type-3 { display:block; float:right; width:918px; height:249px; }
+#newconsult .con-type-4 { display:block; float:right; padding:70px 0 0 0; width:918px; height:2031px; }
+#newconsult .con-type-5 { display:block; float:right; padding:71px 0 0 0; width:918px; height:558px; }
+
+#newconsult .con-type-2 h2 { position:static; visibility:visible; display:block; float:left; margin:0 0 0 45px; width:188px; height:231px; background:url(/duo/service/img/consult_11.gif) left top no-repeat; font-size:0; line-height:100%; }
+#newconsult .con-type-2 span { display:block; float:left; padding:155px 0 0 0; width:685px; height:76px; background:url(/duo/service/img/consult_12.gif) left top no-repeat; font-size:14px; color:#777777; text-align:center; line-height:24px; }
+
+#newconsult .con-type-3 h2 { position:static; visibility:visible; display:block; float:left; margin:0 0 0 45px; width:188px; height:249px; background:url(/duo/service/img/consult_13.gif) left top no-repeat; font-size:0; line-height:100%; }
+#newconsult .con-type-3 a.consult1 { display:block; float:left; margin:0 14px 0 0; padding:105px 0 0 52px; width:167px; height:74px; background:url(/duo/service/img/consult_14.gif) left top no-repeat; font-size:16px; color:#222222; }
+#newconsult .con-type-3 a.consult2 { display:block; float:left; margin:0 14px 0 0; padding:105px 0 0 52px; width:167px; height:74px; background:url(/duo/service/img/consult_15.gif) left top no-repeat; font-size:16px; color:#222222; }
+#newconsult .con-type-3 a.consult3 { display:block; float:left; margin:0; padding:105px 0 0 52px; width:167px; height:74px; background:url(/duo/service/img/consult_16.gif) left top no-repeat; font-size:16px; color:#222222; }
+
+#newconsult .con-type-4 h2 { position:static; visibility:visible; display:block; float:left; margin:0 0 0 45px; width:188px; height:249px; background:url(/duo/service/img/consult_17.gif) left top no-repeat; font-size:0; line-height:100%; }
+#newconsult .con-type-4 ul { float:left; width:762px; overflow:hidden; }
+#newconsult .con-type-4 ul li { float:left; width:304px; margin:0 77px 49px 0; }
+#newconsult .con-type-4 ul li h3 { position:static; visibility:visible; display:block; float:left; width:100%; height:53px; border-bottom:1px solid #c6c6c6; font-size:20px; color:#222222; line-height:50px; font-weight:normal; }
+#newconsult .con-type-4 ul li img { display:block; float:left; width:88px; height:98px; margin:20px 0 25px 0; }
+#newconsult .con-type-4 ul li span.tel { display:block; float:left; width:100%; height:33px; font-family:verdana; font-size:18px; color:#222222; line-height:31px; margin:0 0 5px 0; }
+#newconsult .con-type-4 ul li span.address { display:block; float:left; width:100%; font-size:14px; color:#777777; line-height:22px; }
+#newconsult .con-type-4 ul li a.map { display:block; clear:both; float:left; margin:0 6px 0 0; width:148px; height:37px; background:#99a4af; font-size:16px; color:#ffffff; text-align:center; line-height:34px; }
+#newconsult .con-type-4 ul li a.consult { display:block; float:left; width:148px; height:37px; background:#585e75; font-size:16px; color:#ffffff; text-align:center; line-height:34px; }
+
+#newconsult .con-type-5 h2 { position:static; visibility:visible; margin:0 auto; width:257px; height:39px; background:url(/duo/duostory/img/st_39.png) left top no-repeat; font-size:16px; color:#585e75; text-align:center; line-height:36px; font-weight:500; }
+#newconsult .con-type-5 .brosure1 { float:left; margin:44px 0 0 0; width:525px; padding:333px 0 0 0; background:url(/duo/service/img/consult_18.jpg) left top no-repeat; }
+#newconsult .con-type-5 .brosure2 { float:right; margin:44px 0 0 0; width:377px; padding:333px 0 0 0; background:url(/duo/service/img/consult_19.jpg) left top no-repeat; }
+#newconsult .con-type-5 a.request { display:block; float:right; margin:0 0 0 6px; width:138px; height:37px; background:#3ca3df; font-size:16px; color:#ffffff; text-align:center; line-height:34px; }
+#newconsult .con-type-5 a.view { display:block; float:right; margin:0 0 0 6px; width:138px; height:37px; background:#9ca7b3; font-size:16px; color:#ffffff; text-align:center; line-height:34px; }
+
+
+#numberduo * { font-family:Malgun Gothic, 맑은 고딕, Dotum, 돋움, Gulim, 굴림; font-size:12px; line-height:1em; }
+#numberduo .hide { position:absolute; overflow:hidden; top:-9999px; left:-9999px; width:0; height:0; font-size:0; line-height:0; text-indent:-10000px; }
+#numberduo .box { display:block; margin:0 auto; width:1120px; height:100%; overflow:hidden;  }
+#numberduo .duo-test { display:block; width:100%; min-width:1120px; height:178px; overflow:hidden; background:#3db7c6; }
+#numberduo .duo-test table td img { display:inline-block; }
+#numberduo .duo-test table td span.txt-type-1 { display:inline-block; font-size:16px; color:#ffffff; padding:7px 0 0 0; }
+#numberduo .duo-test table td a.submit { display:inline-block; padding:28px 0; width:123px; height:40px; border:1px solid #9edbe3; font-size:14px; color:#ffffff; text-align:center; line-height:20px; }
+#numberduo .couple-increase { display:block; width:100%; min-width:1120px; height:497px; overflow:hidden; background:#f4f8fb; }
+#numberduo .couple-increase img { display:block; float:left; }
+#numberduo .duo-couple { display:block; width:100%; min-width:1120px; height:441px; background:url(/duo/service/img/num_duo_05.jpg) center top repeat-x; }
+#numberduo .duo-couple h3.txt-type-1 { position:static; visibility:visible; display:block; margin:0 auto; padding:70px 0 40px; width:170px; height:28px; background:url(/duo/service/img/num_duo_06.png) center 70px no-repeat; font-size:0; line-height:100%; }
+#numberduo .duo-couple table td a { display:block; float:left; width:100%; height:100%; }
+#numberduo .duo-consult { display:block; width:100%; min-width:1120px; height:255px; background:url(/duo/service/img/num_duo_12.jpg) center top repeat-x; }
+
+#numberduo .duo-couple-num { display:block; width:100%; min-width:1120px; height:1077px; overflow:hidden; background:#89e0da; }
+#numberduo .duo-couple-num h3.txt-type-1 { position:static; visibility:visible; display:block; float:left; width:1120px; height:189px; background:url(/duo/service/img/num_duo_15.jpg) center top no-repeat; font-size:0; line-height:100%; }
+#numberduo .duo-couple-num span.thumb { display:block; float:left; position:relative; height:307px; }
+#numberduo .duo-couple-num span.thumb span.blank { display:block; float:left; width:100%; height:100%; position:absolute; z-index:2; }
+#numberduo .duo-couple-num span.thumb:hover span.blank { background:url(/duo/service/img/num_duo_thumb_bg.png) center center no-repeat; }
+#numberduo .duo-couple-num .first-record, #numberduo .duo-couple-num .second-record, #numberduo .duo-couple-num .fourth-record { width:344px; }
+#numberduo .duo-couple-num .third-record { width:432px; }
+#numberduo .duo-couple-num .fifth-record { width:258px; }
+#numberduo .duo-couple-num .sixth-record, #numberduo .duo-couple-num .seventh-record { width:259px; }
+
+#numberduo .duo-member-num { display:block; width:100%; min-width:1120px; height:1907px; overflow:hidden; background:#becfeb; }
+#numberduo .duo-member-num h3.txt-type-1 { position:static; visibility:visible; display:block; float:left; width:1120px; height:189px; background:url(/duo/service/img/num_duo_17.jpg) center top no-repeat; font-size:0; line-height:100%; }
+#numberduo .duo-member-num span.thumb { display:block; float:left; position:relative; }
+#numberduo .duo-member-num span.thumb span.blank { display:block; float:left; width:100%; height:100%; position:absolute; z-index:2; }
+#numberduo .duo-member-num span.thumb:hover span.blank { background:url(/duo/service/img/num_duo_thumb_bg.png) center center no-repeat; }
+#numberduo .duo-member-num .first-record { width:665px; height:358px; }
+#numberduo .duo-member-num .second-record { width:455px; height:358px; }
+#numberduo .duo-member-num .third-record { width:412px; height:358px; }
+#numberduo .duo-member-num .fourth-record { width:708px; height:358px; }
+#numberduo .duo-member-num .fifth-record, #numberduo .duo-member-num .seventh-record { width:373px; height:319px; }
+#numberduo .duo-member-num .sixth-record { width:374px; height:319px; }
+#numberduo .duo-member-num .eighth-record, #numberduo .duo-member-num .ninth-record { width:560px; height:409px; }
+
+
+
+
+#duofaq {display:block; padding:98px 0 0 0; width:100%; min-width:1120px; font-size:75%; line-height:1em;}
+#duofaq a { color:inherit; }
+
+#duofaq .type1 { display:block; float:left; width:100%; min-width:1120px; }
+#duofaq .type2 { display:block; margin:0 auto; width:1120px; }
+
+#duofaq .cnt-type1 {height:914px; background:url(/duo/service/img/faq_01.jpg) center top no-repeat;}
+#duofaq .cnt-type1 h2 {position:static; visibility:visible; display:block; margin:70px auto 0; width:430px; height:97px; background:url(/duo/service/img/faq_02.png) center top no-repeat; font-size:0;}
+#duofaq .cnt-type1 .temp {display:block; clear:both; float:left; width:1120px; height:746px; position:relative;}
+#duofaq .cnt-type1 .circle_item {position:absolute; display:block; opacity:0;}
+#duofaq .cnt-type1 .circle1 {position:absolute; top:30px; left:80px; display:block; width:175px; height:175px; background:url(/duo/service/img/circle_01.png) center top no-repeat; font-size:0;}
+#duofaq .cnt-type1 .circle2 {position:absolute; top:45px; left:370px; display:block; width:191px; height:191px; background:url(/duo/service/img/circle_02.png) center top no-repeat; font-size:0;}
+#duofaq .cnt-type1 .circle3 {position:absolute; top:30px; left:635px; display:block; width:223px; height:223px; background:url(/duo/service/img/circle_03.png) center top no-repeat; font-size:0;}
+#duofaq .cnt-type1 .circle4 {position:absolute; top:230px; left:220px; display:block; width:144px; height:144px; background:url(/duo/service/img/circle_04.png) center top no-repeat; font-size:0;}
+#duofaq .cnt-type1 .circle5 {position:absolute; top:270px; left:415px; display:block; width:264px; height:264px; background:url(/duo/service/img/circle_05.png) center top no-repeat; font-size:0;}
+#duofaq .cnt-type1 .circle6 {position:absolute; top:285px; left:715px; display:block; width:153px; height:153px; background:url(/duo/service/img/circle_06.png) center top no-repeat; font-size:0;}
+#duofaq .cnt-type1 .circle7 {position:absolute; top:350px; left:40px; display:block; width:206px; height:206px; background:url(/duo/service/img/circle_07.png) center top no-repeat; font-size:0;}
+#duofaq .cnt-type1 .circle8 {position:absolute; top:490px; left:270px; display:block; width:161px; height:161px; background:url(/duo/service/img/circle_08.png) center top no-repeat; font-size:0;}
+#duofaq .cnt-type1 .circle9 {position:absolute; top:490px; left:650px; display:block; width:179px; height:179px; background:url(/duo/service/img/circle_09.png) center top no-repeat; font-size:0;}
+#duofaq .cnt-type1 .circle10 {position:absolute; top:390px; left:885px; display:block; width:130px; height:130px; background:url(/duo/service/img/circle_10.png) center top no-repeat; font-size:0;}
+#duofaq .cnt-type1 .circle_item a { display:block; float:left; width:100%; height:100%; }
+
+#duofaq .cnt-type2 {height:125px; background:#26c3cc;}
+#duofaq .cnt-type2 .type2 {text-align:center;}
+#duofaq .cnt-type2 table td a {display:inline-block; width:148px; height:38px; border:1px solid #b9e8ec; font-size:14px; color:#ffffff; line-height:38px;}
+
+#duofaq .cnt-type3 {padding:0 0 100px 0;}
+#duofaq .cnt-type3 .type2 {height:513px; padding:100px 0 0 0;}
+#duofaq .cnt-type3 ul.tab {display:block; margin:0 auto; width:470px; height:55px;}
+#duofaq .cnt-type3 ul.tab li {float:left; width:233px; height:53px; background:#ffffff; border:1px solid #dddddd; font-size:18px; color:#000000; text-align:center; line-height:50px;}
+#duofaq .cnt-type3 ul.tab .on {background:#5a6078; border:1px solid #5a6078; color:#ffffff;}
+#duofaq .cnt-type3 ul.faq {clear:both; display:block; float:left; width:1120px; border-top:1px solid #555555; border-bottom:1px solid #555555;}
+#duofaq .cnt-type3 ul.faq li {display:block; float:left; padding:0 0 0 20px; width:540px; height:59px; background:url(/duo/service/img/faq_04.jpg) right center no-repeat; border-bottom:1px solid #dddddd; font-size:16px; color:#444444; line-height:56px;}
+
+#duofaq .cnt-type3 .q {display:block; margin:0 auto; width:1120px; padding:0 0 100px 0; overflow:hidden;}
+#duofaq .cnt-type3 .q h3 {position:static; visibility:visible; display:block; float:left; width:100%; height:44px; font-size:0;}
+#duofaq .cnt-type3 .q div {display:block; float:left; margin:35px 0 0 0; padding:40px 140px; width:840px; background:#ecfeff; font-size:16px; color:#000000; line-height:32px;}
+#duofaq .cnt-type3 .q div img {clear:both; display:block; margin:0 auto 35px;}
+#duofaq .cnt-type3 .q div .bold {font-weight:600;}
+#duofaq .cnt-type3 .q div .detail {clear:both; display:block; margin:0 auto; width:270px; height:52px; border:1px solid #cdcdcd; font-size:18px; color:#000000; text-align:center; line-height:49px;}
+#duofaq .cnt-type3 .q div .txt {display:block; float:left; width:100%; margin:0 0 35px 0; word-break:keep-all;}
+#duofaq .cnt-type3 .tenth div img {margin-bottom:0;}
+#duofaq .cnt-type3 .first h3 {background:url(/duo/service/img/faq_05.jpg) center center no-repeat;}
+#duofaq .cnt-type3 .second h3 {background:url(/duo/service/img/faq_06.jpg) center center no-repeat;}
+#duofaq .cnt-type3 .third h3 {background:url(/duo/service/img/faq_07.jpg) center center no-repeat;}
+#duofaq .cnt-type3 .fourth h3 {background:url(/duo/service/img/faq_08.jpg) center center no-repeat;}
+#duofaq .cnt-type3 .fifth h3 {background:url(/duo/service/img/faq_09.jpg) center center no-repeat;}
+#duofaq .cnt-type3 .sixth h3 {background:url(/duo/service/img/faq_10.jpg) center center no-repeat;}
+#duofaq .cnt-type3 .seventh h3 {background:url(/duo/service/img/faq_11.jpg) center center no-repeat;}
+#duofaq .cnt-type3 .eighth h3 {background:url(/duo/service/img/faq_12.jpg) center center no-repeat;}
+#duofaq .cnt-type3 .ninth h3 {background:url(/duo/service/img/faq_13.jpg) center center no-repeat;}
+#duofaq .cnt-type3 .tenth h3 {background:url(/duo/service/img/faq_14.jpg) center center no-repeat;}
+#duofaq .cnt-type3 .eleventh h3 {background:url(/duo/service/img/faq_15.jpg) center center no-repeat;}
+#duofaq .cnt-type3 .twelfth h3 {background:url(/duo/service/img/faq_16.jpg) center center no-repeat;}
+
+#duofaq .cnt-type4 {padding:0 0 100px 0;}
+#duofaq .cnt-type4 .type2 {padding:100px 0 0 0;}
+#duofaq .cnt-type4 ul.tab {display:block; margin:0 auto; width:470px; height:55px;}
+#duofaq .cnt-type4 ul.tab li {float:left; width:233px; height:53px; background:#ffffff; border:1px solid #dddddd; font-size:18px; color:#000000; text-align:center; line-height:50px;}
+#duofaq .cnt-type4 ul.tab .on {background:#5a6078; border:1px solid #5a6078; color:#ffffff;}
+#duofaq .cnt-type4 ul.faq {clear:both; display:block; float:left; width:1120px; border-top:1px solid #555555;}
+#duofaq .cnt-type4 ul.faq li {display:block; float:left; width:1120px;}
+#duofaq .cnt-type4 ul.faq li .q {display:block; float:left; width:1120px; height:59px; background:#f7f7f7; border-top:1px solid #dddddd; border-bottom:1px solid #dddddd; line-height:56px;}
+#duofaq .cnt-type4 ul.faq li .q .txt1 {display:block; float:left; width:60px; font-size:20px; color:#0093ac; text-align:center;}
+#duofaq .cnt-type4 ul.faq li .q .txt2 {display:block; float:left; width:1060px; font-size:16px; color:#444444;}
+#duofaq .cnt-type4 ul.faq li .q .txt2 span {color:#0093ac;}
+#duofaq .cnt-type4 ul.faq li .a {display:block; float:left; width:1120px; background:#ffffff; margin:30px 0 65px;}
+#duofaq .cnt-type4 ul.faq li .a .txt1 {display:block; float:left; width:60px; font-size:20px; color:#5a6078; text-align:center; line-height:32px;}
+#duofaq .cnt-type4 ul.faq li .a .txt2 {display:block; float:left; width:1060px; font-size:16px; color:#444444; line-height:32px;}
+
+
+
+
+
+#simulation {display:block; width:100%; min-width:1248px; padding:98px 0 0 0;}
+#simulation .temp {display:block; margin:0 auto; width:1248px; position:relative;}
+#simulation .temp .prev {position:absolute; left:0; top:400px; display:block; width:27px; height:52px; background:url(/duo/service/img/simulation/arrow_01.png) center top no-repeat; font-size:0;}
+#simulation .temp .next {position:absolute; right:0; top:400px; display:block; width:27px; height:52px; background:url(/duo/service/img/simulation/arrow_02.png) center top no-repeat; font-size:0;}
+#simulation .temp .step {position:absolute; left:561px; top:40px; width:126px; height:18px;}
+#simulation .temp .step div {display:block; float:left; width:18px; height:18px; background:url(/duo/service/img/simulation/step_off.png) center top no-repeat;}
+#simulation .temp .step .on {background:url(/duo/service/img/simulation/step_on.png) center top no-repeat;}
+
+#simulation .main {display:block; width:100%; min-width:1248px; height:717px; background:url(/duo/service/img/simulation/bg_01.jpg) center top no-repeat;}
+#simulation .main .temp {height:717px;}
+#simulation .main h2 {position:static; visibility:visible; display:block; float:left; margin:0 0 0 64px; width:560px; height:472px; background:url(/duo/service/img/simulation/simulation_01.png) center top no-repeat; font-size:0;}
+#simulation .main .start {clear:both; display:block; float:left; margin:0 0 0 64px; width:560px; height:69px; background:url(/duo/service/img/simulation/simulation_02.png) center top no-repeat; font-size:0;}
+
+#simulation .first {display:block; width:100%; min-width:1248px; height:818px; background:url(/duo/service/img/simulation/bg_02.jpg) center top no-repeat;}
+#simulation .first .temp {height:818px;}
+#simulation .first h2 {position:static; visibility:hidden; display:block; float:left; width:100%; height:345px; font-size:0;}
+#simulation .first .box {display:block; float:right; margin:0 64px 0 0; width:561px; height:286px;}
+#simulation .first .box h3 {position:static; visibility:hidden; display:block; float:left; width:100%; height:207px; font-size:0;}
+#simulation .first .box a {clear:both; display:block; float:left; margin:0 0 0 74px; width:163px; height:42px; font-size:0;}
+
+#simulation .second {display:block; width:100%; min-width:1248px; height:818px; background:url(/duo/service/img/simulation/bg_03.jpg) center top no-repeat;}
+#simulation .second .temp {height:818px;}
+#simulation .second h2 {position:static; visibility:hidden; display:block; float:left; width:100%; height:345px; font-size:0;}
+#simulation .second .box {display:block; float:right; margin:0 64px 0 0; width:561px; height:286px;}
+#simulation .second .box h3 {position:static; visibility:hidden; display:block; float:left; width:100%; height:197px; font-size:0;}
+#simulation .second .box a {clear:both; display:block; float:left; margin:0 0 0 74px; width:163px; height:42px; font-size:0;}
+
+#simulation .third {display:block; width:100%; min-width:1248px; height:867px; background:url(/duo/service/img/simulation/bg_04.jpg) center top no-repeat;}
+#simulation .third .temp {height:867px;}
+#simulation .third h2 {position:static; visibility:hidden; display:block; float:left; width:100%; height:230px; font-size:0;}
+#simulation .third h3 {position:static; visibility:hidden; display:block; float:left; width:100%; height:230px; font-size:0;}
+#simulation .third .box {display:block; float:right; margin:0 64px 0 0; width:561px; height:301px;}
+#simulation .third .box div {display:block; float:left; width:100%; height:212px; font-size:0;}
+#simulation .third .box a {clear:both; display:block; float:left; margin:0 0 0 74px; width:163px; height:42px; font-size:0;}
+
+#simulation .fourth {display:block; width:100%; min-width:1248px; height:892px; background:url(/duo/service/img/simulation/bg_05.jpg) center top no-repeat;}
+#simulation .fourth .temp {height:892px;}
+#simulation .fourth h2 {position:static; visibility:hidden; display:block; float:left; width:100%; height:254px; font-size:0;}
+#simulation .fourth h3 {position:static; visibility:hidden; display:block; float:left; width:100%; height:300px; font-size:0;}
+#simulation .fourth .box {display:block; float:right; margin:0 64px 0 0; width:561px; height:238px;}
+#simulation .fourth .box div {display:block; float:left; width:100%; height:162px; font-size:0;}
+#simulation .fourth .box a {clear:both; display:block; float:left; margin:0 0 0 64px; width:163px; height:42px; font-size:0;}
+
+#simulation .fifth {display:block; width:100%; min-width:1248px; height:832px; background:url(/duo/service/img/simulation/bg_06.jpg) center top no-repeat;}
+#simulation .fifth .temp {height:832px;}
+#simulation .fifth h2 {position:static; visibility:hidden; display:block; float:left; width:100%; height:290px; font-size:0;}
+#simulation .fifth h3 {position:static; visibility:hidden; display:block; float:left; width:100%; height:234px; font-size:0;}
+#simulation .fifth .box {display:block; float:right; margin:0 64px 0 0; width:561px; height:218px;}
+#simulation .fifth .box div {display:block; float:left; width:100%; height:142px; font-size:0;}
+#simulation .fifth .box a {clear:both; display:block; float:left; margin:0 0 0 64px; width:163px; height:42px; font-size:0;}
+
+#simulation .sixth {display:block; width:100%; min-width:1248px; height:867px; background:url(/duo/service/img/simulation/bg_07.jpg) center top no-repeat;}
+#simulation .sixth .temp {height:867px;}
+#simulation .sixth h2 {position:static; visibility:hidden; display:block; float:left; width:100%; height:280px; font-size:0;}
+#simulation .sixth h3 {position:static; visibility:hidden; display:block; float:left; width:100%; height:200px; font-size:0;}
+#simulation .sixth .box {display:block; float:right; margin:0 64px 0 0; width:561px; height:301px;}
+#simulation .sixth .box div {display:block; float:left; width:100%; height:212px; font-size:0;}
+#simulation .sixth .box a {clear:both; display:block; float:left; margin:0 0 0 64px; width:163px; height:42px; font-size:0;}
+
+#simulation .seventh {display:block; width:100%; min-width:1248px; height:867px; background:url(/duo/service/img/simulation/bg_08.jpg) center top no-repeat;}
+#simulation .seventh .temp {height:867px;}
+#simulation .seventh h2 {position:static; visibility:hidden; display:block; float:left; width:100%; height:364px; font-size:0;}
+#simulation .seventh h3 {position:static; visibility:hidden; display:block; float:left; width:100%; height:200px; font-size:0;}
+#simulation .seventh .box {display:block; float:right; margin:0 64px 0 0; width:561px; height:249px;}
+#simulation .seventh .box .couple {display:block; float:left; width:100%; height:166px; color:#ffffff;}
+#simulation .seventh .box .couple .count {display:block; float:left; margin:35px 0 0 56px; width:507px; font-size:26px; line-height:38px;}
+#simulation .seventh .box .couple .day {display:block; float:left; margin:10px 0 0 58px; width:507px; font-size:14px;}
+#simulation .seventh .box a {clear:both; display:block; float:left; margin:0 0 0 64px; width:163px; height:42px; font-size:0;}
+
+
+
+
+
+
+

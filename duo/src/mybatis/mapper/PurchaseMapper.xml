@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<!DOCTYPE mapper
+PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd"> 
+<mapper namespace="mybatis.mapper.PurchaseMapper"> 
+<insert id="insertPurchase" parameterType="Purchase"> 
+insert into duopurchase(p_no, p_id, p_rank, p_date)
+values(purchase_seq.nextval,#{pId},#{pRank}, sysdate)
+</insert> 
+<select id="selectAll" parameterType="hashMap" resultType="Integer"> 
+select count(*)
+from duoPurchase
+<where>
+		p_id=#{pId} 
+	and p_date > sysdate-(interval '1' year)
+</where>
+</select>
+ <select id="selectPay" parameterType="hashmap" resultType="purchase">
+
+ select p.p_id, p.p_rank, p.p_stat, p.p_date, m.m_name
+ from duoPurchase p, duoMember m
+ <where>
+ 	<if test="pId!=null">
+ 		p.p_id = m.m_id and  p.p_id = #{pId}
+ 	</if>
+ </where> <!-- 동적 쿼리 where -->
+ order by p_date 
+ </select>
+  <update id="updateMember" parameterType="hashmap">
+ UPDATE duomember
+ SET m_rank=#{pRank},m_heart=7
+ where m_id = #{pId}   
+ </update> 
+</mapper>
