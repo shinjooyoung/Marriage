@@ -6,8 +6,13 @@
 
 
 
+
+
 ### * 회원등급 서비스 안내
 ![1](https://user-images.githubusercontent.com/32383284/43457969-5f59358a-9503-11e8-8833-a554a5b12441.PNG)
+
+
+
 
 
 
@@ -20,9 +25,15 @@
 ![4](https://user-images.githubusercontent.com/32383284/43458053-bdce02da-9503-11e8-97a0-e9720cb0a7b8.PNG)
 
 
+
+
+
 ### * 성별 선택
 ### * 성별에 따른 페이지 이동
 ![4](https://user-images.githubusercontent.com/32383284/43458053-bdce02da-9503-11e8-97a0-e9720cb0a7b8.PNG)
+
+
+
 
 
 
@@ -35,8 +46,14 @@
 
 
 
+
+
+
 ### * 선택한 조건에 따라 가입돼 있는 이성 표시
 ![5-4](https://user-images.githubusercontent.com/32383284/43458223-5ed42600-9504-11e8-94a7-c8fe3e937d9b.PNG)
+
+
+
 
 
 
@@ -48,6 +65,9 @@
 
 
 
+
+
+
 ### * 마이페이지
 ### * 결제 내역과 신청내역, 대기중 내역, 하트 받은내역 확인 가능
 ### * 하트 보낸 회원 이름 클릭시 상세 정보와 수락 / 거절 선택 가능
@@ -55,6 +75,9 @@
 ![default](https://user-images.githubusercontent.com/32383284/43458402-247a3066-9505-11e8-865b-b202ef577e1a.PNG)
 ![default](https://user-images.githubusercontent.com/32383284/43458407-26e275fc-9505-11e8-8dc6-da8fb9cf4bb9.PNG)
 ![2](https://user-images.githubusercontent.com/32383284/43458598-bd0cad68-9505-11e8-93cf-4f13fc34f64c.PNG)
+
+
+
 
 
 
