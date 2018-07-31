@@ -20,10 +20,6 @@
 ![3](https://user-images.githubusercontent.com/32383284/43458005-845ebb52-9503-11e8-9ed9-19c406b76739.PNG)
 
 
-### * 성별 선택
-### * 성별에 따른 페이지 이동
-![4](https://user-images.githubusercontent.com/32383284/43458053-bdce02da-9503-11e8-97a0-e9720cb0a7b8.PNG)
-
 
 
 
