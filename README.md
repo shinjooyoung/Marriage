@@ -60,5 +60,5 @@
 
 
 ### * 매칭 완료 회원 이름 클릭시 전화번호 포함 상세정보 확인 가능
-![3](https://user-images.githubusercontent.com/32383284/43458624-db46f482-9505-11e8-85a7-07f248ef4439.PNG)
+![3](https://user-images.githubusercontent.com/32383284/43458993-0936536e-9507-11e8-8543-27c7caeab6ee.PNG)
 
